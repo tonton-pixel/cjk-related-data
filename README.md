@@ -1,3 +1,3 @@
-# CJK Related Data
+# CJK-Related Data Files
 
 Work in progress...
