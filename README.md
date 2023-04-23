@@ -14,6 +14,6 @@ ___\*\* Work in Progress \*\*___
 | **Radical** | Equivalent CJK characters of CJK radicals | KangXi radical followed by CJK radicals |
 | **Repeated** | Repeated components of CJK characters | Ordered by repetition factor |
 | **Series** | Series of CJK characters | Ordered logically |
-| **Shinjitai/Kyūjitai** | Japanese simplified and traditional CJK characters | Ordered by stroke count |
-| **Simplified/Traditional** | Chinese simplified and traditional CJK characters | Ordered by stroke count |
+| **Shinjitai-Kyūjitai** | Japanese simplified and traditional CJK characters | Ordered by stroke count |
+| **Simplified-Traditional** | Chinese simplified and traditional CJK characters | Ordered by stroke count |
 | **Unifiable** | Unifiable CJK characters | IRG-provided UCV lists plus provisional extensions |
