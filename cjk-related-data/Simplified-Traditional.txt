@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-04-24T08:28:21.028Z
+# Date: 2023-04-24T08:50:52.920Z
 
 # Group: 广・廣
 U+5E7F U+5EE3
@@ -697,7 +697,6 @@ U+312F4 U+4D50
 
 # Group: 贝・貝
 U+8D1D U+8C9D
-
 U+8D4D U+8CEB
 U+8D24 U+4768 U+8CE2
 U+2B8B2 U+20366 U+2B8F4
@@ -735,7 +734,6 @@ U+318DE U+235FC
 
 # Group: 页・頁
 U+9875 U+9801
-
 U+9888 U+9838
 U+2B5B2 U+4ADF
 U+98A0 U+985B
@@ -748,10 +746,8 @@ U+2C9DA U+28200
 # Group: 责・責
 U+8D23 U+8CAC
 
-
 # Group: 贵・貴
 U+8D35 U+8CB4
-
 
 # Group: 见・見
 U+89C1 U+898B
@@ -901,7 +897,6 @@ U+2B938 U+375F
 # Group: 虚・虛
 U+865A U+865B
 
-
 # Group: 𫠣・柬
 U+2B823 U+67EC
 U+62E3 U+63C0
@@ -959,7 +954,6 @@ U+836F U+85E5
 
 # Group: 车・車
 U+8F66 U+8ECA
-
 U+30E8E U+8F2B
 U+8F88 U+8F29
 U+8F7D U+8F09
@@ -2231,7 +2225,6 @@ U+31FE1 U+2E543
 # Group: 黄・黃
 U+9EC4 U+9EC3
 
-
 # Group: 旧・舊
 U+65E7 U+820A
 U+2BA65 U+56BF
@@ -2362,7 +2355,6 @@ U+25E87 U+25F56
 
 # Group: 讠・訁・言
 U+8BA0 U+8A01 U+8A00
-
 U+2C92C U+471D
 
 # Group: 阳・陽
@@ -2414,7 +2406,6 @@ U+8D4D U+9F4E
 
 # Group: 并・並
 U+5E76 U+4E26
-
 
 # Group: 会・會
 U+4F1A U+6703
@@ -3504,7 +3495,6 @@ U+31CAE U+407A
 
 # Group: 亚・亞
 U+4E9A U+4E9E
-
 U+6076 U+60E1
 U+2ADAE U+23F4F
 U+2BAC7 U+5641
@@ -3773,7 +3763,6 @@ U+2B11D U+25FAF
 U+2B11E U+42D4
 U+2B11F U+7D41
 U+2B120 U+7D59
-
 U+30B15 U+42DD
 
 # Group: 㢆・廛
@@ -3942,7 +3931,6 @@ U+3236F U+2CDDF
 
 # Group: 鱼・魚
 U+9C7C U+9B5A
-
 U+2CDBB U+29F77
 
 # Group: 鲁・魯
@@ -3961,7 +3949,6 @@ U+31FA2 U+27026
 
 # Group: 马・馬
 U+9A6C U+99AC
-
 U+9AA1 U+9A3E
 
 # Group: ・

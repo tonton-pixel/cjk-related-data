@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-04-24T08:28:21.027Z
+# Date: 2023-04-24T08:50:52.919Z
 
 # Group: Compatibility
 U+6B04 U+F91D
@@ -98,13 +98,11 @@ U+52E7 U+52F8
 U+6B53 U+6B61
 U+89B3 U+89C0
 
-
 # Group: 缶・罐
 U+7F36 U+7F50
 
 # Group: 虚・虛
 U+865A U+865B
-
 
 # Group: 与・與
 U+4E0E U+8207
@@ -232,7 +230,6 @@ U+8AAD U+8B80
 # Group: 研・硏
 U+7814 U+784F
 
-
 # Group: 緒・緖
 U+7DD2 U+7DD6
 
@@ -298,7 +295,6 @@ U+4ECF U+4F5B
 # Group: 黄・黃
 U+9EC4 U+9EC3
 
-
 # Group: 旧・舊
 U+65E7 U+820A
 
@@ -327,7 +323,6 @@ U+2DC8D U+2DCEF
 
 # Group: 並・竝
 U+4E26 U+7ADD
-
 
 # Group: 会・會
 U+4F1A U+6703
@@ -526,7 +521,6 @@ U+2BAD6 U+5641
 U+2AC25 U+30590
 U+2BC2B U+5A6D
 U+2C0B2 U+690F
-
 
 # Group: 尭・堯
 U+5C2D U+582F
