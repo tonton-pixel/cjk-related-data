@@ -1,0 +1,647 @@
+
+# File: Radical.txt
+# Date: 2023-04-24T08:28:21.024Z
+
+# Group: 1 ⼀ (One)
+U+4E00
+
+# Group: 2 ⼁ (Line)
+U+4E28
+
+# Group: 3 ⼂ (Dot)
+U+4E36
+
+# Group: 4 ⼃ (Slash)
+U+4E3F
+
+# Group: 5 ⼄ (Second)
+U+4E59 U+4E5B U+4E5A
+
+# Group: 6 ⼅ (Hook)
+U+4E85
+
+# Group: 7 ⼆ (Two)
+U+4E8C U+2011E
+
+# Group: 8 ⼇ (Lid)
+U+4EA0
+
+# Group: 9 ⼈ (Man)
+U+4EBA U+201A2 U+4EBB
+
+# Group: 10 ⼉ (Legs)
+U+513F
+
+# Group: 11 ⼊ (Enter)
+U+5165
+
+# Group: 12 ⼋ (Eight)
+U+516B U+4E37
+
+# Group: 13 ⼌ (Down Box)
+U+5182
+
+# Group: 14 ⼍ (Cover)
+U+5196
+
+# Group: 15 ⼎ (Ice)
+U+51AB
+
+# Group: 16 ⼏ (Table)
+U+51E0 U+20627 U+20628
+
+# Group: 17 ⼐ (Open Box)
+U+51F5
+
+# Group: 18 ⼑ (Knife)
+U+5200 U+2008A U+5202
+
+# Group: 19 ⼒ (Power)
+U+529B
+
+# Group: 20 ⼓ (Wrap)
+U+52F9
+
+# Group: 21 ⼔ (Spoon)
+U+5315
+
+# Group: 22 ⼕ (Right Open Box)
+U+531A
+
+# Group: 23 ⼖ (Hiding Enclosure)
+U+5338
+
+# Group: 24 ⼗ (Ten)
+U+5341 U+2C09B
+
+# Group: 25 ⼘ (Divination)
+U+535C
+
+# Group: 26 ⼙ (Seal)
+U+5369 U+353E
+
+# Group: 27 ⼚ (Cliff)
+U+5382 U+20086
+
+# Group: 28 ⼛ (Private)
+U+53B6
+
+# Group: 29 ⼜ (Again)
+U+53C8
+
+# Group: 30 ⼝ (Mouth)
+U+53E3
+
+# Group: 31 ⼞ (Enclosure)
+U+56D7
+
+# Group: 32 ⼟ (Earth)
+U+571F
+
+# Group: 33 ⼠ (Scholar)
+U+58EB
+
+# Group: 34 ⼡ (Go)
+U+5902
+
+# Group: 35 ⼢ (Go Slowly)
+U+590A
+
+# Group: 36 ⼣ (Evening)
+U+5915
+
+# Group: 37 ⼤ (Big)
+U+5927
+
+# Group: 38 ⼥ (Woman)
+U+5973
+
+# Group: 39 ⼦ (Child)
+U+5B50 U+5B51
+
+# Group: 40 ⼧ (Roof)
+U+5B80
+
+# Group: 41 ⼨ (Inch)
+U+5BF8
+
+# Group: 42 ⼩ (Small)
+U+5C0F U+21B54 U+2D544
+
+# Group: 43 ⼪ (Lame)
+U+5C22 U+21BC1 U+5140 U+5C23 U+21BC2
+
+# Group: 44 ⼫ (Corpse)
+U+5C38
+
+# Group: 45 ⼬ (Sprout)
+U+5C6E U+4DB9
+
+# Group: 46 ⼭ (Mountain)
+U+5C71
+
+# Group: 47 ⼮ (River)
+U+5DDB U+5DDD
+
+# Group: 48 ⼯ (Work)
+U+5DE5
+
+# Group: 49 ⼰ (Oneself)
+U+5DF1 U+5DF2 U+5DF3
+
+# Group: 50 ⼱ (Turban)
+U+5DFE
+
+# Group: 51 ⼲ (Dry)
+U+5E72
+
+# Group: 52 ⼳ (Short Thread)
+U+5E7A
+
+# Group: 53 ⼴ (Dotted Cliff)
+U+5E7F
+
+# Group: 54 ⼵ (Long Stride)
+U+5EF4
+
+# Group: 55 ⼶ (Two Hands)
+U+5EFE
+
+# Group: 56 ⼷ (Shoot)
+U+5F0B
+
+# Group: 57 ⼸ (Bow)
+U+5F13
+
+# Group: 58 ⼹ (Snout)
+U+5F50 U+5F51 U+2B739
+
+# Group: 59 ⼺ (Bristle)
+U+5F61
+
+# Group: 60 ⼻ (Step)
+U+5F73
+
+# Group: 61 ⼼ (Heart)
+U+5FC3 U+5FC4 U+38FA
+
+# Group: 62 ⼽ (Halberd)
+U+6208
+
+# Group: 63 ⼾ (Door)
+U+6236
+
+# Group: 64 ⼿ (Hand)
+U+624B U+624C
+
+# Group: 65 ⽀ (Branch)
+U+652F
+
+# Group: 66 ⽁ (Rap)
+U+6534 U+6535
+
+# Group: 67 ⽂ (Script)
+U+6587
+
+# Group: 68 ⽃ (Dipper)
+U+6597
+
+# Group: 69 ⽄ (Axe)
+U+65A4
+
+# Group: 70 ⽅ (Square)
+U+65B9
+
+# Group: 71 ⽆ (Not)
+U+65E0 U+65E1
+
+# Group: 72 ⽇ (Sun)
+U+65E5 U+5183
+
+# Group: 73 ⽈ (Say)
+U+66F0
+
+# Group: 74 ⽉ (Moon)
+U+6708
+
+# Group: 75 ⽊ (Tree)
+U+6728 U+6729
+
+# Group: 76 ⽋ (Lack)
+U+6B20
+
+# Group: 77 ⽌ (Stop)
+U+6B62
+
+# Group: 78 ⽍ (Death)
+U+6B79 U+6B7A
+
+# Group: 79 ⽎ (Weapon)
+U+6BB3
+
+# Group: 80 ⽏ (Do Not)
+U+6BCB U+6BCD
+
+# Group: 81 ⽐ (Compare)
+U+6BD4
+
+# Group: 82 ⽑ (Fur)
+U+6BDB
+
+# Group: 83 ⽒ (Clan)
+U+6C0F U+6C11
+
+# Group: 84 ⽓ (Steam)
+U+6C14
+
+# Group: 85 ⽔ (Water)
+U+6C34 U+6C35 U+6C3A
+
+# Group: 86 ⽕ (Fire)
+U+706B U+706C
+
+# Group: 87 ⽖ (Claw)
+U+722A U+722B
+
+# Group: 88 ⽗ (Father)
+U+7236
+
+# Group: 89 ⽘ (Double X)
+U+723B
+
+# Group: 90 ⽙ (Half Tree Trunk)
+U+723F U+4E2C
+
+# Group: 91 ⽚ (Slice)
+U+7247
+
+# Group: 92 ⽛ (Fang)
+U+7259
+
+# Group: 93 ⽜ (Cow)
+U+725B U+725C U+20092
+
+# Group: 94 ⽝ (Dog)
+U+72AC U+72AD
+
+# Group: 95 ⽞ (Profound)
+U+7384
+
+# Group: 96 ⽟ (Jade)
+U+7389 U+738B U+248E9
+
+# Group: 97 ⽠ (Melon)
+U+74DC
+
+# Group: 98 ⽡ (Tile)
+U+74E6
+
+# Group: 99 ⽢ (Sweet)
+U+7518
+
+# Group: 100 ⽣ (Life)
+U+751F
+
+# Group: 101 ⽤ (Use)
+U+7528
+
+# Group: 102 ⽥ (Field)
+U+7530
+
+# Group: 103 ⽦ (Bolt of Cloth)
+U+758B U+24D14
+
+# Group: 104 ⽧ (Sickness)
+U+7592
+
+# Group: 105 ⽨ (Dotted Tent)
+U+7676
+
+# Group: 106 ⽩ (White)
+U+767D
+
+# Group: 107 ⽪ (Skin)
+U+76AE
+
+# Group: 108 ⽫ (Dish)
+U+76BF
+
+# Group: 109 ⽬ (Eye)
+U+76EE U+7F52
+
+# Group: 110 ⽭ (Spear)
+U+77DB
+
+# Group: 111 ⽮ (Arrow)
+U+77E2
+
+# Group: 112 ⽯ (Stone)
+U+77F3
+
+# Group: 113 ⽰ (Spirit)
+U+793A U+793B
+
+# Group: 114 ⽱ (Track)
+U+79B8
+
+# Group: 115 ⽲ (Grain)
+U+79BE
+
+# Group: 116 ⽳ (Cave)
+U+7A74
+
+# Group: 117 ⽴ (Stand)
+U+7ACB
+
+# Group: 118 ⽵ (Bamboo)
+U+7AF9 U+25AD7
+
+# Group: 119 ⽶ (Rice)
+U+7C73
+
+# Group: 120 ⽷ (Silk)
+U+7CF8 U+7CF9 U+7E9F
+
+# Group: 121 ⽸ (Jar)
+U+7F36
+
+# Group: 122 ⽹ (Net)
+U+7F51 U+7F53 U+7F52 U+26270 U+34C1 U+5197 U+2626B
+
+# Group: 123 ⽺ (Sheep)
+U+7F8A U+2634C U+2634B
+
+# Group: 124 ⽻ (Feather)
+U+7FBD
+
+# Group: 125 ⽼ (Old)
+U+8001 U+8002
+
+# Group: 126 ⽽ (And)
+U+800C
+
+# Group: 127 ⽾ (Plow)
+U+8012
+
+# Group: 128 ⽿ (Ear)
+U+8033
+
+# Group: 129 ⾀ (Brush)
+U+807F U+8080
+
+# Group: 130 ⾁ (Meat)
+U+8089
+
+# Group: 131 ⾂ (Minister)
+U+81E3
+
+# Group: 132 ⾃ (Self)
+U+81EA
+
+# Group: 133 ⾄ (Arrive)
+U+81F3
+
+# Group: 134 ⾅ (Mortar)
+U+81FC U+26951
+
+# Group: 135 ⾆ (Tongue)
+U+820C
+
+# Group: 136 ⾇ (Oppose)
+U+821B
+
+# Group: 137 ⾈ (Boat)
+U+821F
+
+# Group: 138 ⾉ (Stopping)
+U+826E
+
+# Group: 139 ⾊ (Color)
+U+8272
+
+# Group: 140 ⾋ (Grass)
+U+8278 U+8279
+
+# Group: 141 ⾌ (Tiger)
+U+864D U+864E
+
+# Group: 142 ⾍ (Insect)
+U+866B
+
+# Group: 143 ⾎ (Blood)
+U+8840
+
+# Group: 144 ⾏ (Walk Enclosure)
+U+884C
+
+# Group: 145 ⾐ (Clothes)
+U+8863 U+8864
+
+# Group: 146 ⾑ (West)
+U+897E U+8980 U+897F
+
+# Group: 147 ⾒ (See)
+U+898B U+89C1
+
+# Group: 148 ⾓ (Horn)
+U+89D2 U+278B2
+
+# Group: 149 ⾔ (Speech)
+U+8A00 U+8A01 U+8BA0
+
+# Group: 150 ⾕ (Valley)
+U+8C37
+
+# Group: 151 ⾖ (Bean)
+U+8C46
+
+# Group: 152 ⾗ (Pig)
+U+8C55
+
+# Group: 153 ⾘ (Badger)
+U+8C78
+
+# Group: 154 ⾙ (Shell)
+U+8C9D U+8D1D
+
+# Group: 155 ⾚ (Red)
+U+8D64
+
+# Group: 156 ⾛ (Run)
+U+8D70
+
+# Group: 157 ⾜ (Foot)
+U+8DB3 U+27FB7
+
+# Group: 158 ⾝ (Body)
+U+8EAB
+
+# Group: 159 ⾞ (Cart)
+U+8ECA U+8F66
+
+# Group: 160 ⾟ (Bitter)
+U+8F9B
+
+# Group: 161 ⾠ (Morning)
+U+8FB0
+
+# Group: 162 ⾡ (Walk)
+U+8FB5 U+8FB6
+
+# Group: 163 ⾢ (City)
+U+9091 U+961D
+
+# Group: 164 ⾣ (Wine)
+U+9149
+
+# Group: 165 ⾤ (Distinguish)
+U+91C6
+
+# Group: 166 ⾥ (Village)
+U+91CC
+
+# Group: 167 ⾦ (Gold)
+U+91D1 U+91D2 U+9485
+
+# Group: 168 ⾧ (Long)
+U+9577 U+9578 U+957F
+
+# Group: 169 ⾨ (Gate)
+U+9580 U+95E8
+
+# Group: 170 ⾩ (Mound)
+U+961C U+28E0F U+961D
+
+# Group: 171 ⾪ (Slave)
+U+96B6
+
+# Group: 172 ⾫ (Short Tailed Bird)
+U+96B9
+
+# Group: 173 ⾬ (Rain)
+U+96E8
+
+# Group: 174 ⾭ (Blue)
+U+9751 U+9752
+
+# Group: 175 ⾮ (Wrong)
+U+975E
+
+# Group: 176 ⾯ (Face)
+U+9762
+
+# Group: 177 ⾰ (Leather)
+U+9769
+
+# Group: 178 ⾱ (Tanned Leather)
+U+97CB U+97E6
+
+# Group: 179 ⾲ (Leek)
+U+97ED
+
+# Group: 180 ⾳ (Sound)
+U+97F3
+
+# Group: 181 ⾴ (Leaf)
+U+9801 U+9875
+
+# Group: 182 ⾵ (Wind)
+U+98A8 U+98CE
+
+# Group: 183 ⾶ (Fly)
+U+98DB U+98DE
+
+# Group: 184 ⾷ (Eat)
+U+98DF U+2967F U+98E0 U+9963
+
+# Group: 185 ⾸ (Head)
+U+9996 U+29810
+
+# Group: 186 ⾹ (Fragrant)
+U+9999
+
+# Group: 187 ⾺ (Horse)
+U+99AC U+9A6C
+
+# Group: 188 ⾻ (Bone)
+U+9AA8
+
+# Group: 189 ⾼ (Tall)
+U+9AD8
+
+# Group: 190 ⾽ (Hair)
+U+9ADF
+
+# Group: 191 ⾾ (Fight)
+U+9B25
+
+# Group: 192 ⾿ (Sacrificial Wine)
+U+9B2F
+
+# Group: 193 ⿀ (Cauldron)
+U+9B32
+
+# Group: 194 ⿁ (Ghost)
+U+9B3C
+
+# Group: 195 ⿂ (Fish)
+U+9B5A U+9C7C
+
+# Group: 196 ⿃ (Bird)
+U+9CE5 U+9E1F
+
+# Group: 197 ⿄ (Salt)
+U+9E75 U+5364
+
+# Group: 198 ⿅ (Deer)
+U+9E7F
+
+# Group: 199 ⿆ (Wheat)
+U+9EA5 U+9EA6
+
+# Group: 200 ⿇ (Hemp)
+U+9EBB
+
+# Group: 201 ⿈ (Yellow)
+U+9EC3 U+9EC4
+
+# Group: 202 ⿉ (Millet)
+U+9ECD
+
+# Group: 203 ⿊ (Black)
+U+9ED1
+
+# Group: 204 ⿋ (Embroidery)
+U+9EF9
+
+# Group: 205 ⿌ (Frog)
+U+9EFD U+9EFE
+
+# Group: 206 ⿍ (Tripod)
+U+9F0E
+
+# Group: 207 ⿎ (Drum)
+U+9F13
+
+# Group: 208 ⿏ (Rat)
+U+9F20
+
+# Group: 209 ⿐ (Nose)
+U+9F3B
+
+# Group: 210 ⿑ (Even)
+U+9F4A U+6589 U+9F50
+
+# Group: 211 ⿒ (Tooth)
+U+9F52 U+6B6F U+9F7F
+
+# Group: 212 ⿓ (Dragon)
+U+9F8D U+7ADC U+9F99
+
+# Group: 213 ⿔ (Turtle)
+U+9F9C U+4E80 U+9F9F
+
+# Group: 214 ⿕ (Flute)
+U+9FA0
+
+# EOF

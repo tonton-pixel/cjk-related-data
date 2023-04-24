@@ -1,0 +1,196 @@
+
+# File: Parts.txt
+# Date: 2023-04-24T08:28:21.024Z
+
+# Group: 𠁣・𠃛・門
+U+20063 U+200DB U+9580
+
+# Group: 𩰋・𩰊・鬥
+U+29C0B U+29C0A U+9B25
+
+# Group: 𰛄・𰛅・水
+U+306C4 U+306C5 U+6C34
+U+2844E U+2847E
+
+# Group: 𣱱・水
+U+23C71 U+6C34
+
+# Group: 𰍧・𰍨・小
+U+30367 U+30368 U+5C0F
+
+# Group: 𬻍・𬻌・東
+U+2CECD U+2CECC U+6771
+
+# Group: 𭾛・貞
+U+2DF9B U+8C9E
+
+# Group: 乒・乓・兵
+U+4E52 U+4E53 U+5175
+U+318D3 U+68B9
+
+# Group: 𠀗・𠀖・共
+U+20017 U+20016 U+5171
+
+# Group: 𠀫・𠀪・其
+U+2002B U+2002A U+5176
+
+# Group: 禃・𥛄・禛
+U+7983 U+256C4 U+799B
+
+# Group: 㱐・武
+U+3C50 U+6B66
+
+# Group: 𫯛・夭
+U+2BBDB U+592D
+
+# Group: 𥝌・禾
+U+2574C U+79BE
+U+28BBA U+9459
+
+# Group: 𢩺・托
+U+22A7A U+6258
+
+# Group: 𡉅・𡉆・𠮷
+U+21245 U+21246 U+20BB7
+
+# Group: 𧥛・𧥜・言
+U+2795B U+2795C U+8A00
+
+# Group: 𣏼・某
+U+233FC U+67D0
+U+23DDE U+6E48
+U+2672A U+815C
+U+27A5C U+8B00
+U+2808F U+30E1C
+U+29E0F U+29E6E
+U+2D4F5 U+30347
+U+30C52 U+26CD1
+
+# Group: 𨈐・𨈑・身
+U+28210 U+28211 U+8EAB
+
+# Group: 冇・𠕆・有
+U+5187 U+20546 U+6709
+U+31972 U+6D27
+U+2A8B9 U+30266
+U+2D064 U+2D06C U+305C8
+
+# Group: 𡛱・娟
+U+216F1 U+5A1F
+
+# Group: 𠂚・乔
+U+2009A U+4E54
+
+# Group: 𥾔・納
+U+25F94 U+7D0D
+
+# Group: 齐・斉
+U+9F50 U+6589
+U+4FAA U+346A
+U+6324 U+3A08
+U+5242 U+5264
+U+6D4E U+6E08
+U+8360 U+8415
+U+8110 U+2671D
+U+8DFB U+2808B
+U+2CBC0 U+2B545
+U+9701 U+2CC01
+U+2BE8A U+2D75A
+
+# Group: 𦙍・胤
+U+2664D U+80E4
+
+# Group: 𠔾・舟
+U+2053E U+821F
+
+# Group: 𢖩・心
+U+225A9 U+5FC3
+
+# Group: 厯・𢟍
+U+53AF U+227CD
+
+# Group: 𠪱・𠪾
+U+20AB1 U+20ABE
+
+# Group: 𬼫・惢
+U+2CF2B U+60E2
+
+# Group: 𪩲・朿
+U+2AA72 U+673F
+U+216F7 U+2A971
+U+22F0B U+6547
+U+23408 U+681C
+U+239E8 U+23A01
+U+26B44 U+8326
+U+27825 U+27835
+U+28498 U+284AA
+U+28973 U+28989
+U+2C889 U+2C88D
+U+26965 U+30581
+
+# Group: 𠂙・耒
+U+20099 U+8012
+
+# Group: 𠬵・𥸩
+U+20B35 U+25E29
+
+# Group: 𣏁・杲
+U+233C1 U+6772
+
+# Group: 𭕿・䖝
+U+2D57F U+459D
+
+# Group: 𫡏・攵
+U+2B84F U+6535
+
+# Group: 𫝄・久
+U+2B744 U+4E45
+
+# Group: 𰭧・老
+U+30B67 U+8001
+
+# Group: 𦨊・𦨎
+U+26A0A U+26A0E
+
+# Group: 𠃏・比
+U+200CF U+6BD4
+U+26AF7 U+8298
+U+26B81 U+26C19
+
+# Group: 𦯺・菨
+U+26BFA U+83E8
+
+# Group: 𰀆・立
+U+30006 U+7ACB
+
+# Group: 𦭱・莘
+U+26B71 U+8398
+
+# Group: 𬺱・木
+U+2CEB1 U+6728
+
+# Group: 𧦶・話
+U+279B6 U+8A71
+
+# Group: 𩁾・雭
+U+2907E U+96ED
+
+# Group: 𤣥・玄
+U+248E5 U+7384
+
+# Group: 𢎞・弘
+U+2239E U+5F18
+
+# Group: 𢆯・糸
+U+221AF U+7CF8
+U+200B3 U+25F9C
+U+20B2F U+20B39
+U+221BD U+7D17
+U+221CA U+7DA4
+U+221CB U+42F5
+U+223BA U+223DB
+
+# Group: 𨸏・↔𨸏
+U+28E0F U+28E85
+
+# EOF

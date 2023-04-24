@@ -1,0 +1,75 @@
+
+# File: Series.txt
+# Date: 2023-04-24T08:28:21.027Z
+
+# Group: 口…
+U+53E3 U+65E5 U+76EE
+U+53E3 U+2BA4F U+7F52
+
+# Group: 𠔼…
+U+2053C U+5183
+
+# Group: 𠙵…
+U+20675 U+24BBA
+
+# Group: 廿…
+U+5EFF U+7518
+
+# Group: 𠀃…
+U+20003 U+20007 U+4E14
+
+# Group: 白…
+U+767D U+81EA
+
+# Group: 𫩑…
+U+2BA51 U+767E U+268FB
+
+# Group: 𫜹…
+U+2B739 U+2CEB9
+
+# Group: 山…
+U+5C71 U+2D588
+
+# Group: 一…
+U+4E00 U+4E8C U+4E09 U+4E96
+
+# Group: 丞…
+U+4E1E U+2012A
+
+# Group: 𭚟…
+U+2D69F U+5F10
+
+# Group: 弌…
+U+5F0C U+5F0D U+5F0E
+
+# Group: 𡗓…
+U+215D3 U+5933
+
+# Group: 辷…
+U+8FB7 U+2CA1C U+2E781
+
+# Group: 肀…
+U+8080 U+26612 U+807F
+
+# Group: 𠄧…
+U+20127 U+20027
+
+# Group: 辻…
+U+8FBB U+284B9 U+8FC1 U+8FC8
+
+# Group: Hydrogen Isotopes
+U+6C15 U+6C18 U+6C1A
+
+# Group: 米 (Meter)
+U+7C86 U+7C8D U+7CCE U+7C89 U+7C73 U+7C75 U+7CA8 U+7C81
+
+# Group: 立 (Liter)
+U+7AD7 U+7AD3 U+7AF0 U+7AD5 U+7ACB U+7ACD U+7AE1 U+7ACF
+
+# Group: 瓦 (Gram)
+U+74F1 U+7505 U+74F0 U+74E6 U+74E7 U+74F8 U+74E9 U+74F2
+
+# Group: Gongche Notation
+U+2A6D7 U+2A6D8 U+2A6D9 U+2A6DA U+2A6DB U+2A6DC U+2A6DD
+
+# EOF

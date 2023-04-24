@@ -1,0 +1,326 @@
+
+# File: Duplicate.txt
+# Date: 2023-04-24T08:28:21.020Z
+
+# Group: ⿱品山
+U+55A6 U+5D52
+
+# Group: ⿸耳乚
+U+8034 U+2652E
+
+# Group: ⿱全⿰⿰匚丿⿰丨
+U+20306 U+204F3
+
+# Group: ⿱天虫
+U+8695 U+27255
+
+# Group: ⿰忄慼
+U+277B0 U+2D7CD
+
+# Group: ⿱𮅕巳
+U+7BF9 U+25CBB
+
+# Group: ⿱⿰己己共
+U+5DFD U+22049
+
+# Group: ⿰己阝
+U+9094 U+2866C
+
+# Group: ⿵冂㐅
+U+5188 U+7F53
+
+# Group: ⿻一
+U+5F50 U+2B739
+
+# Group: ⿰忄麼
+U+61E1 U+228D7
+
+# Group: ⿺辶𦬸
+U+8481 U+26CEF
+
+# Group: ⿱艹睽
+U+85C8 U+26FE1
+
+# Group: ⿺走斗
+U+FA23 U+27EAF
+
+# Group: ⿱勿曰
+U+3ADA U+66F6
+
+# Group: ⿱勿日
+U+3ADA U+66F6
+
+# Group: ⿰月叉
+U+809E U+2E30B
+
+# Group: ⿰口七
+U+20B9F U+53F1
+
+# Group: ⿱艹仑
+U+82B2 U+30C28
+
+# Group: ⿰木市
+U+676E U+67FF
+
+# Group: ⿰木䦨
+U+6B04 U+237EC
+
+# Group: ⿰𤣩豕
+U+24968 U+7422
+
+# Group: ⿰禾龜
+U+418B U+9F9D
+
+# Group: ⿰火龜
+U+24485 U+2A6B1
+
+# Group: ⿵鬥亀
+U+4C17 U+29C18
+
+# Group: ⿰𠑾刀
+U+20727 U+20730
+
+# Group: ⿰口嫈
+U+21018 U+2103C
+
+# Group: ⿰女𣬉
+U+5AB2 U+2180C
+
+# Group: ⿻凵丿
+U+4DB9 U+5C6E
+
+# Group: ⿱㞢𠔼
+U+20553 U+21D0A
+
+# Group: ⿰氵𡉚
+U+23CEB U+23D6D
+
+# Group: ⿻八一
+U+20500 U+2232C
+
+# Group: ⿰堇斤
+U+65B3 U+230B7
+
+# Group: ⿰訁𦰌
+U+8B39 U+27AF4
+
+# Group: ⿺辶免
+U+9038 U+284DC
+
+# Group: ⿰目届
+U+251D7 U+251E4
+
+# Group: ⿱既木
+U+3BA3 U+69E9
+
+# Group: ⿱𥬥𡘳
+U+7C51 U+25D89
+
+# Group: ⿰禾⿱酉灬
+U+25864 U+25871
+
+# Group: ⿱梄灬
+U+69F1 U+2ACDD
+
+# Group: ⿰氵⿱林⺝
+U+6F78 U+23F7D
+
+# Group: ⿱𠆢⿱一⿻丷屮
+U+21D0C U+24C12
+
+# Group: ⿰扌日
+U+6287 U+22A8F
+
+# Group: ⿳𫝀⿳巛冖厶㐄
+U+821D U+246C9
+
+# Group: ⿱覀土
+U+5794 U+212B9
+
+# Group: ⿱覀服
+U+277F1 U+277F5
+
+# Group: ⿱𥫗录
+U+7B93 U+25B7C
+
+# Group: ⿰𤣩晋
+U+7468 U+24A01
+
+# Group: ⿰禾⿱尤㫖
+U+7A3D U+25874
+
+# Group: ⿰釒⿱𮂱旨
+U+28BBA U+9459
+
+# Group: ⿰阝⿱夂生
+U+9686 U+28E93
+
+# Group: ⿱爫⿸尸⿱⿲止⿰丨丨巳夊
+U+21580 U+2453F
+
+# Group: ⿰衤犮
+U+4620 U+889A
+
+# Group: ⿰㫫頁
+U+9855 U+29530
+
+# Group: ⿱爪臼
+U+8200 U+2695D
+
+# Group: ⿰𤴔頁
+U+9819 U+29460
+
+# Group: ⿱宂大
+U+7A81 U+2592E
+
+# Group: ⿱自大
+U+81ED U+26900
+
+# Group: ⿳吅大吅
+U+5668 U+20F96
+
+# Group: ⿰类頁
+U+985E U+29516
+
+# Group: ⿱艸仺
+U+26B60 U+26B6B
+
+# Group: ⿱艹楺
+U+26EA4 U+26F69
+
+# Group: ⿱吂䏎
+U+23386 U+26760
+
+# Group: ⿰亻⿱𦦉巳
+U+34A8 U+20457
+
+# Group: ⿱罒氺
+U+7714 U+25133
+
+# Group: ⿵⺆⿱丰口
+U+2055B U+20C6C
+
+# Group: ⿱𠆢⿻㸚十
+U+5098 U+20302
+
+# Group: ⿱甶⿱㇒𧘇
+U+200C1 U+24C6E
+
+# Group: ⿱入桀
+U+204F2 U+23515
+
+# Group: ⿱丘八
+U+5175 U+2050A
+
+# Group: ⿱老口
+U+3588 U+439B
+
+# Group: ⿹𢦏土
+U+363D U+39B3
+
+# Group: ⿰火旬
+U+3DB7 U+2420E
+
+# Group: ⿻一丨
+U+5341 U+2C09B
+
+# Group: ⿱一一
+U+4E8C U+2011E U+2011F U+20120
+
+# Group: ⿰宂瓦
+U+21A0D U+24B3D
+
+# Group: ⿰氵廉
+U+6FC2 U+6FD3
+
+# Group: ⿱畾宐
+U+7589 U+24D01
+
+# Group: ⿸虍文
+U+8654 U+2AA90
+
+# Group: ⿰犭舃
+U+7361 U+2486F
+
+# Group: ⿱𡘩手
+U+22C93 U+26979
+
+# Group: ⿰扌𠦪
+U+22C6D U+22CCE
+
+# Group: ⿰氵亟
+U+23DAC U+23DC9
+
+# Group: ⿱艹兗
+U+8412 U+26CC6
+
+# Group: ⿰扌䍃
+U+6416 U+6447
+
+# Group: ⿰𤣩䍃
+U+7464 U+7476
+
+# Group: ⿰訁䍃
+U+8B20 U+8B21
+
+# Group: ⿺辶䍃
+U+9059 U+9065
+
+# Group: ⿰至攵
+U+81F4 U+26936
+
+# Group: ⿰至夂
+U+81F4 U+26936
+
+# Group: ⿱𥫗𡨥
+U+7C06 U+25C83
+
+# Group: 〾⿱艹𤕦
+U+27098 U+270F1
+
+# Group: ⿳⺊𠕎木
+U+2C0C4 U+2DAA2
+
+# Group: ⿳山火炅
+U+21F37 U+2439A
+
+# Group: ⿰⿱咸觱攴
+U+23040 U+27959
+
+# Group: ⿰木養
+U+23761 U+237BC
+
+# Group: ⿰氵𦊽
+U+23F41 U+23F9E
+
+# Group: ⿱⿰⿱巛百刂火
+U+24381 U+243BE
+
+# Group: ⿱𥄗玉
+U+249BC U+249E9
+
+# Group: ⿱殸𪏽
+U+24BD2 U+2A415
+
+# Group: ⿺辶⿱臾土
+U+285BD U+285ED
+
+# Group: ⿰予鳥
+U+29FCE U+29FD7
+
+# Group: ⿰氵日
+U+6C68 U+6C69
+
+# Group: ⿲水㐬水
+U+23E73 U+23EE4
+
+# Group: ⿰月兩
+U+813C U+23377
+
+# Group: ⿰月區
+U+8192 U+267FE
+
+# Group: ⿱炎荧
+U+24425 U+2444B
+
+# EOF
