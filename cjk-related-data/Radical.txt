@@ -1,6 +1,6 @@
 
 # File: Radical.txt
-# Date: 2023-04-24T08:50:52.910Z
+# Date: 2023-04-25T07:51:03.586Z
 
 # Group: 1 ⼀ (One)
 U+4E00
@@ -21,7 +21,7 @@ U+4E59 U+4E5B U+4E5A
 U+4E85
 
 # Group: 7 ⼆ (Two)
-U+4E8C U+2011E
+U+4E8C
 
 # Group: 8 ⼇ (Lid)
 U+4EA0
@@ -72,7 +72,7 @@ U+531A
 U+5338
 
 # Group: 24 ⼗ (Ten)
-U+5341 U+2C09B
+U+5341
 
 # Group: 25 ⼘ (Divination)
 U+535C
