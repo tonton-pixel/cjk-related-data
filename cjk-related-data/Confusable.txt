@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-04-26T06:03:23.693Z
+# Date: 2023-04-26T18:27:38.502Z
 
 # Group: 丨・亅
 U+4E28 U+4E85
@@ -43,6 +43,22 @@ U+32071 U+30AF9
 
 # Group: 圝・𡈻・圞
 U+571D U+2123B U+571E
+
+# Group: ⿲幺幺幺・⿲糸糸糸・⿲糹糹糹
+U+2452A U+20B97
+U+2452D U+3080A
+
+# Group: 𠮗・𰠊
+U+20B97 U+3080A
+
+# Group: 𤔪・𤔭
+U+2452A U+2452D
+
+# Group: 𠧎・𤕍
+U+209CE U+2454D
+
+# Group: 𠧏・𰠉
+U+209CF U+30809
 
 # Group: 𠦝・龺
 U+2099D U+9FBA
@@ -2527,6 +2543,7 @@ U+2B95D U+7019
 U+300FF U+6E0E
 U+51DF U+7006
 U+30103 U+6E79
+U+2B946 U+6CF3
 
 # Group: 癛・𠘡
 U+765B U+20621
@@ -4199,6 +4216,9 @@ U+966B U+28EC3
 U+6E04 U+2ADAC
 U+6392 U+30512
 
+# Group: 𦨤・𦨺
+U+26A24 U+26A3A
+
 # Group: 舊・匶
 U+820A U+5336
 U+6B0D U+2385B
@@ -5076,22 +5096,6 @@ U+309ED U+25623
 U+2D418 U+2DB73
 U+3611 U+2D31A
 U+96B7 U+28F7E U+2E975
-
-# Group: ⿲幺幺幺・⿲糸糸糸・⿲糹糹糹
-U+2452A U+20B97
-U+2452D U+3080A
-
-# Group: 𠮗・𰠊
-U+20B97 U+3080A
-
-# Group: 𤔪・𤔭
-U+2452A U+2452D
-
-# Group: 𠧎・𤕍
-U+209CE U+2454D
-
-# Group: 𠧏・𰠉
-U+209CF U+30809
 
 # Group: 芈・𦍋・羋
 U+8288 U+2634B U+7F8B

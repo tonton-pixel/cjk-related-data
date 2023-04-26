@@ -1,6 +1,6 @@
 
 # File: Unifiable.txt
-# Date: 2023-04-26T06:03:23.718Z
+# Date: 2023-04-26T18:27:38.572Z
 
 # Group: UCV-1 (王・𡈼・壬)
 U+4E1F U+4E22
@@ -1407,6 +1407,7 @@ U+2C36D U+2C375
 U+2C5DF U+7DEC
 U+2CE43 U+9EB5
 U+2DC2B U+6E4E
+U+58BB U+2BBB0
 
 # Group: UCV-318 (圗・圖)
 U+5717 U+5716
