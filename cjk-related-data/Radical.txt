@@ -1,6 +1,6 @@
 
 # File: Radical.txt
-# Date: 2023-04-26T18:27:38.515Z
+# Date: 2023-04-27T17:55:34.170Z
 
 # Group: 1 ⼀ (One)
 U+4E00
