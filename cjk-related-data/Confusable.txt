@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-04-28T07:54:57.984Z
+# Date: 2023-04-28T19:57:15.654Z
 
 # Group: 丨・亅
 U+4E28 U+4E85
@@ -9,6 +9,7 @@ U+4E2A U+201A4
 U+21B54 U+5C0F
 U+30020 U+306C5
 U+4E2B U+2CF38
+U+2CEB1 U+624D
 
 # Group: 亅・𠄌
 U+4E85 U+2010C
@@ -19,6 +20,9 @@ U+4E01 U+20110
 
 # Group: 了・𠄐
 U+4E86 U+20110
+
+# Group: 𬺰・才・寸
+U+2CEB0 U+624D U+5BF8
 
 # Group: 冂・冖
 U+5182 U+5196
@@ -595,6 +599,9 @@ U+2AE82 U+2BED3
 # Group: 𥃀・𥃂
 U+250C0 U+250C2
 
+# Group: 𦠟・𦠠
+U+2681F U+26820
+
 # Group: 艮・良
 U+826E U+826F
 
@@ -862,12 +869,6 @@ U+20213 U+4FE9
 
 # Group: 𭱎・𭱩
 U+2DC4E U+2DC69
-
-# Group: 𬺰・才・寸
-U+2CEB0 U+624D U+5BF8
-
-# Group: 𬺱・才
-U+2CEB1 U+624D
 
 # Group: 𧰨・豕
 U+27C28 U+8C55
@@ -4208,6 +4209,9 @@ U+3DD7 U+242C5 U+3DE9
 # Group: 媐・𡟮
 U+5A90 U+217EE
 
+# Group: 𭭴・𬆐
+U+2DB74 U+2C190
+
 # Group: 𦹀・𧀇
 U+26E40 U+27007
 
@@ -5930,6 +5934,9 @@ U+28D8B U+28DAB
 U+8279 U+25AD7
 U+8449 U+420E
 U+859B U+2E19E
+
+# Group: 蝇・蝿
+U+8747 U+877F
 
 # Group: Gongche Notation
 U+5408 U+2A6D7

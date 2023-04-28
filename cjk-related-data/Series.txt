@@ -1,6 +1,6 @@
 
 # File: Series.txt
-# Date: 2023-04-28T07:54:58.003Z
+# Date: 2023-04-28T19:57:15.689Z
 
 # Group: 口…
 U+53E3 U+65E5 U+76EE
@@ -51,11 +51,14 @@ U+215D3 U+5933
 # Group: 辷…
 U+8FB7 U+2CA1C U+2E781
 
+# Group: 𠄧…
+U+20127 U+20027
+
 # Group: 肀…
 U+8080 U+26612 U+807F
 
-# Group: 𠄧…
-U+20127 U+20027
+# Group: 木…
+U+6728 U+672A U+672B U+8012
 
 # Group: 辻…
 U+8FBB U+284B9 U+8FC1 U+8FC8
