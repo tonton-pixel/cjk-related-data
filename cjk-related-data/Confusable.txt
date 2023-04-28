@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-04-27T17:55:34.153Z
+# Date: 2023-04-28T07:54:57.984Z
 
 # Group: 丨・亅
 U+4E28 U+4E85
@@ -2547,6 +2547,13 @@ U+30103 U+6E79
 U+2B946 U+6CF3
 U+51AE U+6C5F
 
+# Group: 次・㳄
+U+76D7 U+76DC
+U+7FA1 U+7FA8
+U+26157 U+26180
+U+6825 U+234BF
+U+54A8 U+2A84C
+
 # Group: 癛・𠘡
 U+765B U+20621
 
@@ -2578,6 +2585,9 @@ U+882F U+24F1C
 
 # Group: 𪗒・𪗓
 U+2A5D2 U+2A5D3
+
+# Group: 𡙼・𡚂
+U+2167C U+21682
 
 # Group: 夬・央
 U+592C U+592E

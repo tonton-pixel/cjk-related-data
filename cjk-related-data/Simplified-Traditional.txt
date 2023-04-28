@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-04-27T17:55:34.172Z
+# Date: 2023-04-28T07:54:58.015Z
 
 # Group: 广・廣
 U+5E7F U+5EE3
