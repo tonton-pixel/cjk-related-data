@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-04-29T16:08:11.794Z
+# Date: 2023-04-29T18:45:54.531Z
 
 # Group: Compatibility
 U+6B04 U+F91D
@@ -65,6 +65,12 @@ U+9038 U+FA67
 U+96E3 U+FA68
 U+97FF U+FA69
 U+983B U+FA6A
+
+# Group: 暦・曆
+U+66A6 U+66C6
+
+# Group: 歴・歷
+U+6B74 U+6B77
 
 # Group: 并・幷
 U+4F75 U+5002
