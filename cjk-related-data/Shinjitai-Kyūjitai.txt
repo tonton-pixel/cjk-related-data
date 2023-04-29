@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-04-28T19:57:15.691Z
+# Date: 2023-04-29T03:39:49.785Z
 
 # Group: Compatibility
 U+6B04 U+F91D
