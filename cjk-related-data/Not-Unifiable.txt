@@ -1,6 +1,8 @@
 
 # File: Not-Unifiable.txt
-# Date: 2023-04-30T22:17:43.819Z
+# Date: 2023-04-30T23:15:35.105Z
+# License: MIT
+# Copyright: (c) 2023 Michel Mariani
 
 # Group: NUCV-264a (⿱士冖・⿳士冖一)
 U+6BBB U+6BBC

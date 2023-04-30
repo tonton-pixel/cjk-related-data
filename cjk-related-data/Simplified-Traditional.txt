@@ -1,6 +1,8 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-04-30T22:17:43.824Z
+# Date: 2023-04-30T23:15:35.110Z
+# License: MIT
+# Copyright: (c) 2023 Michel Mariani
 
 # Group: 广・廣
 U+5E7F U+5EE3

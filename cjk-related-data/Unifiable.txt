@@ -1,6 +1,8 @@
 
 # File: Unifiable.txt
-# Date: 2023-04-30T22:17:43.828Z
+# Date: 2023-04-30T23:15:35.115Z
+# License: MIT
+# Copyright: (c) 2023 Michel Mariani
 
 # Group: UCV-1 (王・𡈼・壬)
 U+4E1F U+4E22

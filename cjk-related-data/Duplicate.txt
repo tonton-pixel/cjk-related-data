@@ -1,6 +1,8 @@
 
 # File: Duplicate.txt
-# Date: 2023-04-30T22:17:43.817Z
+# Date: 2023-04-30T23:15:35.102Z
+# License: MIT
+# Copyright: (c) 2023 Michel Mariani
 
 # Group: ⿱品山
 U+55A6 U+5D52
