@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Date: 2023-04-30T16:56:28.649Z
+# Date: 2023-04-30T22:17:43.821Z
 
 # Group: 丶
 U+4E36 U+2007C
@@ -513,6 +513,7 @@ U+29085 U+3227A
 
 # Group: 犬
 U+72AC U+3E5C U+730B
+U+295AE U+98C7
 
 # Group: 太
 U+592A U+21652
@@ -569,6 +570,9 @@ U+96F2 U+2E996 U+29163
 
 # Group: 氏
 U+6C0F U+2C1CA
+
+# Group: 风
+U+98CE U+310DD
 
 # Group: 勿
 U+52FF
@@ -669,6 +673,9 @@ U+9596 U+28DBA
 # Group: 火
 U+706B U+708F U+708E U+3DCB U+7131 U+71DA
 U+69AE U+2C13E
+U+2966A U+98DA
+U+295A7 U+98B7 U+98C8
+U+7148 U+295F9 U+98CA
 
 # Group: 贝
 U+8D1D U+320BB U+8D51
