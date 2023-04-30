@@ -1,6 +1,6 @@
 
 # File: Not-Unifiable.txt
-# Date: 2023-04-29T18:45:54.528Z
+# Date: 2023-04-30T16:56:28.647Z
 
 # Group: NUCV-264a (⿱士冖・⿳士冖一)
 U+6BBB U+6BBC
@@ -222,6 +222,7 @@ U+3E02 U+9FEA
 U+2DD3F U+7121
 U+291ED U+307B4
 U+24355 U+2ACDD
+U+2C2D6 U+2DDA2
 
 # Group: NUCV-406 (亀・龜)
 U+4E80 U+9F9C
