@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-01T17:25:40.099Z
+# Date: 2023-05-01T21:04:56.121Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -78,6 +78,10 @@ U+6B74 U+6B77
 U+4F75 U+5002
 U+9905 U+9920
 U+74F6 U+7501
+
+# Group: ⿱㇒𭕄𠙻・䍃
+U+63FA U+6416
+U+8B21 U+8B20
 
 # Group: 㐮・襄
 U+342E U+8944
