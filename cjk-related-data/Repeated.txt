@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Date: 2023-05-02T13:54:36.549Z
+# Date: 2023-05-02T21:04:16.097Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -852,6 +852,10 @@ U+924E U+28BCF
 
 # Group: 囚
 U+56DA U+21236
+
+# Group: 弁
+U+5F01
+U+2236D
 
 # Group: 市
 U+5E02 U+22148
