@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-01T21:04:56.121Z
+# Date: 2023-05-02T13:54:36.550Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -79,6 +79,12 @@ U+4F75 U+5002
 U+9905 U+9920
 U+74F6 U+7501
 
+# Group: 当・當
+U+5F53 U+7576
+
+# Group: 団・團
+U+56E3 U+5718
+
 # Group: ⿱㇒𭕄𠙻・䍃
 U+63FA U+6416
 U+8B21 U+8B20
@@ -97,6 +103,12 @@ U+2D9FD U+66E9
 U+2E09C U+79B3
 U+2E80D U+287DA
 U+2E8D0 U+9472
+
+# Group: 潜・潛
+U+6F5C U+6F5B
+
+# Group: 賛・贊
+U+8CDB U+8D0A
 
 # Group: 為・爲
 U+70BA U+7232
@@ -121,6 +133,27 @@ U+5186 U+5713
 U+4E07 U+842C
 U+52B1 U+52F5
 
+# Group: 岳・嶽
+U+5CB3 U+5DBD
+
+# Group: 㦮・戔
+U+685F U+68E7
+U+6B8B U+6B98
+U+31E10 U+4254
+U+3093D U+250AB
+U+6D45 U+6DFA
+U+2D21F U+20F48
+U+8DF5 U+8E10
+U+92AD U+9322
+U+41F3 U+7B8B
+U+4B3B U+991E
+U+8CCE U+8CE4
+U+23FFD U+6FFA
+U+20219 U+4FF4
+U+2506B U+76DE
+U+2548E U+788A
+U+2C8A3 U+8AD3
+
 # Group: 寛・寬
 U+5BDB U+5BEC
 
@@ -132,6 +165,11 @@ U+89B3 U+89C0
 
 # Group: 缶・罐
 U+7F36 U+7F50
+
+# Group: 帯・帶
+U+5E2F U+5E36
+U+6EDE U+6EEF
+U+9FEE U+5ED7
 
 # Group: 虚・虛
 U+865A U+865B
