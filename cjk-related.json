@@ -1,8 +1,12 @@
-[
-    "# File: cjk-related.json",
-    "# Date: 2023-05-04T11:54:54.930Z",
-    "# License: MIT",
-    "# Copyright: (c) 2023 Michel Mariani",
+{
+    "header":
+    [
+        "File: cjk-related.json",
+        "Date: 2023-05-04T14:15:24.991Z",
+        "License: MIT",
+        "Copyright: (c) 2023 Michel Mariani"
+    ],
+    "data":
     {
         "Confusable":
         {
@@ -23175,4 +23179,4 @@
             ]
         }
     }
-]
+}

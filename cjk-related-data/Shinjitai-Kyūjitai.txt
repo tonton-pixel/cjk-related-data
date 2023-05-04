@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-04T11:54:46.406Z
+# Date: 2023-05-04T14:15:24.991Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
