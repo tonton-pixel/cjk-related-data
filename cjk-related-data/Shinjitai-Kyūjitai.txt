@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-06T16:54:52.967Z
+# Date: 2023-05-07T09:45:26.529Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -97,6 +97,16 @@ U+2D781 U+616B
 U+2E2F9 U+8073
 U+2E700 U+8E64
 U+3104B U+29028
+
+# Group: 盗・盜
+U+76D7 U+76DC
+
+# Group: 巻・卷
+U+5DFB U+5377
+U+570F U+5708
+
+# Group: 壱・壹
+U+58F1 U+58F9
 
 # Group: 暦・曆
 U+66A6 U+66C6
