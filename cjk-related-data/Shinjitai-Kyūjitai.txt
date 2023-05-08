@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-07T19:59:23.849Z
+# Date: 2023-05-08T16:09:23.204Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -156,6 +156,9 @@ U+6F5C U+6F5B
 # Group: 賛・贊
 U+8CDB U+8D0A
 
+# Group: 弐・貳
+U+5F10 U+8CB3
+
 # Group: 為・爲
 U+70BA U+7232
 U+507D U+50DE
@@ -167,6 +170,9 @@ U+5EC3 U+5EE2
 U+6E8C U+6F51
 U+9197 U+91B1
 U+2B77C U+64A5
+
+# Group: 髪・髮
+U+9AEA U+9AEE
 
 # Group: 図・圖
 U+56F3 U+5716
@@ -340,6 +346,8 @@ U+31884 U+232EA
 
 # Group: 売・賣
 U+58F2 U+8CE3
+U+3E3F U+72A2
+U+6D9C U+7006
 U+7D9A U+7E8C
 U+8AAD U+8B80
 
