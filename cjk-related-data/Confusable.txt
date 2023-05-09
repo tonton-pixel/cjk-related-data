@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-05-08T16:09:23.204Z
+# Date: 2023-05-09T08:31:34.503Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2495,6 +2495,7 @@ U+98E1 U+6E4C
 U+205EF U+6E76
 U+205F6 U+6E8F
 U+205F3 U+6E93
+U+51AF U+306CA
 U+99AE U+6EA4
 U+205F5 U+6EC2
 U+20602 U+6F31
@@ -2600,6 +2601,9 @@ U+765B U+20621
 
 # Group: 嚢・囊
 U+56A2 U+56CA
+
+# Group: 覊・𬰕
+U+898A U+2CC15
 
 # Group: 𦌯・𱻈
 U+2632F U+31EC8
