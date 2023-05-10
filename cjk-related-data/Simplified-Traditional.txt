@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-05-10T17:09:17.629Z
+# Date: 2023-05-10T22:05:27.129Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
