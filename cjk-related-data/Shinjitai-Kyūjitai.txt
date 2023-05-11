@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-10T22:05:27.129Z
+# Date: 2023-05-11T17:14:57.257Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -98,6 +98,25 @@ U+2E2F9 U+8073
 U+2E700 U+8E64
 U+3104B U+29028
 
+# Group: 丬・爿
+U+72B6 U+72C0
+U+58EE U+58EF
+U+8358 U+838A
+U+88C5 U+88DD
+
+# Group: 大・犬
+U+623B U+623E
+U+6D99 U+6DDA
+
+# Group: 黒・黑
+U+9ED2 U+9ED1
+
+# Group: 東・柬
+U+932C U+934A
+
+# Group: 昷・𥁕
+U+6E29 U+6EAB
+
 # Group: 盗・盜
 U+76D7 U+76DC
 
@@ -171,7 +190,7 @@ U+6E8C U+6F51
 U+9197 U+91B1
 U+2B77C U+64A5
 
-# Group: 髪・髮
+# Group: 友・犮
 U+9AEA U+9AEE
 
 # Group: 図・圖
@@ -416,8 +435,26 @@ U+7D99 U+7E7C
 U+6255 U+62C2
 U+4ECF U+4F5B
 
+# Group: 聴・聽
+U+8074 U+807D
+U+5EF0 U+5EF3
+
+# Group: 庁・廳
+U+5E81 U+5EF3
+
+# Group: 徳・德
+U+5FB3 U+5FB7
+
+# Group: 声・聲
+U+58F0 U+8072
+
+# Group: 叶・葉
+U+53F6 U+8449
+U+31CF5 U+255A2
+
 # Group: 黄・黃
 U+9EC4 U+9EC3
+U+6A2A U+6A6B
 
 # Group: 旧・舊
 U+65E7 U+820A

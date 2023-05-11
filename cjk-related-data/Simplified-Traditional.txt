@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-05-10T22:05:27.129Z
+# Date: 2023-05-11T17:14:57.257Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -46,6 +46,11 @@ U+30E0E U+28109
 U+2CE85 U+2A65E
 U+30D35 U+2E637
 U+30ABC U+30ACF
+
+# Group: 飞・飛
+U+98DE U+98DB
+U+318BF U+698C
+U+31FD9 U+2C81E
 
 # Group: 发・發
 U+53D1 U+767C
@@ -3284,8 +3289,28 @@ U+30F77 U+942C
 U+310A4 U+986A
 U+31FE1 U+2E543
 
+# Group: 丛・叢
+U+4E1B U+53E2
+
+# Group: 听・聽
+U+542C U+807D
+U+539B U+3554
+U+317FA U+22EAD
+
+# Group: 厅・廳
+U+5385 U+5EF3
+
+# Group: 声・聲
+U+58F0 U+8072
+U+20D22 U+21114
+U+289C5 U+2B4E0
+
 # Group: 黄・黃
 U+9EC4 U+9EC3
+U+6A2A U+6A6B
+
+# Group: 导・導
+U+5BFC U+5C0E
 
 # Group: 旧・舊
 U+65E7 U+820A

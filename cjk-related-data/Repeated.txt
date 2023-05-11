@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Date: 2023-05-10T22:05:27.129Z
+# Date: 2023-05-11T17:14:57.257Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -79,6 +79,7 @@ U+5185 U+8089
 U+3401 U+2002C
 U+8C75 U+27C93
 U+2CCA6 U+2CCAA
+U+4EBC U+4E1B
 
 # Group: 入
 U+5165 U+204DC
@@ -478,6 +479,9 @@ U+209E5
 # Group: 戶・户
 U+6236 U+6237 U+22A2F U+22A33 U+22A55
 
+# Group: ⿻丿飞
+U+2D438
+
 # Group: 片
 U+7247 U+3E1E
 
@@ -852,6 +856,7 @@ U+77E2 U+30996
 
 # Group: 白
 U+767D U+3FDF U+769B
+U+2CE52
 
 # Group: 且
 U+4E14 U+3001D U+20060
@@ -1698,6 +1703,8 @@ U+52D5 U+2B9BF
 
 # Group: 鳥
 U+9CE5 U+2A15D U+2A23C
+U+29594
+U+2967E
 
 # Group: 魚
 U+9B5A U+4C86 U+29EB0 U+9C7B U+4C9C
