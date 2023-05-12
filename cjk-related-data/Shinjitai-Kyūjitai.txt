@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-12T15:17:20.894Z
+# Date: 2023-05-12T21:50:37.970Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -137,6 +137,55 @@ U+8535 U+85CF
 U+81D3 U+81DF
 U+24098 U+3D93	*
 U+246FB U+24710	*
+
+# Group: ⿱十𭾱・褱
+U+58CA U+58DE
+U+61D0 U+61F7
+
+# Group: 卆・卒
+U+5346 U+5352	*
+U+7C8B U+7CB9
+U+9154 U+9189
+U+7815 U+788E
+U+3CC3 U+6DEC	*
+U+4F1C U+5005	*
+U+5FF0 U+60B4	*
+U+67A0 U+690A	*
+U+75A9 U+7601	*
+U+7D23 U+7DB7	*
+U+7FC6 U+7FE0	*
+U+20BE5 U+5550	*
+U+2127B U+57E3	*
+U+221E5 U+2223C	*
+U+22A84 U+637D	*
+U+23162 U+666C	*
+U+2474A U+731D	*
+U+2510C U+775F	*
+U+25627 U+797D	*
+U+26648 U+813A	*
+U+26B21 U+8403	*
+U+2BC13 U+21775	*
+U+3064A U+3C35	*
+U+30A1E U+7A21	*
+U+31095 U+9847	*
+
+# Group: 褒・襃
+U+8912 U+8943
+
+# Group: 歩・步
+U+6B69 U+6B65
+U+6E09 U+6D89
+
+# Group: 巣・巢
+U+5DE3 U+5DE2
+
+# Group: ⿱𭕄凶・𡿺
+U+60A9 U+60F1
+U+8133 U+8166
+
+# Group: 舌・𤔔
+U+4E71 U+4E82
+U+8F9E U+8FAD
 
 # Group: 医・醫
 U+533B U+91AB

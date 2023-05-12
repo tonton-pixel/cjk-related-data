@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-05-12T15:17:20.894Z
+# Date: 2023-05-12T21:50:37.970Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -64,6 +64,19 @@ U+31FD9 U+2C81E
 # Group: 梦・夢
 U+68A6 U+5922
 U+227FC U+61DC
+
+# Group: 舌・𤔔
+U+4E71 U+4E82
+U+20257 U+203E2
+U+26BE0 U+858D
+U+8F9E U+8FAD
+U+59E1 U+21857
+U+22F24 U+22FE2
+U+654C U+22FF3
+U+2E377 U+24532
+
+# Group: 敌・敵
+U+654C U+6575
 
 # Group: 医・醫
 U+533B U+91AB
