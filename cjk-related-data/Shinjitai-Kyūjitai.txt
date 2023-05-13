@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-12T21:50:37.970Z
+# Date: 2023-05-13T10:56:33.455Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -323,6 +323,9 @@ U+9FEE U+5ED7	*
 # Group: 虚・虛
 U+865A U+865B
 
+# Group: 戯・戲
+U+622F U+6232
+
 # Group: 与・與
 U+4E0E U+8207
 
@@ -361,6 +364,14 @@ U+8EE2 U+8F49
 U+82B8 U+85DD
 U+20281 U+20462	*
 U+2BC3C U+21926	*
+
+# Group: 有・⿱左⺝・⿱左⺼
+U+968F U+96A8
+U+5815 U+58AE
+U+9AC4 U+9AD3
+
+# Group: 霊・靈
+U+970A U+9748
 
 # Group: 条・條
 U+6761 U+689D
