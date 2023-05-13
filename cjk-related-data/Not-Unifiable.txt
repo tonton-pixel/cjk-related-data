@@ -1,6 +1,6 @@
 
 # File: Not-Unifiable.txt
-# Date: 2023-05-13T10:56:33.455Z
+# Date: 2023-05-13T18:04:59.198Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -145,6 +145,7 @@ U+262CA U+2C661
 U+7F7B U+2E298
 U+7F89 U+30B56
 U+2E27D U+31EB4
+U+240ED U+24129
 
 # Group: NUCV-403 (火・灬)
 U+24275 U+55A3
@@ -225,6 +226,7 @@ U+2DD3F U+7121
 U+291ED U+307B4
 U+24355 U+2ACDD
 U+2C2D6 U+2DDA2
+U+2A194 U+9DE6
 
 # Group: NUCV-406 (亀・龜)
 U+4E80 U+9F9C
