@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-13T18:04:59.198Z
+# Date: 2023-05-14T18:18:18.205Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -68,6 +68,287 @@ U+96E3 U+FA68
 U+97FF U+FA69
 U+983B U+FA6A
 
+# Group: 囲・圍
+U+56F2 U+570D
+
+# Group: 衛・衞
+U+885B U+885E
+
+# Group: 塩・鹽
+U+5869 U+9E7D
+
+# Group: 彐・・彑
+U+7DD1 U+7DA0
+U+7E01 U+7DE3
+
+# Group: 奥・奧
+U+5965 U+5967
+
+# Group: 仮・假
+U+4EEE U+5047
+
+# Group: 価・價
+U+4FA1 U+50F9
+
+# Group: 画・畫
+U+753B U+756B
+
+# Group: 概・槪
+U+6982 U+69EA
+
+# Group: 殻・殼
+U+6BBB U+6BBC
+
+# Group: 関・關
+U+95A2 U+95DC
+
+# Group: 犠・犧
+U+72A0 U+72A7
+
+# Group: 拠・據
+U+62E0 U+64DA
+
+# Group: 郷・鄕
+U+90F7 U+9115
+
+# Group: 恵・惠
+U+6075 U+60E0
+
+# Group: 撃・擊
+U+6483 U+64CA
+
+# Group: 欠・缺
+U+6B20 U+7F3A
+
+# Group: 県・縣
+U+770C U+7E23
+
+# Group: 効・效
+U+52B9 U+6548
+
+# Group: 勅・敕
+U+52C5 U+6555
+
+# Group: 恒・恆
+U+6052 U+6046
+
+# Group: 糸・絲
+U+7CF8 U+7D72
+
+# Group: 実・實
+U+5B9F U+5BE6
+
+# Group: 収・收
+U+53CE U+6536
+
+# Group: 畄・㽞
+U+7544 U+3F5E	*
+U+7363 U+7378
+U+30708 U+30735	*
+U+308F2 U+308FE	*
+
+# Group: 処・處
+U+51E6 U+8655
+U+62E0 U+3A3F	*
+
+# Group: 叙・敍
+U+53D9 U+654D
+U+2E3FD U+2E42E	*
+U+6E86 U+6F4A	*
+
+# Group: 乗・乘
+U+4E57 U+4E58
+U+5270 U+5269
+U+21E74 U+5D4A	*
+U+2273C U+227CA	*
+U+22FA6 U+22FBD	*
+U+30E5B U+28371	*
+U+31125 U+9A2C	*
+
+# Group: 曽・曾
+U+66FD U+66FE
+U+5897 U+589E
+
+# Group: 争・爭
+U+4E89 U+722D
+U+6D44 U+6DE8
+U+9759 U+975C
+
+# Group: ⿱申又・叟
+U+75E9 U+7626
+U+635C U+641C
+
+# Group: 𢆍・臿
+U+633F U+63D2
+
+# Group: 尓・尔・爯
+U+79F0 U+7A31
+
+# Group: 正・登
+U+8A3C U+8B49
+
+# Group: 丁・登
+U+706F U+71C8
+
+# Group: ・黽
+U+7E04 U+7E69
+U+4E80 U+2CE5D	*
+U+49B0 U+28DDF	*
+U+7AC3 U+7AC8	*
+U+877F U+8805	*
+U+259C4 U+2B058	*
+
+# Group: 尽・盡
+U+5C3D U+76E1
+
+# Group: 窃・竊
+U+7A83 U+7ACA
+
+# Group: ⿹𢦏业・韱
+U+7E4A U+7E96
+U+2436C U+244AF	*
+U+27426 U+460B	*
+U+2B794 U+6BB2	*
+
+# Group: 総・總
+U+7DCF U+7E3D
+
+# Group: 頼・賴
+U+983C U+8CF4
+U+702C U+7028
+
+# Group: 戸・户・戶・盧
+U+7089 U+7210
+U+21D58 U+3820	*
+U+22EFB U+3AAD	*
+U+2C3DE U+3FD6	*
+U+20BD6 U+56A7	*
+U+21274 U+58DA	*
+U+5E90 U+5EEC	*
+U+62A4 U+650E	*
+U+6608 U+66E5	*
+U+67A6 U+6AE8	*
+U+6CAA U+7018	*
+U+25105 U+77D1	*
+U+25AFF U+7C5A	*
+U+42C6 U+7E91	*
+U+26645 U+81DA	*
+U+822E U+826B	*
+U+82A6 U+8606	*
+U+484E U+8F64	*
+U+9229 U+946A	*
+U+31094 U+9871	*
+U+99BF U+9A62	*
+U+9B72 U+9C78	*
+U+29FC7 U+9E15	*
+U+2CF6C U+20433	*
+U+225FC U+22948	*
+
+# Group: 𧈡・蚤
+U+27221 U+86A4	*
+U+9A12 U+9A37
+U+63BB U+6414	*
+
+# Group: 体・體
+U+4F53 U+9AD4
+
+# Group: 台・臺
+U+53F0 U+81FA
+U+548D U+3606	*
+U+4F41 U+5113	*
+U+59CB U+5B2F	*
+U+6021 U+61DB	*
+U+62AC U+64E1	*
+U+67B1 U+6AAF	*
+U+7B1E U+7C49	*
+U+82D4 U+85B9	*
+U+6CBB U+24045	*
+U+70B2 U+2443D	*
+U+3F82 U+24EE1	*
+U+80CE U+26880	*
+U+8A52 U+27B4F	*
+U+99D8 U+299BD	*
+U+2317F U+2DA09	*
+
+# Group: 遅・遲
+U+9045 U+9072
+
+# Group: 痴・癡
+U+75F4 U+7661
+
+# Group: 昼・晝
+U+663C U+665D
+
+# Group: 徴・徵
+U+5FB4 U+5FB5
+
+# Group: 乕・虒
+U+4E55 U+8652	*
+U+9013 U+905E
+U+2769C U+892B	*
+U+2A066 U+9DC8	*
+U+2D239 U+31FD2	*
+U+30273 U+213DA	*
+
+# Group: 鉄・鐵
+U+9244 U+9435
+
+# Group: 闘・鬭
+U+95D8 U+9B2D
+
+# Group: 届・屆
+U+5C4A U+5C46
+
+# Group: 拝・拜
+U+62DD U+62DC
+
+# Group: 抜・拔
+U+629C U+62D4
+
+# Group: 晩・晚
+U+6669 U+665A
+
+# Group: 秘・祕
+U+79D8 U+7955
+
+# Group: 刀・臱
+U+8FBA U+908A
+U+2CD51 U+29F72	*
+U+20725 U+487B	*
+U+2CC3F U+4AF5	*
+U+6737 U+6ACB	*
+U+2B888 U+20408	*
+U+2096D U+20963	*
+U+5FC9 U+228D4	*
+U+23C7C U+2407B	*
+U+30A1B U+258F0	*
+U+30D29 U+27B6E	*
+
+# Group: 翻・飜
+U+7FFB U+98DC
+
+# Group: 毎・每
+U+6BCE U+6BCF
+
+# Group: 余・餘
+U+4F59 U+9918
+
+# Group: 様・樣
+U+69D8 U+6A23
+
+# Group: 鼡・巤
+U+9F21 U+5DE4	*
+U+731F U+7375
+U+874B U+881F	*
+U+2B787 U+81D8	*
+U+2EACB U+9B23	*
+
+# Group: 即・卽
+U+5373 U+537D
+
+# Group: 郎・郞
+U+90CE U+90DE
+
 # Group: 显・㬎
 U+9855 U+986F
 U+6E7F U+6FD5
@@ -103,16 +384,11 @@ U+72B6 U+72C0
 U+58EE U+58EF
 U+8358 U+838A
 U+88C5 U+88DD
+U+5BDD U+5BE2
 
 # Group: 大・犬
 U+623B U+623E
 U+6D99 U+6DDA
-
-# Group: 黒・黑
-U+9ED2 U+9ED1
-
-# Group: 東・柬
-U+932C U+934A
 
 # Group: 昷・𥁕
 U+6E29 U+6EAB
@@ -220,11 +496,6 @@ U+66A6 U+66C6
 
 # Group: 歴・歷
 U+6B74 U+6B77
-
-# Group: 并・幷
-U+4F75 U+5002
-U+9905 U+9920
-U+74F6 U+7501
 
 # Group: 𢚩・㥯
 U+226A9 U+396F	*
@@ -360,6 +631,9 @@ U+72EC U+7368
 # Group: 蚕・蠶
 U+8695 U+8836
 
+# Group: 穂・穗
+U+7A42 U+7A57
+
 # Group: 専・專
 U+5C02 U+5C08
 U+2B74A U+50B3	*
@@ -405,14 +679,26 @@ U+2AD8A U+6FE7	*
 U+2C5D4 U+261B9	*
 U+320EA U+281B7	*
 
+# Group: 東・柬
+U+932C U+934A
+
+# Group: 黒・黑
+U+9ED2 U+9ED1
+
+# Group: 黙・默
+U+9ED9 U+9ED8
+
+# Group: 点・點
+U+70B9 U+9EDE
+
+# Group: 党・黨
+U+515A U+9EE8
+
 # Group: 勲・勳
 U+52F2 U+52F3
 
 # Group: 薫・薰
 U+85AB U+85B0
-
-# Group: 黙・默
-U+9ED9 U+9ED8
 
 # Group: 録・錄
 U+9332 U+9304
@@ -471,6 +757,11 @@ U+6D9C U+7006	*
 
 # Group: 研・硏
 U+7814 U+784F
+
+# Group: 并・幷
+U+4F75 U+5002
+U+9905 U+9920
+U+74F6 U+7501
 
 # Group: 緒・緖
 U+7DD2 U+7DD6
