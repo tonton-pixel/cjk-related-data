@@ -1,6 +1,6 @@
 
 # File: Series.txt
-# Date: 2023-05-14T18:18:18.205Z
+# Date: 2023-05-15T08:50:24.712Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
