@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-05-16T10:52:26.783Z
+# Date: 2023-05-16T17:19:12.751Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -69,6 +69,9 @@ U+21D78 U+21F27
 U+26B28 U+26F17
 U+8687 U+27477
 U+922C U+28B2F
+
+# Group: 刮・颳
+U+522E U+98B3
 
 # Group: 昔・巤
 U+730E U+7375
