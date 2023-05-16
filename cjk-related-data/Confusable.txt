@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-05-15T17:02:45.673Z
+# Date: 2023-05-16T10:52:26.783Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -304,6 +304,9 @@ U+7ADE U+7ADF
 
 # Group: 競・竸・𰩫
 U+7AF6 U+7AF8 U+30A6B
+
+# Group: 競・𣬙
+U+7AF6 U+23B19
 
 # Group: 歲・歳・𫞓
 U+6B72 U+6B73 U+2B793
@@ -2274,6 +2277,18 @@ U+20080 U+22330
 # Group: 𱎠・𪱶・𣲜・𬑽
 U+313A0 U+2AC76 U+23C9C U+2C47D
 
+# Group: 𠥻・𠂀
+U+2097B U+20080
+
+# Group: 㔿・𠁾
+U+353F U+2007E
+
+# Group: 𠁾・𠂑
+U+2007E U+20091
+
+# Group: 𠁾・𠂀
+U+2007E U+20080
+
 # Group: 𪔂・鼎
 U+2A502 U+9F0E
 
@@ -3245,6 +3260,9 @@ U+216BB U+216B9
 U+5FD5 U+225C6
 U+2E568 U+27613
 U+91F1 U+28945
+
+# Group: 夬・𡗒
+U+592C U+215D2
 
 # Group: 𱷓・𱷖
 U+31DD3 U+31DD6
@@ -5324,6 +5342,25 @@ U+28951 U+28965
 
 # Group: 𠀌・㐀
 U+2000C U+3400
+
+# Group: 𡧅・𠂂
+U+219C5 U+20082
+
+# Group: 𠀈・丘
+U+20008 U+4E18
+
+# Group: 𠃊・𠃋
+U+200CA U+200CB
+
+# Group: 𠃍・𠃌
+U+200CD U+200CC
+
+# Group: 斗・𣁬
+U+6597 U+2306C
+U+3630 U+2125C
+
+# Group: 𣁬・𠦁
+U+2306C U+20981
 
 # Group: 口・囗
 U+53E3 U+56D7

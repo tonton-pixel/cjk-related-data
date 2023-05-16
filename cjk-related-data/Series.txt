@@ -1,6 +1,6 @@
 
 # File: Series.txt
-# Date: 2023-05-15T17:02:45.673Z
+# Date: 2023-05-16T10:52:26.783Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -64,6 +64,9 @@ U+6728 U+672A U+672B U+8012
 
 # Group: 辻…
 U+8FBB U+284B9 U+8FC1 U+8FC8
+
+# Group: Right Angles
+U+200CD U+200CE U+200CA
 
 # Group: Hydrogen Isotopes
 U+6C15 U+6C18 U+6C1A

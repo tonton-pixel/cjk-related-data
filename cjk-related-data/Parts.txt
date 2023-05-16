@@ -1,6 +1,6 @@
 
 # File: Parts.txt
-# Date: 2023-05-15T17:02:45.673Z
+# Date: 2023-05-16T10:52:26.783Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -191,6 +191,12 @@ U+221BD U+7D17
 U+221CA U+7DA4
 U+221CB U+42F5
 U+223BA U+223DB
+
+# Group: 𠤬・𱍫
+U+2092C U+3136B
+
+# Group: 𠤬・凹
+U+2092C U+51F9
 
 # Group: 𨸏・↔𨸏
 U+28E0F U+28E85

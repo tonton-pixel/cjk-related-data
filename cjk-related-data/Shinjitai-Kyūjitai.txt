@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Date: 2023-05-15T17:02:45.673Z
+# Date: 2023-05-16T10:52:26.783Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -270,8 +270,16 @@ U+8A52 U+27B4F	*
 U+99D8 U+299BD	*
 U+2317F U+2DA09	*
 
-# Group: 遅・遲
+# Group: 𡱝・犀
+U+21C5D U+7280	*
 U+9045 U+9072
+U+258D4 U+4188	*
+U+31925 U+2DB31	*
+U+22526 U+5FB2	*
+U+25827 U+7A49	*
+U+2D3CA U+5880	*
+U+2D871 U+6468	*
+U+30723 U+6F3D	*
 
 # Group: 痴・癡
 U+75F4 U+7661
@@ -870,6 +878,18 @@ U+2E895 U+9447	*
 
 # Group: 並・竝
 U+4E26 U+7ADD
+U+202A7 U+50A1	*
+U+666E U+669C	*
+U+8B5C U+27B58	*
+U+23BA7 U+23BDE	*
+U+6E74 U+23E84	*
+U+6F42 U+24006	*
+U+24F7D U+24F95	*
+U+45D2 U+273D1	*
+U+8AE9 U+27ABB	*
+U+2809D U+280F1	*
+U+4C03 U+29B97	*
+U+2809E U+2C9C8	*
 
 # Group: 会・會
 U+4F1A U+6703
