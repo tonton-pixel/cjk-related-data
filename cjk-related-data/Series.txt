@@ -1,6 +1,6 @@
 
 # File: Series.txt
-# Date: 2023-05-17T19:31:03.971Z
+# Date: 2023-05-17T23:27:08.990Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -55,6 +55,9 @@ U+8FB7 U+2CA1C U+2E781
 
 # Group: 𠄧…
 U+20127 U+20027
+
+# Group: 亝…
+U+4E9D U+20AF0
 
 # Group: 肀…
 U+8080 U+26612 U+807F
