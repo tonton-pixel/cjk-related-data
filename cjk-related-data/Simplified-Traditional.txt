@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-05-16T22:59:34.185Z
+# Date: 2023-05-17T19:31:03.971Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -73,6 +73,9 @@ U+922C U+28B2F
 # Group: 刮・颳
 U+522E U+98B3
 
+# Group: 伙・夥
+U+4F19 U+5925
+
 # Group: 县・縣
 U+53BF U+7E23
 U+60AC U+61F8
@@ -110,6 +113,25 @@ U+2DF81 U+2DF92
 
 # Group: 猪・豬
 U+732A U+8C6C
+
+# Group: 克・剋
+U+514B U+524B
+U+5A14 U+217A2
+
+# Group: 奂・奐
+U+5942 U+5950
+U+36DF U+217B5
+U+5524 U+559A
+U+6362 U+63DB
+U+6DA3 U+6E19
+U+7115 U+7165
+U+75EA U+7613
+U+21A21 U+5BCF
+U+226BE U+610C
+U+2497A U+744D
+
+# Group: 环・環
+U+73AF U+74B0
 
 # Group: 昔・巤
 U+730E U+7375
