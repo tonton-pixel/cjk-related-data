@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-05-18T12:29:22.904Z
+# Date: 2023-05-18T15:53:00.046Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -6690,6 +6690,13 @@ U+28BF3 U+947F
 
 # Group: 𠬐・𠬘
 U+20B10 U+20B18
+
+# Group: 匽・⿷匸晏
+U+5043 U+2037E
+U+693B U+236BC
+
+# Group: 穴・宂
+U+9D2A U+9D27
 
 # Group: Gongche Notation
 U+5408 U+2A6D7
