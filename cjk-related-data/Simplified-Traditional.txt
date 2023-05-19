@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-05-19T17:22:29.528Z
+# Date: 2023-05-19T22:15:09.675Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -292,6 +292,12 @@ U+2DF81 U+2DF92
 
 # Group: 猪・豬
 U+732A U+8C6C
+U+6A65 U+6AEB
+U+6F74 U+7026
+U+854F U+85F8
+U+2AC42 U+23301
+U+2C051 U+23302
+U+2C11E U+23815
 
 # Group: 克・剋
 U+514B U+524B
@@ -7998,6 +8004,9 @@ U+4D18 U+9DC8
 
 # Group: 鸡・雞
 U+9E21 U+96DE
+
+# Group: 凤・鳳
+U+51E4 U+9CF3
 
 # Group: 又・𦰩
 U+305A0 U+3B2E
