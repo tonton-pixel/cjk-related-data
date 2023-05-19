@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Date: 2023-05-18T15:53:00.046Z
+# Date: 2023-05-19T08:58:54.733Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1160,8 +1160,15 @@ U+23708
 # Group: 亦
 U+4EA6 U+2016F
 
+# Group: 囟
+U+56DF
+U+6056 U+22854
+
 # Group: 百
 U+767E U+7695 U+24FA9
+U+38B6 U+22424
+U+302FF U+2BC6F
+U+31C10
 
 # Group: 臣
 U+81E3 U+268E6 U+2B1C6
@@ -1309,6 +1316,14 @@ U+541E U+3021F
 
 # Group: 赤
 U+8D64 U+8D6B
+U+231D0 U+3B28
+U+54E7 U+5687
+U+3938 U+61D7
+U+7103 U+7200
+U+6347 U+22DD3
+U+2806F U+2E71C
+U+7873 U+309E9
+U+90DD U+3219F
 
 # Group: 走
 U+8D70 U+27F02 U+27F9C
