@@ -1,6 +1,6 @@
 
 # File: Unifiable.txt
-# Date: 2023-05-21T21:29:30.794Z
+# Date: 2023-05-22T16:59:43.830Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1986,6 +1986,7 @@ U+30321 U+5B5C	*
 U+30546 U+653E	*
 U+2D8F3 U+655A	*
 U+2D8F4 U+6555	*
+U+22FEB U+6574	*
 U+2D8EF U+6547	*
 U+2BFBF U+655C	*
 U+3054B U+655E	*
