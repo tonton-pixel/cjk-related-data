@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-05-22T16:59:43.830Z
+# Date: 2023-05-23T07:52:46.022Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -4820,6 +4820,10 @@ U+20E5A U+2D2CB
 
 # Group: 貟・圎
 U+8C9F U+570E
+
+# Group: 耑・圌
+U+8011 U+570C
+U+7BC5 U+25CD9
 
 # Group: 貴・匱
 U+8CB4 U+5331
