@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Date: 2023-05-23T07:52:46.022Z
+# Date: 2023-05-24T20:48:47.003Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -133,6 +133,7 @@ U+4E5D U+200D9 U+2B864
 # Group: 厶
 U+53B6 U+53B8 U+3555 U+53BD U+20AEC
 U+21284 U+20B01
+U+5F01 U+22339
 
 # Group: 㐅・乂・乄
 U+3405 U+4E44 U+723B U+2CF06 U+3E1A
@@ -556,6 +557,11 @@ U+29085 U+3227A
 # Group: 犬
 U+72AC U+3E5C U+730B
 U+295AE U+98C7
+U+26B2B U+4538
+U+5B8A U+21AB1
+U+24739 U+2391B
+U+6C71 U+23F7C
+U+80B0 U+2680E
 
 # Group: 太
 U+592A U+21652
@@ -1340,6 +1346,9 @@ U+2AEA1
 # Group: 妥
 U+59A5 U+24547
 
+# Group: ⿱巾
+U+2212C
+
 # Group: 𰙜
 U+3065C U+6B70
 U+6DA9 U+6F80
@@ -1783,6 +1792,9 @@ U+2AF4D U+24CF4
 
 # Group: ⿱女見
 U+2B325
+
+# Group: ⿳口太口
+U+2111B
 
 # Group: 夏
 U+590F U+21583

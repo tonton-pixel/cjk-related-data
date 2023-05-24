@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-05-23T07:52:46.022Z
+# Date: 2023-05-24T20:48:47.003Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -3999,9 +3999,6 @@ U+88BC U+2E57F
 U+9D45 U+2EB36
 U+70D9 U+30794
 
-# Group: 𭅯・𭅰
-U+2D16F U+2D170
-
 # Group: 𮓠・𮓡
 U+2E4E0 U+2E4E1
 
@@ -4555,6 +4552,15 @@ U+5E75 U+20985
 U+4EAC U+4EB0
 U+666F U+3B0C
 
+# Group: 𱏧・兜
+U+313E7 U+515C
+U+22D1C U+3A2E
+
+# Group: 兜・兠
+U+515C U+5160
+U+8538 U+2066F
+U+2361B U+6A77
+
 # Group: 𫥡・兠・𫥢
 U+2B961 U+5160 U+2B962
 
@@ -4973,10 +4979,6 @@ U+8012 U+233C5
 
 # Group: 𣕪・𣕑・𣗢
 U+2356A U+23551 U+235E2
-
-# Group: 𱏧・兜
-U+313E7 U+515C
-U+22D1C U+3A2E
 
 # Group: 𥫓・𥫕
 U+25AD3 U+25AD5
@@ -7060,6 +7062,12 @@ U+2399E U+2982E
 
 # Group: 伎・𠇞
 U+4F0E U+201DE
+
+# Group: 𠬆・𡮟
+U+20B06 U+21B9F
+
+# Group: 倉・𠋑
+U+5009 U+202D1
 
 # Group: Gongche Notation
 U+5408 U+2A6D7
