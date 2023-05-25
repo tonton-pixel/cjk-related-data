@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-05-25T21:16:43.063Z
+# Date: 2023-05-25T22:28:56.503Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -90,6 +90,21 @@ U+9C89 U+9B8B U+29E2B
 U+5C4A U+2D560
 U+5E99 U+2D663
 U+31AB3 U+31AD8
+
+# Group: 里・裡
+U+91CC U+88E1
+
+# Group: 谷・穀
+U+8C37 U+7A40
+U+6D74 U+7014
+U+2B205 U+270A3
+U+3B72 U+2DB28
+
+# Group: 邻・鄰
+U+90BB U+9130
+
+# Group: 办・辦
+U+529E U+8FA6
 
 # Group: 台・檯
 U+53F0 U+6AAF

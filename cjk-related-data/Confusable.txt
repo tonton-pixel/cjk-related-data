@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-05-25T21:16:43.063Z
+# Date: 2023-05-25T22:28:56.503Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2000,6 +2000,7 @@ U+5200 U+529B
 U+5238 U+52B5
 U+206A8 U+20833
 U+2E55D U+275A9
+U+8FA7 U+8FA6
 
 # Group: 刀・刃
 U+5200 U+5203
