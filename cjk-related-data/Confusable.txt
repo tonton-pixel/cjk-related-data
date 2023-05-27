@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Date: 2023-05-25T22:28:56.503Z
+# Date: 2023-05-27T14:47:55.246Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -4464,10 +4464,6 @@ U+29D2B U+2B64E
 U+2CD40 U+29CDB
 U+2EADC U+29C93
 
-# Group: ⿷⿱田儿厶・鬼
-U+2580E U+25842
-U+28884 U+919C
-
 # Group: 𥞷・𥠎
 U+257B7 U+2580E
 
@@ -4884,6 +4880,13 @@ U+966B U+28EC3
 U+6E04 U+2ADAC
 U+6392 U+30512
 
+# Group: 𠧪・𠧴
+U+209EA U+209F4
+U+238E7 U+238F8
+
+# Group: 𠧴・𠧷
+U+209F4 U+209F7
+
 # Group: 𦨤・𦨺
 U+26A24 U+26A3A
 
@@ -5164,6 +5167,23 @@ U+20066 U+20067
 
 # Group: 田・由・甲・申
 U+7530 U+7531 U+7532 U+7533
+
+# Group: 田・由
+U+754F U+2AF49
+
+# Group: 田・甶
+U+7530 U+7536
+U+24C1E U+5351
+U+2580E U+25842
+U+28884 U+919C
+U+754F U+200BD
+U+3787 U+21BF9
+U+2233F U+22349
+U+26C53 U+2C755
+U+7DA5 U+260A2
+U+24C2D U+2AB4E
+U+754C U+2AF50
+U+2342C U+2C0AF
 
 # Group: 申・𦥔
 U+7533 U+26954
@@ -7123,6 +7143,22 @@ U+81FF U+2696B
 U+20186 U+263A7
 U+27B6B U+27B7A
 U+288F3 U+288F6
+
+# Group: 𪙢・𮯕
+U+2A662 U+2EBD5
+
+# Group: 𣷛・𣼙
+U+23DDB U+23F19
+
+# Group: 𱰯・㽞
+U+31C2F U+3F5E
+
+# Group: ・幾
+U+275C7 U+275D2
+U+29D06 U+29D2A
+
+# Group: 丂・𠀁
+U+4E02 U+20001
 
 # Group: Gongche Notation
 U+5408 U+2A6D7
