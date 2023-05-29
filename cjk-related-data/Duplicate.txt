@@ -1,6 +1,6 @@
 
 # File: Duplicate.txt
-# Date: 2023-05-28T13:39:11.171Z
+# Date: 2023-05-29T10:26:40.690Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -330,5 +330,8 @@ U+4DBC U+440B
 
 # Group: ⿱⿻弓人一
 U+223AE U+223B6
+
+# Group: ⿰月尋
+U+2339F U+26805
 
 # EOF
