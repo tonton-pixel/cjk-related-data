@@ -6,6 +6,7 @@ ___\*\* Work in Progress \*\*___
 
 | Category | Contents | Notes |
 | -------- | -------- | ----- |
+| **Addition** | Added component to CJK characters | Ordered by stroke count |
 | **Confusable** | Confusable CJK characters | All-purpose ("catch-all") category |
 | **Duplicate** | Duplicate CJK characters | Characters sharing a common IDS |
 | **Layout** | CJK characters with related layout | Same components but different positioning |

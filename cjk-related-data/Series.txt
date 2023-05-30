@@ -1,6 +1,6 @@
 
 # File: Series.txt
-# Date: 2023-05-29T19:40:11.480Z
+# Date: 2023-05-30T10:46:31.220Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -40,6 +40,15 @@ U+9582 U+28CCE U+9586
 
 # Group: 丞…
 U+4E1E U+2012A
+
+# Group: 㢧…
+U+38A7 U+223A5
+
+# Group: 弱…
+U+5F31 U+22405
+
+# Group: 羽…
+U+7FBD U+263F2
 
 # Group: 𭚟…
 U+2D69F U+5F10
