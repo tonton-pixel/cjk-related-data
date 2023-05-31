@@ -1,6 +1,6 @@
 
 # File: Radical.txt
-# Date: 2023-05-31T19:11:37.450Z
+# Date: 2023-05-31T21:00:15.377Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
