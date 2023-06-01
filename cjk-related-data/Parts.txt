@@ -1,6 +1,6 @@
 
 # File: Parts.txt
-# Date: 2023-06-01T01:19:44.482Z
+# Date: 2023-06-01T20:05:16.084Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -226,5 +226,9 @@ U+2092C U+51F9
 
 # Group: 𨸏・↔𨸏
 U+28E0F U+28E85
+
+# Group: 臣・↔臣
+U+81E3 U+268E9
+U+81E3 U+81E6
 
 # EOF
