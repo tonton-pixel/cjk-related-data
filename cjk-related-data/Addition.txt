@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Date: 2023-06-01T20:05:16.084Z
+# Date: 2023-06-02T13:16:46.190Z
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -338,5 +338,6 @@ U+8011 U+570C
 U+7BC5 U+25CD9
 U+7530 U+211CD
 U+7570 U+2D36D
+U+268FB U+211E2
 
 # EOF
