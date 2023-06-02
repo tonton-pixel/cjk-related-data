@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Date: 2023-06-02T13:16:46.190Z
+# Date: 2023-06-02
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -228,6 +228,9 @@ U+7DAD U+260F6
 U+51C6 U+2A7A9
 U+7570 U+3534
 U+7FFC U+20966
+U+7C73 U+2093B
+U+25E6B U+25EAB
+U+25E37 U+2DB4F
 
 # Group: 囗
 U+23956 U+2BB4B
