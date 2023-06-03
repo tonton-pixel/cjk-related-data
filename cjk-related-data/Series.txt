@@ -50,6 +50,9 @@ U+5F31 U+22405
 # Group: 羽…
 U+7FBD U+263F2
 
+# Group: 𠆱…
+U+201B1 U+2CF6B
+
 # Group: 𭚟…
 U+2D69F U+5F10
 

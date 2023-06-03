@@ -1724,10 +1724,6 @@ U+2B9CD U+20025
 # Group: 𣅍・𣅯
 U+2314D U+2316F
 
-# Group: 尸・𡰣
-U+5C38 U+21C23
-U+21C40 U+2014F
-
 # Group: 尸・𠃜
 U+5C38 U+200DC
 U+2151C U+58F0
@@ -1917,15 +1913,6 @@ U+22998 U+6216
 
 # Group: 𢪢・挑
 U+22AA2 U+6311
-
-# Group: 㠪・正
-U+382A U+6B63
-
-# Group: 予・矛
-U+4E88 U+77DB
-U+8C6B U+408A
-U+3B8A U+6959
-U+21428 U+58C4
 
 # Group: 爪・𤓰・瓜
 U+722A U+244F0 U+74DC
@@ -2144,9 +2131,6 @@ U+82BB U+208E7
 U+7293 U+246C3
 U+84AD U+26DDD
 
-# Group: 𠆱・𬽫
-U+201B1 U+2CF6B
-
 # Group: 凡・𠁽・𭂬
 U+51E1 U+2007D U+2D0AC
 
@@ -2339,9 +2323,6 @@ U+260B2 U+26065
 # Group: 𢑶・𢑻
 U+22476 U+2247B
 
-# Group: 𠁤・西
-U+20064 U+897F
-
 # Group: 西・覀
 U+897F U+8980
 U+8FFA U+284BF
@@ -2379,18 +2360,6 @@ U+2B658 U+9BC2
 U+2C61F U+2620B
 U+3145D U+20A5A
 U+31743 U+5EAE
-
-# Group: 井・丼
-U+4E95 U+4E3C
-U+34DD U+206DC
-U+22488 U+38CB
-U+28677 U+286A2
-U+2430C U+24367
-U+8015 U+264EE
-U+28995 U+289BF
-
-# Group: 丼・𠂀
-U+4E3C U+20080
 
 # Group: 𠂀・𢌰
 U+20080 U+22330
@@ -3323,6 +3292,12 @@ U+9DBF U+2EB4B
 # Group: 晉・𫞄
 U+6649 U+2B784
 
+# Group: 晉・𣈆
+U+6649 U+23206
+
+# Group: 晉・㬜
+U+6649 U+3B1C
+
 # Group: ⿱⿹𠄎㐅皿・盈
 U+2DC3E U+6E8B
 U+2C0C7 U+6979
@@ -3352,9 +3327,6 @@ U+6630 U+662F
 U+8047 U+26556
 U+3C4F U+24D15
 U+9D0A U+2A011
-
-# Group: 𠂛・企
-U+2009B U+4F01
 
 # Group: 大・丈
 U+5927 U+4E08
@@ -5118,6 +5090,7 @@ U+30F29 U+30F35
 
 # Group: 我・找
 U+6211 U+627E
+U+774B U+31CB7
 
 # Group: 𨺊・𨺱
 U+28E8A U+28EB1
@@ -5138,9 +5111,6 @@ U+4484 U+4487
 
 # Group: 亊・事
 U+4E8A U+4E8B
-
-# Group: 事・𠄙
-U+4E8B U+20119
 
 # Group: 事・𪜃
 U+4E8B U+2A703
@@ -6032,9 +6002,6 @@ U+65B2 U+65B5
 U+2408A U+240EE
 U+28DD6 U+28DF5
 
-# Group: 𠩤・原
-U+20A64 U+539F
-
 # Group: 𤽄・原
 U+24F44 U+539F
 U+24FC1 U+53B5
@@ -6049,9 +6016,6 @@ U+53A1 U+20AA5
 # Group: 泉・厡
 U+6CC9 U+53A1
 U+7065 U+20AD0 U+20AD2
-
-# Group: 𠻚・暮
-U+20EDA U+66AE
 
 # Group: 川・州・𭘀
 U+5DDD U+5DDE U+2D600

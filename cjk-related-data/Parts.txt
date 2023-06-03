@@ -52,6 +52,10 @@ U+28BBA U+9459
 # Group: 𢩺・托
 U+22A7A U+6258
 
+# Group: 尸・𡰣
+U+5C38 U+21C23
+U+21C40 U+2014F
+
 # Group: 𡉅・𡉆・𠮷
 U+21245 U+21246 U+20BB7
 
@@ -175,6 +179,33 @@ U+20569 U+209C5
 U+206F0 U+526E
 U+28029 U+8E3B
 U+284B5 U+904E
+
+# Group: 𠼨・𠾅
+U+20F28 U+20F85
+
+# Group: 𠻚・暮
+U+20EDA U+66AE
+
+# Group: 𠩤・原
+U+20A64 U+539F
+
+# Group: 𠄙・事
+U+20119 U+4E8B
+
+# Group: 𠂛・企
+U+2009B U+4F01
+
+# Group: 𠂒・生
+U+20092 U+751F
+
+# Group: 𠂀・丼
+U+20080 U+4E3C
+
+# Group: 𠁤・西
+U+20064 U+897F
+
+# Group: 㠪・正
+U+382A U+6B63
 
 # Group: 𠃒・世
 U+200D2 U+4E16
