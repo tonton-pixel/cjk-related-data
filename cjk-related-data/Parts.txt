@@ -52,9 +52,9 @@ U+28BBA U+9459
 # Group: 𢩺・托
 U+22A7A U+6258
 
-# Group: 尸・𡰣
-U+5C38 U+21C23
-U+21C40 U+2014F
+# Group: 𡰣・尸
+U+21C23 U+5C38
+U+2014F U+21C40
 
 # Group: 𡉅・𡉆・𠮷
 U+21245 U+21246 U+20BB7
