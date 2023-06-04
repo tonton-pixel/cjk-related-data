@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Date: 2023-06-04
+# Date: 2023-06-05
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1453,6 +1453,16 @@ U+30B0A U+2E25A
 U+30D5F U+8B95
 U+30D5F U+27BA7
 U+31FDE U+27557
+
+# Group: 辟・闢
+U+8F9F U+95E2
+
+# Group: 郑・鄭
+U+90D1 U+912D
+U+63B7 U+64F2
+U+8E2F U+8E91
+U+2BEAB U+2291C
+U+314E3 U+210B8
 
 # Group: 单・單
 U+5355 U+55AE
@@ -5883,6 +5893,9 @@ U+31D1F U+2554D
 U+320C5 U+27DE1
 U+32127 U+8EC1
 U+322C0 U+4AEB
+
+# Group: 瘘・瘺
+U+7618 U+763A
 
 # Group: 后・後
 U+540E U+5F8C
