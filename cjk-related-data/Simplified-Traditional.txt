@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Version: 1.1
+# Version: 1.2
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 

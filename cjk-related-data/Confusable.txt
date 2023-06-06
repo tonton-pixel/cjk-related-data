@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Version: 1.1
+# Version: 1.2
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -11,6 +11,8 @@ U+4E2A U+201A4
 U+21B54 U+5C0F
 U+30020 U+306C5
 U+4E2B U+2CF38
+U+5341 U+2CEB0
+U+2C09B U+2CEB0
 U+2CEB1 U+624D
 
 # Group: 亅・𠄌
@@ -23,9 +25,6 @@ U+4E01 U+20110
 # Group: 了・𠄐
 U+4E86 U+20110
 
-# Group: 𬺰・才・寸
-U+2CEB0 U+624D U+5BF8
-
 # Group: 冂・冖
 U+5182 U+5196
 
@@ -34,9 +33,6 @@ U+300E6 U+5B80
 
 # Group: 亦・𰁜
 U+4EA6 U+3005C
-
-# Group: 䜌・龻
-U+470C U+9FBB
 
 # Group: ⿲幺言幺・𮘎・䜌
 U+2E60E U+470C
@@ -66,9 +62,6 @@ U+209CE U+2454D
 
 # Group: 𠧏・𰠉
 U+209CF U+30809
-
-# Group: 𠦝・龺
-U+2099D U+9FBA
 
 # Group: 虔・䖍
 U+8654 U+458D
@@ -6296,9 +6289,6 @@ U+291EA U+291F1
 # Group: 布・𢁓
 U+5E03 U+22053
 
-# Group: 女・𡚦
-U+5973 U+216A6
-
 # Group: 蠧・蠹
 U+8827 U+8839
 
@@ -6338,14 +6328,8 @@ U+21AD3 U+21AD1
 U+2B277 U+26FF3
 U+9DD9 U+2CDEE
 
-# Group: 土・圡・𡈽
-U+571F U+5721 U+2123D
-U+5727 U+538B
-U+7076 U+241A7
-U+58C1 U+2842C
-U+809A U+2B196
-U+2B2A5 U+2C7F6
-U+2565E U+31D4D
+# Group: 圡・𡈽
+U+5721 U+2123D
 
 # Group: 吻・𠱎
 U+543B U+20C4E
@@ -6590,6 +6574,9 @@ U+28BF3 U+947F
 
 # Group: 𠬐・𠬘
 U+20B10 U+20B18
+
+# Group: 匽・𭅝
+U+533D U+2D15D
 
 # Group: 匽・⿷匸晏
 U+5043 U+2037E
