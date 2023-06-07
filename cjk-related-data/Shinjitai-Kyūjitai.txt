@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Version: 1.2
+# Version: 1.3
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -110,9 +110,6 @@ U+62E0 U+64DA
 
 # Group: 郷・鄕
 U+90F7 U+9115
-
-# Group: 恵・惠
-U+6075 U+60E0
 
 # Group: 撃・擊
 U+6483 U+64CA
@@ -356,8 +353,29 @@ U+23C7C U+2407B	*
 U+30A1B U+258F0	*
 U+30D29 U+27B6E	*
 
-# Group: 翻・飜
+# Group: 羽・飛
+U+7FBD U+98DB	*
 U+7FFB U+98DC
+U+3202E U+464D	*
+U+4A12 U+4B20	*
+U+7FE5 U+4B21	*
+U+6829 U+698C	*
+U+2EA84 U+9A1B	*
+U+2A739 U+202C9	*
+U+42DA U+260B9	*
+U+26B73 U+26D27	*
+U+7FCE U+29673	*
+U+7FF0 U+29676	*
+U+26474 U+29678	*
+U+7FFC U+2967A	*
+U+2649C U+2967C	*
+U+7FFE U+2967D	*
+U+9B99 U+29E49	*
+U+6327 U+2AB95	*
+U+8A61 U+2B344	*
+U+86E1 U+2C81E	*
+U+26407 U+31897	*
+U+2B170 U+322D2	*
 
 # Group: 毎・每
 U+6BCE U+6BCF
@@ -619,10 +637,16 @@ U+5BDB U+5BEC
 
 # Group: 𮥶・雚
 U+2E976 U+96DA	*
-U+6A29 U+6B0A
 U+52E7 U+52F8
+U+6A29 U+6B0A
 U+6B53 U+6B61
 U+89B3 U+89C0
+U+23824 U+6B1F	*
+U+6F45 U+704C	*
+U+27F73 U+47D2	*
+U+28ADD U+9475	*
+U+2D79E U+61FD	*
+U+2E278 U+7F50	*
 
 # Group: 缶・罐
 U+7F36 U+7F50
@@ -663,8 +687,10 @@ U+72EC U+7368
 # Group: 蚕・蠶
 U+8695 U+8836
 
-# Group: 穂・穗
+# Group: 恵・惠
+U+6075 U+60E0
 U+7A42 U+7A57
+U+28ACD U+93F8	*
 
 # Group: 専・專
 U+5C02 U+5C08
