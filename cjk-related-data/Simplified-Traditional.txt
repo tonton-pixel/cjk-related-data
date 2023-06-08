@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Version: 1.4
+# Version: 1.5
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -75,6 +75,9 @@ U+2299A U+26623
 U+28CEE U+28DAC
 U+4C39 U+29EFD
 U+409D U+31D35
+
+# Group: 启・啟
+U+542F U+555F
 
 # Group: 困・睏
 U+56F0 U+774F
@@ -1220,7 +1223,6 @@ U+29A13 U+29A9B
 U+2A419 U+2A4A2
 U+206A9 U+2B996
 U+2418A U+2DD85
-U+2541A U+2E045	≈
 
 # Group: 补・補
 U+8865 U+88DC
