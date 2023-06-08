@@ -1,6 +1,6 @@
 
 # File: Duplicate.txt
-# Version: 1.3
+# Version: 1.4
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -339,5 +339,14 @@ U+2099D U+9FBA
 
 # Group: ⿲糹言糹
 U+470C U+9FBB
+
+# Group: ⿱一土
+U+738B U+248E9
+
+# Group: ⿱𠆢⿻王丷
+U+91D1 U+91D2
+
+# Group: ⿳亠二口
+U+8A00 U+8A01
 
 # EOF
