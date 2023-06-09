@@ -1,6 +1,6 @@
 
 # File: Unifiable.txt
-# Version: 1.5
+# Version: 1.6
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -350,16 +350,16 @@ U+4FF1 U+5036
 U+5024 U+503C
 U+60B3 U+60EA
 
-# Group: UCV-112 (眞・真)
-U+5861 U+586B
-U+5DD3 U+5DD4
-U+613C U+614E
-U+69C7 U+69D9
-U+771E U+771F
-U+93AD U+93AE
-U+985A U+985B
-U+9DC6 U+9DCF
-U+259D1 U+7AB4
+# Group: UCV-112 (真・眞)
+U+586B U+5861
+U+5DD4 U+5DD3
+U+614E U+613C
+U+69D9 U+69C7
+U+771F U+771E
+U+93AE U+93AD
+U+985B U+985A
+U+9DCF U+9DC6
+U+7AB4 U+259D1
 
 # Group: UCV-114 (且・旦)
 U+4E14 U+65E6

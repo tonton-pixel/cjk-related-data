@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.5
+# Version: 1.6
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -133,6 +133,53 @@ U+51F0 U+20049
 U+4E29 U+353F
 U+28CDF U+28D09
 
+# Group: 一 (Above) | 生・𤯔
+U+751F U+24BD4
+U+25465 U+25491
+U+28E93 U+9686
+U+24DEC U+24E07
+
+# Group: 一 (Above) | 白・百
+U+767D U+767E
+U+72DB U+3E6E
+U+3F1F U+3F23
+U+4F2F U+4F70
+U+2A9D0 U+5BBF
+U+29965 U+2997F
+U+273A7 U+27434
+U+3577 U+549F
+U+5E15 U+5E1E
+U+67CF U+6822
+U+6E50 U+2ADAF
+U+6CCA U+6D26
+U+3FDF U+7695
+U+7C95 U+7CA8
+U+7D48 U+7D54
+U+2C800 U+86E8
+U+8899 U+88B9
+U+8C83 U+8C8A
+U+9251 U+9286
+U+3224C U+964C
+U+2129A U+212E6
+U+30392 U+21DBE
+U+22623 U+2266F
+U+62CD U+22AE6
+U+73C0 U+2493F
+U+769B U+24FA9
+U+253B7 U+253C4
+U+479F U+27ED9
+U+8FEB U+284B9
+U+29280 U+29298
+U+7693 U+2A86C
+U+6015 U+2AAEE
+U+456B U+2C7E1	≈
+U+5CB6 U+2D596
+U+24F3F U+2DF48
+U+8236 U+2E38B
+U+82E9 U+2E3A9
+U+216F3 U+302FF
+U+23186 U+3187F
+
 # Group: 一 (Below) | 不・丕
 U+4E0D U+4E15
 U+599A U+36B0
@@ -219,6 +266,17 @@ U+5F15 U+20013
 # Group: 一 (Below) | 中・𠀐
 U+4E2D U+20010
 U+2009D U+2E4F1
+
+# Group: 一 (Below) | 𠂤・𫠨
+U+200A4 U+2B828
+U+86D7 U+272F0
+U+27482 U+27499
+
+# Group: 一 (Below) | 勿・⿱勿一
+U+543B U+20C4E
+
+# Group: 一 (Below) | 匆・⿱匆一
+U+20C2F U+20C71
 
 # Group: 丶 (Above) | 下・卞
 U+4E0B U+535E
@@ -523,6 +581,21 @@ U+8A57 U+279E6
 U+23412 U+2C0AD
 U+27EB8 U+2E6B9
 U+201F6 U+3007C
+
+# Group: ㇒ (Above) | 㠯・𠂤
+U+382F U+200A4
+U+36B6 U+21725
+U+3B52 U+6858
+U+4F40 U+20206
+U+5B98 U+219FA
+U+2703C U+270CE
+U+2128A U+5796
+U+22202 U+3882
+U+22340 U+2D696
+U+25630 U+25662
+U+26D2B U+8492
+U+279AB U+279C6
+U+306DC U+23CE8
 
 # Group: ㇒ (Above) | 㫐・皀
 U+3AD0 U+7680
@@ -894,6 +967,12 @@ U+20C48 U+314A8
 # Group: 匚・匸 (Outside) | 飢・㔳
 U+98E2 U+3533
 
+# Group: 匚・匸 (Outside) | 泊・𠥋
+U+6CCA U+2094B
+
+# Group: 匚・匸 (Outside) | 于・𭅕
+U+4E8E U+2D155
+
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
 U+2B6B4 U+4187
@@ -1098,5 +1177,18 @@ U+36A3 U+211D4
 
 # Group: 囗 (Outside) | 不・囨
 U+4E0D U+56E8
+
+# Group: 囗 (Outside) | 百・𡇚
+U+767E U+211DA
+
+# Group: 囗 (Outside) | 子・囝
+U+5B50 U+56DD
+U+6C53 U+23CF2
+
+# Group: 囗 (Outside) | 书・𱕸
+U+4E66 U+31578
+
+# Group: 囗 (Outside) | 書・圕
+U+66F8 U+5715
 
 # EOF

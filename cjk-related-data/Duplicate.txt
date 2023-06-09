@@ -1,6 +1,6 @@
 
 # File: Duplicate.txt
-# Version: 1.5
+# Version: 1.6
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -155,7 +155,7 @@ U+7A3D U+25874
 U+28BBA U+9459
 
 # Group: ⿰阝⿱夂生
-U+9686 U+28E93
+U+28E93 U+9686
 
 # Group: ⿱爫⿸尸⿱⿲止⿰丨丨巳夊
 U+21580 U+2453F
