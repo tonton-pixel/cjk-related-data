@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.7
+# Version: 1.8
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -903,6 +903,9 @@ U+2DA7D U+2AC9B
 U+6D23 U+2AD88
 U+25E55 U+2C59C
 
+# Group: 𠃍 (Outside) | 手・𫼓
+U+624B U+2BF13
+
 # Group: 冂 (Outside) | 米・𭁨
 U+7C73 U+2D068
 U+25B41 U+25BAB
@@ -1041,6 +1044,40 @@ U+6CCA U+2094B
 
 # Group: 匚・匸 (Outside) | 于・𭅕
 U+4E8E U+2D155
+
+# Group: 匚・匸 (Outside) | 王・𤣩・匡
+U+738B U+5321
+U+248E9 U+5321
+U+4EFC U+344C
+U+26B2C U+44B0
+U+869F U+45B1
+U+738F U+52BB
+U+3575 U+54D0
+U+5FF9 U+6047
+U+6789 U+6846
+U+6C6A U+6D2D
+U+2A6DF U+7736
+U+27976 U+8A86
+U+8ED6 U+8EED
+U+6282 U+22B24
+U+73AB U+22F33
+U+72C2 U+2477F
+U+26284 U+262BA
+U+43D5 U+2669E
+U+2CAC3 U+28991
+U+958F U+28D11
+U+980A U+29491
+U+3EAF U+2A94E
+U+24901 U+2ABF5
+U+95F0 U+2CBA3
+U+37B7 U+2D595
+U+65FA U+2D970
+U+32118 U+2E733
+U+73D6 U+31447
+U+21260 U+3159F
+
+# Group: 匚・匸 (Outside) | 㞷・𠥆
+U+37B7 U+20946
 
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
@@ -1262,5 +1299,11 @@ U+66F8 U+5715
 
 # Group: 囗 (Outside) | 手・𡆺
 U+624B U+211BA
+
+# Group: 囗 (Outside) | 𭜨・𡈒
+U+2D728 U+21212
+
+# Group: 囗 (Outside) | 狂・𭍢
+U+72C2 U+2D362
 
 # EOF

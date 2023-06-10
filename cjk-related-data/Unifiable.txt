@@ -1,6 +1,6 @@
 
 # File: Unifiable.txt
-# Version: 1.7
+# Version: 1.8
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2030,6 +2030,8 @@ U+278C0 U+2E5E1	*
 U+30E05 U+2B3C2	*
 U+2B8C7 U+2B8C8	*
 U+30550 U+2BFC2	*
+U+2D901 U+656B	*
+U+22D7F U+22DA1	*
 
 # Group: UCV-407 (龜)
 U+2591A U+2591B

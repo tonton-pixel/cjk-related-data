@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Version: 1.7
+# Version: 1.8
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -671,6 +671,7 @@ U+25FA1 U+2606E
 
 # Group: 手
 U+624B U+22A92 U+63B1
+U+62FF U+643B
 
 # Group: 毛
 U+6BDB U+3C8E U+6BF3
