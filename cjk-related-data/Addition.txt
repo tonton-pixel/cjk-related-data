@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.8
+# Version: 1.9
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -29,6 +29,7 @@ U+24269 U+716D
 U+26C5D U+26D1F
 U+2E36B U+2E36D
 U+2C100 U+2BBF9
+U+21585 U+2DB7D
 
 # Group: 一 (Above) | ⿱口𠕁・𠀷
 U+55E3 U+20EF8
@@ -1078,6 +1079,13 @@ U+21260 U+3159F
 
 # Group: 匚・匸 (Outside) | 㞷・𠥆
 U+37B7 U+20946
+
+# Group: 匚・匸 (Outside) | 賣・𧶠・匵
+U+8CE3 U+5335
+U+27DA0 U+5335
+
+# Group: 匚・匸 (Outside) | 夘・𰅫
+U+5918 U+3016B
 
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
