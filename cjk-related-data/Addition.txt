@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.9
+# Version: 1.10
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -246,6 +246,9 @@ U+5254 U+2D0F6
 U+220E1 U+2D629
 U+7DC6 U+2E22C
 U+2DDB1 U+31B40
+
+# Group: 一 (Above) | 幺・𢆰
+U+5E7A U+221B0
 
 # Group: 一 (Below) | 不・丕
 U+4E0D U+4E15
@@ -787,6 +790,9 @@ U+2A494 U+2A4AD
 U+9ED0 U+2EB93
 U+4B1C U+310CE
 
+# Group: 𠆢 (Above) | 𣡗・𣡰
+U+23857 U+23870
+
 # Group: 八 (Above) | 女・𭑨
 U+5973 U+2D468
 U+29DD1 U+311B6
@@ -1313,5 +1319,11 @@ U+2D728 U+21212
 
 # Group: 囗 (Outside) | 狂・𭍢
 U+72C2 U+2D362
+
+# Group: 囗 (Outside) | 𢆰・𡆻
+U+221B0 U+211BB
+
+# Group: 囗 (Outside) | 古・固
+U+53E4 U+56FA
 
 # EOF
