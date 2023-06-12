@@ -1,6 +1,6 @@
 
 # File: Series.txt
-# Version: 1.11
+# Version: 1.12
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
