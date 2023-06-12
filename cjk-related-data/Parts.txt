@@ -1,6 +1,6 @@
 
 # File: Parts.txt
-# Version: 1.10
+# Version: 1.11
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -147,8 +147,9 @@ U+2CBC0 U+2B545
 U+9701 U+2CC01
 U+2BE8A U+2D75A
 
-# Group: 𦙍・胤
-U+2664D U+80E4
+# Group: 𦙍・𦙌・胤
+U+2664D U+2664C U+80E4
+U+28866 U+28882
 
 # Group: 𠔾・舟
 U+2053E U+821F
