@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.12
+# Version: 1.13
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -693,6 +693,23 @@ U+797B U+256BD
 U+7CF8 U+7CFB
 U+27AAC U+431B
 U+28DF4 U+28DF8
+U+2D4C2 U+5B6B
+U+2E20B U+7D94
+U+42E3 U+7DD0
+U+3D97 U+2C26F
+U+2C5EB U+7E23
+U+2863A U+28642
+U+2122B U+21231
+U+22401 U+22410
+U+22B21 U+22B41
+U+2DB91 U+23A12
+U+2B2BA U+272EC
+U+2B2FC U+27683
+U+279C8 U+2B33E
+U+92AF U+2B4A0
+U+2BA79 U+2BA88
+U+7D72 U+2E214
+U+2E684 U+2E687
 
 # Group: ㇒ (Inside) | 十・𬺱
 U+5341 U+2CEB1
@@ -1406,5 +1423,16 @@ U+29CB1 U+3232A
 
 # Group: 囗 (Outside) | 䌛・𡈸
 U+431B U+21238
+
+# Group: 囗 (Outside) | 縣・𡈴
+U+7E23 U+21234
+
+# Group: 囗 (Outside) | 繇・㘥
+U+7E47 U+3625
+
+# Group: 囗 (Outside) | 丑・𡆴
+U+4E11 U+211B4
+U+626D U+22B3B
+U+45A1 U+272E1
 
 # EOF
