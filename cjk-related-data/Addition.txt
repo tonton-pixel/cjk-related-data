@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.13
+# Version: 1.14
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -355,6 +355,9 @@ U+543B U+20C4E
 # Group: 一 (Below) | 匆・⿱匆一
 U+20C2F U+20C71
 
+# Group: 一 (Below) | 宙・𡧹
+U+5B99 U+219F9
+
 # Group: 丶 (Above) | 下・卞
 U+4E0B U+535E
 U+225C4 U+5FED
@@ -641,6 +644,9 @@ U+2C09F U+233EF
 U+217C7 U+217FC
 U+6E6A U+23EB5
 
+# Group: 丶 (Overlay) | 盁・𫞯
+U+76C1 U+2B7AF
+
 # Group: ㇒ (Above) | 冋・向
 U+518B U+5411
 U+5770 U+57A7
@@ -825,11 +831,6 @@ U+4B1C U+310CE
 # Group: 𠆢 (Above) | 𣡗・𣡰
 U+23857 U+23870
 
-# Group: 八 (Above) | 女・𭑨
-U+5973 U+2D468
-U+29DD1 U+311B6
-U+9681 U+3225E
-
 # Group: 丷 (Above) | 田・𬎿
 U+7530 U+2C3BF
 U+7570 U+517E
@@ -922,6 +923,15 @@ U+8FC8 U+2E78D
 
 # Group: 丷 (Above) | 固・𡇤
 U+56FA U+211E4
+
+# Group: 八 (Above) | 女・𭑨
+U+5973 U+2D468
+U+29DD1 U+311B6
+U+9681 U+3225E
+
+# Group: 八 (Below) | 𫳂・寅
+U+2BCC2 U+5BC5
+U+2A863 U+20EE4
 
 # Group: 冖 (Above) | 卜・㓀
 U+535C U+34C0
@@ -1434,5 +1444,21 @@ U+7E47 U+3625
 U+4E11 U+211B4
 U+626D U+22B3B
 U+45A1 U+272E1
+
+# Group: 囗 (Outside) | 尃・圑
+U+5C03 U+5711
+
+# Group: 囗 (Outside) | 專・團
+U+5C08 U+5718
+U+6476 U+3A5B
+U+69EB U+6AB2
+U+429C U+7CF0
+U+2D27E U+21074
+U+819E U+233AB
+U+27415 U+274D8
+U+9C44 U+29F2F
+
+# Group: 囗 (Outside) | 傳・𡈬
+U+50B3 U+2122C
 
 # EOF
