@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Version: 1.14
+# Version: 1.15
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -4944,8 +4944,8 @@ U+20066 U+20067
 
 # Group: 田・由・甲・申
 U+7530 U+7531 U+7532 U+7533
-
-# Group: 田・由
+U+2A9C8 U+5B99 U+5BA1
+U+318EF U+305F5
 U+754F U+2AF49
 
 # Group: 田・甶
@@ -4964,10 +4964,22 @@ U+2342C U+2C0AF
 
 # Group: 由・甶
 U+7531 U+7536
+U+2AF49 U+200BD
+U+22341 U+22349
+U+26070 U+26096
 U+24C30 U+24C32
+U+8058 U+2659B
+U+5A09 U+2A981
+U+67DA U+2C0AF
 
 # Group: 申・电
 U+7533 U+7535
+U+6C20 U+2C1D0
+U+282D9 U+2C9F3
+U+8A37 U+2E601
+U+80C2 U+305C5
+U+25B10 U+30A73
+U+62BB U+317EE
 
 # Group: 申・𦥔
 U+7533 U+26954
@@ -7201,6 +7213,13 @@ U+20074 U+24563
 
 # Group: 𠃾・𤕣
 U+200FE U+24563
+
+# Group: 㚇・𱘥
+U+3687 U+31625
+U+250D1 U+2AF9D
+
+# Group: 𱨎・𱨨
+U+31A0E U+31A28
 
 # Group: Gongche Notation
 U+5408 U+2A6D7

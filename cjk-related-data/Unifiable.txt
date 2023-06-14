@@ -1,6 +1,6 @@
 
 # File: Unifiable.txt
-# Version: 1.14
+# Version: 1.15
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2248,7 +2248,7 @@ U+4A58 U+4A5A
 U+20BDD U+5467
 U+21D6E U+5CBB
 U+22EFD U+22F15
-U+25FAC U+25FC4
+U+25FAC U+25FC4	≈
 U+26A20 U+26A22
 U+27EA6 U+8D86
 U+27FE0 U+47E1
