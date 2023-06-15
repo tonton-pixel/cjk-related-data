@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Version: 1.15
+# Version: 1.16
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -850,9 +850,6 @@ U+2298D U+22991
 
 # Group: 㷀・煢
 U+3DC0 U+7162
-
-# Group: 贠・员
-U+8D20 U+5458
 
 # Group: 為・𬊓
 U+70BA U+2C293
@@ -2202,7 +2199,6 @@ U+264D9 U+264DD
 U+29DC1 U+29DF4
 U+20098 U+20A17
 U+80A9 U+2668C
-U+273C1 U+28449	≈
 U+65A4 U+2D91F
 U+573B U+2D38B
 U+6C82 U+2DC02
@@ -2351,6 +2347,7 @@ U+8866 U+2761C
 U+76F0 U+4012
 U+37C1 U+21DA8
 U+2575D U+79CA
+U+286FB U+286F2
 U+79C6 U+412D
 U+25F8D U+42B9
 U+2D1BA U+5400
@@ -3192,14 +3189,13 @@ U+225F6 U+22606
 U+21509 U+21513
 U+283FD U+28400
 
+# Group: 𣄼・百
+U+2313C U+767E
+U+51EC U+51EE
+U+22606 U+2AAEE
+
 # Group: 𱶋・𱶔
 U+31D8B U+31D94
-
-# Group: 𢭡・挿
-U+22B61 U+633F
-
-# Group: 𦗉・𬚦
-U+265C9 U+2C6A6
 
 # Group: 厎・底
 U+538E U+5E95
@@ -3914,16 +3910,6 @@ U+30A38 U+417E
 U+30F13 U+4910
 U+31031 U+28F10
 U+3123B U+2A17D
-
-# Group: 刃・刅
-U+5203 U+5205
-U+8842 U+4610
-U+22737 U+227A4
-U+206DD U+5231
-U+524F U+5259
-U+207B4 U+207D0
-U+7D09 U+25FA0
-U+3CBD U+3197B
 
 # Group: 戊・戉
 U+620A U+6209
@@ -4911,6 +4897,10 @@ U+82B1 U+82B2
 
 # Group: 厶・口
 U+52FE U+53E5
+U+53B9 U+53F4
+
+# Group: 贠・员
+U+8D20 U+5458
 
 # Group: 史・吏
 U+53F2 U+540F
@@ -7220,6 +7210,39 @@ U+250D1 U+2AF9D
 
 # Group: 𱨎・𱨨
 U+31A0E U+31A28
+
+# Group: 𧏁・𨑉
+U+273C1 U+28449
+
+# Group: 𣜒・𬅆
+U+23712 U+2C146
+
+# Group: 𤀡・𭳖
+U+24021 U+2DCD6
+
+# Group: 論・𧪺
+U+8AD6 U+27ABA
+
+# Group: 諞・𧫲
+U+8ADE U+27AF2
+
+# Group: 狦・𤞹
+U+72E6 U+247B9
+
+# Group: 𱬗・𱬤
+U+31B17 U+31B24
+
+# Group: 𢱯・擥
+U+22C6F U+64E5
+
+# Group: 𡙳・𢱬
+U+21673 U+22C6C
+
+# Group: 尭・𫝔
+U+5C2D U+2B754
+
+# Group: 𢀯・𢀰
+U+2202F U+22030
 
 # Group: Gongche Notation
 U+5408 U+2A6D7

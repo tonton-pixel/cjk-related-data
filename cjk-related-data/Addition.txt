@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.15
+# Version: 1.16
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -524,6 +524,19 @@ U+297FE U+2CCAE
 U+2DE3B U+2DE41
 U+2CA02 U+30E80
 
+# Group: 丶 (Right) | 刃・刅
+U+5203 U+5205
+U+8842 U+4610
+U+22737 U+227A4
+U+206DD U+5231
+U+524F U+5259
+U+207B4 U+207D0
+U+7D09 U+25FA0
+U+3CBD U+3197B
+U+9FC4 U+6881
+U+25C4B U+7C17
+U+25E6D U+7CB1
+
 # Group: 丶 (Inside) | 又・叉
 U+53C8 U+53C9
 U+3177D U+38FE
@@ -649,6 +662,10 @@ U+5384 U+20098	≈
 U+216D6 U+216E3
 U+25449 U+25463
 U+536E U+20A17
+
+# Group: 丶 (Inside) | 石・䂖
+U+77F3 U+4096
+U+25534 U+25559
 
 # Group: 丶 (Overlay) | 勿・匆
 U+52FF U+5306
@@ -849,6 +866,9 @@ U+95F7 U+2E932
 U+228F1 U+3049D
 U+2C313 U+3081C
 U+29088 U+32274
+
+# Group: ㇒ (Overlay) | 凬・𠙊
+U+51EC U+2064A
 
 # Group: 𠆢 (Above) | 良・食
 U+826F U+98DF
