@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.20
+# Version: 1.21
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -263,6 +263,52 @@ U+5B99 U+2BCC2
 # Group: 一 (Above) | 疋・𤴕
 U+758B U+24D15
 
+# Group: 一 (Above) | 進・⿱一進
+U+2D89C U+22D98
+
+# Group: 一 (Above) | 又・⿱一又
+U+53CD U+20B21
+U+8270 U+31F47
+
+# Group: 一 (Above) | 旦・亘
+U+65E6 U+4E98
+U+89DB U+4699
+U+4C47 U+4C4E
+U+206E3 U+522F
+U+547E U+54BA
+U+5766 U+57A3
+U+59B2 U+59EE
+U+2ACA9 U+6966
+U+2D58C U+5CD8
+U+601B U+6052
+U+20D92 U+20DD0
+U+26747 U+2678C
+U+2C5E5 U+7E06
+U+3ADC U+6645
+U+67E6 U+6853
+U+6CF9 U+6D39
+U+709F U+70DC
+U+72DA U+72DF
+U+42CE U+7D59
+U+26B39 U+8341
+U+4F46 U+20217
+U+2D202 U+2D21A
+U+2084E U+2085A
+U+62C5 U+22B0E
+U+25143 U+25168
+U+2B151 U+2637C
+U+80C6 U+266B8
+U+45A7 U+272B3
+U+47A1 U+27EDA
+U+29470 U+294A2
+U+2C61C U+2B120
+U+22607 U+2D729
+U+25635 U+2E06D
+U+25472 U+309B6
+U+8A5A U+30D2E
+U+926D U+30F27
+U+311DE U+311E5
+
 # Group: 一 (Below) | 不・丕
 U+4E0D U+4E15
 U+599A U+36B0
@@ -366,6 +412,11 @@ U+5B99 U+219F9
 
 # Group: 一 (Below) | 𫠩・𠄮
 U+2B829 U+2012E
+
+# Group: 一 (Below) | 𣄼・亘
+U+2313C U+4E98
+U+22606 U+6052
+U+309F3 U+2E06D
 
 # Group: 丶 (Above) | 下・卞
 U+4E0B U+535E
@@ -673,6 +724,12 @@ U+536E U+20A17
 U+77F3 U+4096
 U+25534 U+25559
 
+# Group: 丶 (Inside) | 支・⿺支丶
+U+4F0E U+201DE
+
+# Group: 丶 (Inside) | 尻・𫝲
+U+5C3B U+2B772
+
 # Group: 丶 (Overlay) | 勿・匆
 U+52FF U+5306
 U+5FFD U+6031
@@ -763,6 +820,38 @@ U+2DA77 U+688E
 
 # Group: ㇒ (Above) | 固・⿱㇒固
 U+797B U+256BD
+
+# Group: ㇒ (Above) | 皿・血
+U+76BF U+8840
+U+2594A U+419D
+U+32228 U+4997
+U+2D71B U+6064
+U+3CD1 U+6D2B
+U+25043 U+8841
+U+400C U+884B
+U+20C18 U+20CA3
+U+4004 U+21A96
+U+22E14 U+22E4B
+U+30932 U+275A7
+U+2503F U+275A8
+U+2504D U+275AB
+U+76C3 U+275AF
+U+2506D U+275B6
+U+25070 U+275B8
+U+2507A U+275BA
+U+76DF U+275BD
+U+25088 U+275C9
+U+26F2C U+275CE
+U+250B1 U+275D1
+U+2AF99 U+275D5
+U+2709A U+275D8
+U+400D U+275DC
+U+2505F U+2C83C
+
+# Group: ㇒ (Above) | 龱・囟
+U+9FB1 U+56DF
+U+21357 U+5816
+U+2A985 U+36F4
 
 # Group: ㇒ (Above) | 糸・系
 U+7CF8 U+7CFB
@@ -1009,6 +1098,11 @@ U+9681 U+3225E
 U+2BCC2 U+5BC5
 U+2A863 U+20EE4
 
+# Group: 八 (Below) | 丘・兵・𠔊
+U+4E18 U+5175
+U+4E18 U+2050A
+U+8657 U+271C0
+
 # Group: 冖 (Above) | 卜・㓀
 U+535C U+34C0
 
@@ -1029,12 +1123,16 @@ U+5765 U+315B4
 # Group: 冖 (Above) | 顛・𠖩
 U+985B U+205A9
 
-# Group: 冖 (Above) | 𣺅・𭲧
+# Group: 冖 (Above) | ⿱臼勿・⿳冖臼勿
 U+23E85 U+2DCA7
 
 # Group: 冖 (Above) | 舃・⿱冖舃
 U+2486F U+248A7
 U+7361 U+248A7
+
+# Group: 冖 (Above) | 与・写
+U+4E0E U+5199
+U+321EE U+497E
 
 # Group: 𠃊 (Outside) | 𠧪・𠧴
 U+209EA U+209F4
@@ -1077,10 +1175,13 @@ U+6C23 U+23C65
 U+6D23 U+2AD95
 U+42DB U+2E21F
 
+# Group: 凵 (Outside) | 丙・𠚇
+U+4E19 U+20687
+
 # Group: 勹 (Outside) | 幺・𠣎
 U+5E7A U+208CE
 
-# Group: 勹 (Outside) | 𦍝・𦍿
+# Group: 勹 (Outside) | 𢆰・⿹勹𢆰
 U+2635D U+2637F
 
 # Group: 匚・匸 (Outside) | 貴・匱
@@ -1409,6 +1510,9 @@ U+8C9F U+570E
 U+8011 U+570C
 U+7BC5 U+25CD9
 
+# Group: 囗 (Outside) | 日・𣅍
+U+65E5 U+2314D
+
 # Group: 囗 (Outside) | 田・𡇍
 U+7530 U+211CD
 
@@ -1553,5 +1657,16 @@ U+50B3 U+2122C
 
 # Group: 囗 (Outside) | 勿・囫
 U+52FF U+56EB
+
+# Group: 囗 (Outside) | 无・𡆶
+U+65E0 U+211B6
+
+# Group: 囗 (Outside) | 元・园
+U+5143 U+56ED
+U+6C85 U+3199C
+U+82AB U+31F6A
+
+# Group: 囗 (Outside) | 兵・𡇥
+U+5175 U+211E5
 
 # EOF
