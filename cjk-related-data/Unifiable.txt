@@ -1,6 +1,6 @@
 
 # File: Unifiable.txt
-# Version: 1.25
+# Version: 1.26
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 

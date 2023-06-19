@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.25
+# Version: 1.26
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -862,6 +862,20 @@ U+2A985 U+36F4
 
 # Group: ㇒ (Above) | 呂・⿱㇒呂
 U+68A0 U+234E1
+
+# Group: ㇒ (Above) | 日・白
+U+65E5 U+767D
+U+666E U+24F7D
+U+2315C U+7686
+U+3AEE U+24F64
+U+6662 U+30919
+U+6772 U+23429
+U+254D6 U+2551F
+U+2870D U+2CA8E
+U+83D2 U+2E3E6
+
+# Group: ㇒ (Above) | 目・自
+U+76EE U+81EA
 
 # Group: ㇒ (Above) | 糸・系
 U+7CF8 U+7CFB
