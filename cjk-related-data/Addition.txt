@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.24
+# Version: 1.25
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -860,6 +860,9 @@ U+9FB1 U+56DF
 U+21357 U+5816
 U+2A985 U+36F4
 
+# Group: ㇒ (Above) | 呂・⿱㇒呂
+U+68A0 U+234E1
+
 # Group: ㇒ (Above) | 糸・系
 U+7CF8 U+7CFB
 U+27AAC U+431B
@@ -1163,6 +1166,9 @@ U+2DA7D U+2AC9B
 U+6D23 U+2AD88
 U+25E55 U+2C59C
 
+# Group: 𠃊 (Outside) | 𦣻・𦣽
+U+268FB U+268FD
+
 # Group: 𠃍 (Outside) | 手・𫼓
 U+624B U+2BF13
 
@@ -1184,6 +1190,9 @@ U+42DB U+2E21F
 
 # Group: 凵 (Outside) | 丙・𠚇
 U+4E19 U+20687
+
+# Group: 凵 (Outside) | 𦣻・𠚑
+U+268FB U+20691
 
 # Group: 勹 (Outside) | 幺・𠣎
 U+5E7A U+208CE
@@ -1526,9 +1535,6 @@ U+7530 U+211CD
 # Group: 囗 (Outside) | 異・𭍭
 U+7570 U+2D36D
 
-# Group: 囗 (Outside) | 𦣻・𡇢
-U+268FB U+211E2
-
 # Group: 囗 (Outside) | 予・𡆹
 U+4E88 U+211B9
 
@@ -1572,6 +1578,9 @@ U+4E0D U+56E8
 
 # Group: 囗 (Outside) | 百・𡇚
 U+767E U+211DA
+
+# Group: 囗 (Outside) | 𦣻・𡇢
+U+268FB U+211E2
 
 # Group: 囗 (Outside) | 子・囝
 U+5B50 U+56DD

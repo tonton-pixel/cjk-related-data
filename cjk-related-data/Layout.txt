@@ -1,6 +1,6 @@
 
 # File: Layout.txt
-# Version: 1.24
+# Version: 1.25
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -575,6 +575,9 @@ U+9759 U+32296
 U+28E18 U+909D
 U+28F4F U+913A
 U+2230A U+2230C
+U+20B64 U+3147B
+U+25593 U+25595
+U+28E6C U+90D8
 
 # Group: ⿰①①・⿱①①
 U+6BD4 U+2B9C7
@@ -1703,6 +1706,7 @@ U+305D3 U+5E8A
 U+30A1C U+221F2
 U+27FC8 U+2BDED	≈
 U+3113E U+303F2
+U+55AD U+20DD7
 
 # Group: ⿰①②・⿹①②
 U+28F93 U+2BEFC
