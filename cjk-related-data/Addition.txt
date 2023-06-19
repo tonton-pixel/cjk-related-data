@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.23
+# Version: 1.24
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -420,6 +420,10 @@ U+2B829 U+2012E
 U+2313C U+4E98
 U+22606 U+6052
 U+309F3 U+2E06D
+
+# Group: 一 (Below) | 乍・⿱乍一
+U+4F5C U+20228
+U+538F U+20A4E
 
 # Group: 丶 (Above) | 下・卞
 U+4E0B U+535E
@@ -1671,5 +1675,23 @@ U+82AB U+31F6A
 
 # Group: 囗 (Outside) | 兵・𡇥
 U+5175 U+211E5
+
+# Group: 囗 (Outside) | 頁・⿴囗頁
+U+346F U+203A1
+
+# Group: 囗 (Outside) | 王・囯
+U+738B U+56EF
+U+43D5 U+266E2
+
+# Group: 囗 (Outside) | 玉・国
+U+7389 U+56FD
+U+20C27 U+556F
+U+22ADB U+63B4
+U+27263 U+8748
+U+2C535 U+2B086
+U+3197C U+2C1F9
+U+31F51 U+2C73F
+U+212A9 U+315BA
+U+7821 U+31D0F
 
 # EOF
