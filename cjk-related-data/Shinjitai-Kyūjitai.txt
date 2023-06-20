@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Version: 1.28
+# Version: 1.29
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -239,31 +239,6 @@ U+702C U+7028
 
 # Group: 戸・户・戶・盧
 U+7089 U+7210
-U+21D58 U+3820	*
-U+22EFB U+3AAD	*
-U+2C3DE U+3FD6	*
-U+20BD6 U+56A7	*
-U+21274 U+58DA	*
-U+5E90 U+5EEC	*
-U+62A4 U+650E	*
-U+6608 U+66E5	*
-U+67A6 U+6AE8	*
-U+6CAA U+7018	*
-U+25105 U+77D1	*
-U+25AFF U+7C5A	*
-U+42C6 U+7E91	*
-U+26645 U+81DA	*
-U+822E U+826B	*
-U+82A6 U+8606	*
-U+484E U+8F64	*
-U+9229 U+946A	*
-U+31094 U+9871	*
-U+99BF U+9A62	*
-U+9B72 U+9C78	*
-U+29FC7 U+9E15	*
-U+2CF6C U+20433	*
-U+225FC U+22948	*
-U+96C7 U+29068	≈
 
 # Group: 𧈡・蚤
 U+27221 U+86A4	*

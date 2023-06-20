@@ -1,6 +1,6 @@
 
 # File: Unifiable.txt
-# Version: 1.28
+# Version: 1.29
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1694,6 +1694,7 @@ U+4E2C U+723F
 U+9171 U+28853
 U+20B27 U+2456D
 U+22227 U+2224E
+U+2D8E3 U+2DDC1
 
 # Group: UCV-365 (庶・庻)
 U+5EB6 U+5EBB
