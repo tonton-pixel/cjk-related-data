@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Version: 1.30
+# Version: 1.31
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -595,6 +595,22 @@ U+215D3 U+2160B
 
 # Group: ⿱巾一
 U+22089
+
+# Group: 丑
+U+4E11
+U+677B U+23516 U+6A7B
+U+2A72B U+202A3
+U+541C U+20D3E
+U+626D U+22BA2
+U+7084 U+2429B
+U+25766 U+257F7
+U+7C88 U+25EA3
+U+43D4 U+2673B
+U+30C2A U+26C6A
+U+46BC U+27A56
+U+27FD4 U+28093
+U+2867A U+28708
+U+9775 U+292D3
 
 # Group: 廿
 U+5EFF U+2099C

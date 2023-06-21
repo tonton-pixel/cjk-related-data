@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Version: 1.30
+# Version: 1.31
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -64,6 +64,25 @@ U+72B6 U+72C0
 U+20B27 U+2456D
 U+22227 U+2224E
 U+2D8E3 U+2DDC1
+
+# Group: 关・關
+U+5173 U+95DC
+U+54B2 U+2116D
+U+2D479 U+21921
+U+22B08 U+22E84
+U+681A U+23838
+
+# Group: 联・聯
+U+8054 U+806F
+U+23F8D U+3D8C
+U+2A91A U+58E3
+U+31B0F U+244A4
+
+# Group: 丑・醜
+U+4E11 U+919C
+U+626D U+22E67
+U+30C2A U+270DD
+U+311A7 U+29F64
 
 # Group: 刘・劉
 U+5218 U+5289
