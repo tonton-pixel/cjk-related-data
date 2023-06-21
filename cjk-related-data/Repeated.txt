@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Version: 1.29
+# Version: 1.30
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1518,6 +1518,11 @@ U+2A38C U+312ED
 # Group: 車
 U+8ECA U+485B U+8F5F U+283FF
 U+8F1A U+283D6
+
+# Group: 兑
+U+5151
+U+7D90 U+261B3
+U+4FBB U+300BC	≈
 
 # Group: ⿱㕕小・⿱厶厼
 U+21B9F

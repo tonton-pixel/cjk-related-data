@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.29
+# Version: 1.30
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1180,7 +1180,22 @@ U+2A863 U+20EE4
 # Group: 八 (Below) | 丘・兵・𠔊
 U+4E18 U+5175
 U+4E18 U+2050A
+U+5775 U+3643
+U+36B1 U+5A26
+U+62DE U+6360
+U+2AC80 U+68B9
+U+3CCB U+6D5C
+U+2B492 U+92F2
+U+29B21 U+9B02
+U+20C0B U+20D07
 U+8657 U+271C0
+U+2E17D U+2E194	≈
+U+90B1 U+286EA
+U+23506 U+2C102
+U+24D62 U+2DF11
+U+40A1 U+2E020
+U+830A U+2E3CA
+U+86AF U+2E510
 
 # Group: 八 (Below) | 𦣻・頁
 U+268FB U+9801
