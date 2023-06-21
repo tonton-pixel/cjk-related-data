@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.32
+# Version: 1.33
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -570,22 +570,6 @@ U+22AD2 U+22B20
 # Group: 丶・一 (Above) | 匨・𫧔
 U+5328 U+2B9D4
 
-# Group: 丶 (Below) | 大・太
-U+5927 U+592A
-U+5FD5 U+5FF2
-U+6C4F U+6C70
-U+23D18 U+3CF2
-U+8FBE U+8FCF
-U+3432 U+3440
-U+38D5 U+38D6
-U+20BC8 U+5454
-U+26A10 U+8226
-U+8ED1 U+8EDA
-U+594B U+21612
-U+2A41D U+2A425
-U+99B1 U+99C4
-U+21619 U+21652
-
 # Group: 丶・一 (Below) | 氏・氐
 U+6C0F U+6C10
 U+8210 U+445B
@@ -633,6 +617,22 @@ U+2894C U+2CACC
 U+297FE U+2CCAE
 U+2DE3B U+2DE41
 U+2CA02 U+30E80
+
+# Group: 丶 (Below) | 大・太
+U+5927 U+592A
+U+5FD5 U+5FF2
+U+6C4F U+6C70
+U+23D18 U+3CF2
+U+8FBE U+8FCF
+U+3432 U+3440
+U+38D5 U+38D6
+U+20BC8 U+5454
+U+26A10 U+8226
+U+8ED1 U+8EDA
+U+594B U+21612
+U+2A41D U+2A425
+U+99B1 U+99C4
+U+21619 U+21652
 
 # Group: 丶 (Right) | 刃・刅
 U+5203 U+5205
@@ -922,6 +922,39 @@ U+83D2 U+2E3E6
 
 # Group: ㇒ (Above) | 目・自
 U+76EE U+81EA
+U+2A72E U+3451
+U+2D558 U+3792
+U+25217 U+4AC1
+U+301CF U+54B1
+U+72CA U+81ED
+U+4810 U+4817
+U+6E68 U+6EB4
+U+7291 U+246AF
+U+90F9 U+9113
+U+9612 U+30FF8
+U+95C3 U+28D91
+U+242C0 U+2DD69
+U+2872F U+26921
+U+27F40 U+27F52
+U+2129F U+578D
+U+22186 U+22183	≈
+U+2AAE9 U+606F
+U+6CEA U+6D0E
+U+24ECB U+765F
+U+250E4 U+81EB
+U+23425 U+81EC
+U+211CC U+211DD
+U+2D470 U+2170D
+U+250F2 U+22342
+U+2D71C U+22646
+U+76F8 U+23449
+U+234A8 U+234DB
+U+771A U+24BE3
+U+253B6 U+253C6
+U+250FA U+268FE
+U+3094D U+26900
+U+25115 U+26904
+U+82DC U+26905
 
 # Group: ㇒ (Above) | 糸・系
 U+7CF8 U+7CFB
@@ -1271,6 +1304,12 @@ U+268FB U+268FD
 # Group: 𠃍 (Outside) | 手・𫼓
 U+624B U+2BF13
 
+# Group: 厂 (Outside) | 相・厢
+U+76F8 U+53A2
+
+# Group: ⺄ (Outside) | 相・𱎈
+U+76F8 U+31388
+
 # Group: 冂 (Outside) | 米・𭁨
 U+7C73 U+2D068
 U+25B41 U+25BAB
@@ -1473,6 +1512,15 @@ U+66F6 U+532B
 # Group: 匚・匸 (Outside) | 壯・匨
 U+58EF U+5328
 U+6889 U+3B9C
+
+# Group: 匚・匸 (Outside) | 臱・𠥣
+U+81F1 U+20963
+
+# Group: 匚・匸 (Outside) | 算・匴
+U+7B97 U+5334
+
+# Group: 匚・匸 (Outside) | 相・𰅧
+U+76F8 U+30167
 
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
@@ -1806,6 +1854,9 @@ U+31F51 U+2C73F
 U+212A9 U+315BA
 U+7821 U+31D0F
 
+# Group: 囗 (Outside) | 目・𡇌
+U+76EE U+211CC
+
 # Group: 囗 (Outside) | 自・𡇝
 U+81EA U+211DD
 
@@ -1814,5 +1865,8 @@ U+6E0A U+2121B
 
 # Group: 囗 (Outside) | 淵・㘤
 U+6DF5 U+3624
+
+# Group: 囗 (Outside) | 算・𭍵
+U+7B97 U+2D375
 
 # EOF

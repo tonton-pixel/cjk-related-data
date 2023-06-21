@@ -1,6 +1,6 @@
 
 # File: Series.txt
-# Version: 1.32
+# Version: 1.33
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -22,6 +22,7 @@ U+20003 U+20007 U+4E14
 
 # Group: 白…
 U+767D U+81EA
+U+7687 U+26903
 
 # Group: 𫩑…
 U+2BA51 U+767E U+268FB
