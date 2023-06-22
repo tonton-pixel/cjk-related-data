@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.34
+# Version: 1.35
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1539,6 +1539,29 @@ U+7B97 U+5334
 # Group: 匚・匸 (Outside) | 相・𰅧
 U+76F8 U+30167
 
+# Group: 匚・匸 (Outside) | 若・匿
+U+82E5 U+533F
+U+2272A U+397E
+U+7770 U+4065
+U+881A U+460C
+U+5A7C U+5ADF
+U+60F9 U+615D
+U+3603 U+31554
+U+3183A U+30538
+U+2D9B2 U+66B1
+U+558F U+20F4B
+U+63BF U+22D1A
+U+6949 U+23617
+U+307BE U+24390
+U+30BB7 U+267FB
+U+27377 U+273FE
+U+9C19 U+29EB1
+U+6E03 U+2DC76
+U+2EAB0 U+2EAB3
+
+# Group: 匚・匸 (Outside) | 惹・𱑌
+U+60F9 U+3144C
+
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
 U+2B6B4 U+4187
@@ -1885,5 +1908,9 @@ U+6DF5 U+3624
 
 # Group: 囗 (Outside) | 算・𭍵
 U+7B97 U+2D375
+
+# Group: 囗 (Outside) | 若・𡈉
+U+82E5 U+21209
+U+26D08 U+2E446
 
 # EOF
