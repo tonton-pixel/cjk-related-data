@@ -1,6 +1,6 @@
 
 # File: Parts.txt
-# Version: 1.38
+# Version: 1.39
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -19,6 +19,18 @@ U+23C71 U+6C34
 
 # Group: 𰍧・𰍨・小
 U+30367 U+30368 U+5C0F
+
+# Group: 𡤼・孑
+U+2193C U+5B51
+
+# Group: 𡤼・子
+U+2193C U+5B50
+U+27E96 U+27E99
+
+# Group: 孒・子
+U+5B52 U+5B50
+U+27E90 U+27E99
+U+22A6F U+21945
 
 # Group: 𬻍・𬻌・東
 U+2CECD U+2CECC U+6771
@@ -107,6 +119,9 @@ U+2CEB7 U+2CEBB
 
 # Group: 𬺷・𧰧
 U+2CEB7 U+27C27
+
+# Group: 𣅐・旻
+U+23150 U+65FB
 
 # Group: 𣏊・枂
 U+233CA U+6782
