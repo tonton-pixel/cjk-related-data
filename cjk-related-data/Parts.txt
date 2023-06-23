@@ -1,6 +1,6 @@
 
 # File: Parts.txt
-# Version: 1.37
+# Version: 1.38
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -51,6 +51,9 @@ U+2B851 U+200B9
 # Group: 𧘛・袨
 U+2761B U+88A8
 
+# Group: 𨑃・𨑄
+U+28443 U+28444
+
 # Group: 𰒨・幾
 U+304A8 U+5E7E
 
@@ -82,6 +85,9 @@ U+22998 U+6216
 
 # Group: 𢪢・挑
 U+22AA2 U+6311
+
+# Group: 𫟖・藏
+U+2B7D6 U+85CF
 
 # Group: 𬺻・豕
 U+2CEBB U+8C55
@@ -117,6 +123,9 @@ U+2808F U+30E1C
 U+29E0F U+29E6E
 U+2D4F5 U+30347
 U+30C52 U+26CD1
+
+# Group: 𡞼・嫄
+U+217BC U+5AC4
 
 # Group: 𨈐・𨈑・身
 U+28210 U+28211 U+8EAB
