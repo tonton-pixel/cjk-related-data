@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.41
+# Version: 1.42
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2126,5 +2126,8 @@ U+6E05 U+2DC7F
 
 # Group: 囗 (Outside) | 責・𭍬
 U+8CAC U+2D36C
+
+# Group: 囗 (Outside) | 咢・𡈆
+U+54A2 U+21206
 
 # EOF

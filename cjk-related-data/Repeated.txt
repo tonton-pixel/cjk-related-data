@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Version: 1.41
+# Version: 1.42
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -967,10 +967,6 @@ U+5E73 U+303E6
 # Group: 正
 U+6B63 U+30664 U+31942
 
-# Group: 矢
-U+77E2 U+30996
-U+2C474 U+309A3
-
 # Group: 白
 U+767D U+3FDF U+769B
 U+2CE52
@@ -1146,8 +1142,13 @@ U+2A2D9
 # Group: 出
 U+51FA U+30114
 
+# Group: 矢
+U+77E2 U+30996
+U+2C474 U+309A3
+
 # Group: 失
 U+5931 U+302E3
+U+28CFA U+28DE5
 
 # Group: 去
 U+53BB U+20B11
