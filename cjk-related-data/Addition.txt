@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.40
+# Version: 1.41
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1174,6 +1174,22 @@ U+2BA79 U+2BA88
 U+7D72 U+2E214
 U+2E684 U+2E687
 
+# Group: ㇒ (Left) | 土・𠂒
+U+571F U+20092
+U+20BB7 U+544A
+U+5725 U+5148
+U+2048C U+26B76
+U+212F0 U+515F
+
+# Group: ㇒ (Left) | 龶・生
+U+9FB6 U+751F
+U+5F57 U+30424
+U+6BD2 U+24BDF
+U+2A491 U+2A4A6
+U+9752 U+24BDD
+U+225E3 U+22621
+U+2D592 U+2DEB1
+
 # Group: ㇒ (Inside) | 十・𬺱
 U+5341 U+2CEB1
 
@@ -1744,6 +1760,15 @@ U+2EAB0 U+2EAB3
 # Group: 匚・匸 (Outside) | 惹・𱑌
 U+60F9 U+3144C
 
+# Group: 匚・匸 (Outside) | 㝬・𫧚
+U+376C U+2B9DA
+
+# Group: 匚・匸 (Outside) | 𡉚・㞷・匩
+U+2125A U+5329
+U+37B7 U+5329
+U+22687 U+2274E
+U+23CEB U+23D95
+
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
 U+2B6B4 U+4187
@@ -2094,5 +2119,12 @@ U+7B97 U+2D375
 # Group: 囗 (Outside) | 若・𡈉
 U+82E5 U+21209
 U+26D08 U+2E446
+
+# Group: 囗 (Outside) | 青・圊
+U+9752 U+570A
+U+6E05 U+2DC7F
+
+# Group: 囗 (Outside) | 責・𭍬
+U+8CAC U+2D36C
 
 # EOF
