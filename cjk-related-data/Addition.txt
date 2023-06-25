@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.42
+# Version: 1.43
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1189,6 +1189,15 @@ U+2A491 U+2A4A6
 U+9752 U+24BDD
 U+225E3 U+22621
 U+2D592 U+2DEB1
+
+# Group: ㇒ (Left) | 天・矢
+U+5929 U+77E2
+
+# Group: ㇒ (Left) | 夫・失
+U+592B U+5931
+
+# Group: ㇒ (Left) | 未・朱
+U+672A U+6731
 
 # Group: ㇒ (Inside) | 十・𬺱
 U+5341 U+2CEB1
