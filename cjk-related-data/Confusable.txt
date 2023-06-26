@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Version: 1.45
+# Version: 1.46
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1815,8 +1815,8 @@ U+28979 U+92AB
 # Group: 𥡄・𥡌・穐
 U+25844 U+2584C U+7A50
 
-# Group: 𡦭・𡦲
-U+219AD U+219B2
+# Group: 𡦲・𡦭
+U+219B2 U+219AD
 
 # Group: 𬐘・寍
 U+2C418 U+5BCD
@@ -4020,7 +4020,7 @@ U+6559 U+654E
 U+31229 U+2A061
 U+9175 U+28846
 U+219B3 U+219B4
-U+219B2 U+219AD
+U+219B2 U+219AD	≈
 
 # Group: 𦒱・考
 U+264B1 U+8003
@@ -7241,6 +7241,13 @@ U+2D547 U+5FDD
 U+23D5A U+6DFB
 U+28C81 U+2B517
 U+24C8E U+24C96
+
+# Group: 难・𮥷
+U+96BE U+2E977
+U+235D9 U+236B3
+U+31B98 U+2AEC9
+U+2D27C U+3152A
+U+644A U+31837
 
 # Group: 艹・𥫗
 U+8279 U+25AD7

@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.45
+# Version: 1.46
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
