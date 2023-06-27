@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Version: 1.47
+# Version: 1.48
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -573,9 +573,6 @@ U+56D9 U+56DE
 # Group: 囘・回
 U+56D8 U+56DE
 
-# Group: 靑・青・𤯝・𤯞
-U+9751 U+9752 U+24BDD U+24BDE
-
 # Group: ⿱一・⿱士冖
 U+23AE0 U+2A0DF
 
@@ -724,6 +721,7 @@ U+51E0 U+20627
 U+353E U+5DF1 U+5DF2 U+5DF3
 U+572E U+2124F U+572F
 U+8291 U+26B0A
+U+28453 U+28456
 U+2972E U+2976E
 
 # Group: 本・𠥽
@@ -2075,6 +2073,7 @@ U+5238 U+52B5
 U+206A8 U+20833
 U+2E55D U+275A9
 U+8FA7 U+8FA6
+U+20778 U+2D136
 
 # Group: 刀・刃
 U+5200 U+5203
@@ -3042,11 +3041,6 @@ U+31591 U+2D38F
 
 # Group: 𢆢・𢆩
 U+221A2 U+221A9
-
-# Group: ⿳白穴方・臱
-U+77C8 U+77CF
-U+27B47 U+27B6E
-U+29570 U+4AF5
 
 # Group: 凸・凹
 U+51F8 U+51F9
@@ -5722,9 +5716,6 @@ U+25DA2 U+426D
 U+2080C U+20817
 U+28B7E U+28B7F
 
-# Group: 木・禾
-U+34FC U+34FF
-
 # Group: ・勿
 U+41D6 U+7B0F
 U+2124D U+573D
@@ -7192,6 +7183,11 @@ U+767D U+81EA
 U+7683 U+27806
 U+24F87 U+2E35C
 
+# Group: ⿳白穴方・臱
+U+77C8 U+77CF
+U+27B47 U+27B6E
+U+29570 U+4AF5
+
 # Group: 垂・𡸁
 U+5782 U+21E01
 U+21448 U+21F3B
@@ -7235,6 +7231,14 @@ U+2D547 U+5FDD
 U+23D5A U+6DFB
 U+28C81 U+2B517
 U+24C8E U+24C96
+
+# Group: 㕘・叅
+U+3558 U+53C5
+U+24CD1 U+24CD2
+U+24E6E U+24E91
+U+29975 U+32302
+U+30742 U+3D55
+U+27009 U+27051
 
 # Group: 难・𮥷
 U+96BE U+2E977
@@ -7306,6 +7310,66 @@ U+4962 U+2B4D6
 U+9F15 U+2DF78
 U+9F1E U+2EBAB
 U+9F17 U+31C88
+
+# Group: 𫸧・局
+U+2BE27 U+5C40
+
+# Group: 慺・𢡌
+U+617A U+2284C
+
+# Group: 𢳗・𢵍
+U+22CD7 U+22D4D
+
+# Group: 𣑾・𣑅
+U+2347E U+23445
+
+# Group: 𦘒・聿
+U+26612 U+807F
+U+24302 U+2431B
+
+# Group: ⺻・
+U+24138 U+2413C
+
+# Group: 盡・𧗊
+U+76E1 U+275CA
+
+# Group: 𧆲・䖒
+U+271B2 U+4592
+U+250D3 U+2721A
+
+# Group: 𮏌・𮎾
+U+2E3CC U+2E3BE
+
+# Group: 𦹁・𦶫
+U+26E41 U+26DAB
+
+# Group: 𧊬・𦻩・𦾖
+U+272AC U+26EE9 U+26F96
+
+# Group: 𧍩・𧏜
+U+27369 U+273DC
+
+# Group: 𨪟・𨫚
+U+28A9F U+28ADA
+
+# Group: ⿱𠂉・𠂢
+U+3B5A U+3B5B
+U+29946 U+2995C
+U+7963 U+2564E
+U+22B1C U+6300
+
+# Group: 𣪣・𣪴
+U+23AA3 U+23AB4
+
+# Group: 𪋠・𪋥
+U+2A2E0 U+2A2E5
+
+# Group: 𫒀・粵
+U+2B480 U+7CB5
+
+# Group: 乑・豕
+U+4E51 U+8C55
+U+805A U+2C941
 
 # Group: 艹・𥫗
 U+8279 U+25AD7

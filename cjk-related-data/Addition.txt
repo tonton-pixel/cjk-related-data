@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.47
+# Version: 1.48
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -564,6 +564,11 @@ U+29D77 U+9B8C
 U+29FD2 U+4CBB
 U+304C0 U+22AD4
 
+# Group: 丶 (Above) | 𠫔・𠫓
+U+20AD4 U+20AD3
+U+233CF U+233CB
+U+26C27 U+26BE7
+
 # Group: 丶 (Above) | 厂・广
 U+5382 U+5E7F
 U+3542 U+5E88
@@ -845,7 +850,6 @@ U+26AFF U+8286
 U+27221 U+86A4
 U+63BB U+6414
 U+9A12 U+9A37
-U+272AC U+26EE9	≈
 U+2A984 U+21801	≈
 U+2E567 U+8869
 U+28941 U+91F5
@@ -1160,6 +1164,11 @@ U+2849A U+32158
 # Group: ㇒ (Above) | ⿻口儿・⿱㇒⿻口儿・𫤘
 U+26C0B U+26CA9
 
+# Group: ㇒ (Above) | 木・禾
+U+6728 U+79BE
+U+229E3 U+229FA
+U+34FC U+34FF
+
 # Group: ㇒ (Above) | 糸・系
 U+7CF8 U+7CFB
 U+27AAC U+431B
@@ -1195,6 +1204,7 @@ U+5F57 U+30424
 U+6BD2 U+24BDF
 U+2A491 U+2A4A6
 U+9752 U+24BDD
+U+9751 U+24BDE
 U+225E3 U+22621
 U+2D592 U+2DEB1
 
