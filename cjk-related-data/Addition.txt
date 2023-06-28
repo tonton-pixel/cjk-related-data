@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.48
+# Version: 1.49
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -326,6 +326,9 @@ U+2050B U+2002E
 U+5DFE U+5E00
 U+206EF U+20714
 
+# Group: 一 (Above) | 冂・𰀃
+U+5182 U+30003
+
 # Group: 一 (Below) | 不・丕
 U+4E0D U+4E15
 U+599A U+36B0
@@ -445,6 +448,9 @@ U+58F5 U+302C9
 # Group: 一 (Below) | 非・韭
 U+975E U+97ED
 U+4A3F U+4A9E
+
+# Group: 一 (Below) | 甬・⿱甬一
+U+75DB U+308F3
 
 # Group: 一 (Inside) | 西・酉
 U+897F U+9149
@@ -1586,6 +1592,35 @@ U+7361 U+248A7
 U+4E0E U+5199
 U+321EE U+497E
 
+# Group: 亠 (Above) | 𭏲・䙝
+U+2D3F2 U+465D
+
+# Group: 亠 (Above) | 裴・𧜏
+U+88F4 U+2770F
+
+# Group: 亠 (Above) | 𧛱・𬡭
+U+276F1 U+2C86D
+
+# Group: 亠 (Above) | 𤆟・𤇯
+U+2419F U+241EF
+
+# Group: 亠 (Above) | 褁・裹
+U+8901 U+88F9
+
+# Group: 亠 (Above) | 𧘇・衣
+U+27607 U+8863
+U+2BD45 U+88F3
+U+2D3F2 U+893A
+U+2763C U+2766C
+U+8912 U+2C86D
+U+2EAB8 U+27709
+U+88F5 U+2770F
+U+276E8 U+2771F
+U+27762 U+2779A
+U+2A298 U+2A2AC
+U+308BC U+2B7AB
+U+8901 U+2E590
+
 # Group: 𠃊 (Outside) | 𠧪・𠧴
 U+209EA U+209F4
 U+238E7 U+238F8
@@ -2227,5 +2262,23 @@ U+54A2 U+21206
 
 # Group: 囗 (Outside) | 堯・𡈦
 U+582F U+21226
+
+# Group: 囗 (Outside) | 𧘗・𡈃
+U+27617 U+21203
+
+# Group: 囗 (Outside) | 甬・𡇮
+U+752C U+211EE
+
+# Group: 囗 (Outside) | 农・𱕽
+U+519C U+3157D
+
+# Group: 囗 (Outside) | 韋・圍
+U+97CB U+570D
+U+8918 U+465F
+U+6E4B U+6F7F
+U+21EA8 U+21F31
+U+25BE4 U+25D1E
+U+2EB04 U+29F00
+U+2647B U+31EE4	≈
 
 # EOF
