@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.51
+# Version: 1.52
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1985,6 +1985,9 @@ U+25E29 U+25E49
 U+305D1 U+262A7
 U+26AFF U+26B41
 
+# Group: 囗 (Outside) | 双・𡇄
+U+53CC U+211C4
+
 # Group: 囗 (Outside) | 人・囚
 U+4EBA U+56DA
 U+6C44 U+6CC5
@@ -2324,5 +2327,29 @@ U+6DEE U+2D370
 
 # Group: 囗 (Outside) | 隹・⿴囗隹
 U+8411 U+2E429
+
+# Group: 囗 (Outside) | 冬・图
+U+51AC U+56FE
+U+383D U+220E0
+U+390F U+226FE
+U+7D42 U+30AEB
+U+9256 U+30F39
+U+22ADD U+3180A
+
+# Group: 囗 (Outside) | 終・𡈡
+U+7D42 U+21221
+
+# Group: 囗 (Outside) | 二・𡆤
+U+4E8C U+211A4
+
+# Group: 囗 (Outside) | 多・𡇘
+U+591A U+211D8
+
+# Group: 囗 (Outside) | 合・𡇞
+U+5408 U+211DE
+U+8345 U+26CEC
+
+# Group: 囗 (Outside) | 啚・圖
+U+555A U+5716
 
 # EOF

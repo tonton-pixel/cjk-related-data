@@ -1,6 +1,6 @@
 
 # File: Duplicate.txt
-# Version: 1.51
+# Version: 1.52
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -333,6 +333,9 @@ U+223AE U+223B6
 
 # Group: ⿰月尋
 U+2339F U+26805
+
+# Group: ⿰月良
+U+6716 U+31F0B
 
 # Group: ⿱十早
 U+2099D U+9FBA
