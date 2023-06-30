@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.54
+# Version: 1.55
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2381,5 +2381,8 @@ U+6255 U+2BB45
 
 # Group: 囗 (Outside) | 莫・𡈗
 U+83AB U+21217
+
+# Group: 囗 (Outside) | 祘・𭍫
+U+7958 U+2D36B
 
 # EOF
