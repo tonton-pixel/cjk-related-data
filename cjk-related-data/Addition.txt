@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.56
+# Version: 1.57
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1431,6 +1431,9 @@ U+7C51 U+4275
 U+25D89 U+4275
 U+26FC9 U+270CA
 
+# Group: 𠆢 (Above) | 𦚾・𫣍
+U+266BE U+2B8CD
+
 # Group: 𠆢 (Above) | 离・禽
 U+79BB U+79BD
 U+20ED7 U+5659
@@ -1671,6 +1674,23 @@ U+27762 U+2779A
 U+2A298 U+2A2AC
 U+308BC U+2B7AB
 U+8901 U+2E590
+
+# Group: 亠 (Above) | 凶・㐫
+U+51F6 U+342B
+U+5FF7 U+607C
+U+2E0AC U+21F01
+U+2665E U+8111
+U+200B3 U+2015B
+U+5147 U+2048B
+U+37C5 U+21E55
+U+23CF8 U+23D91
+U+26644 U+266BE
+U+30B8E U+266C4
+U+8A29 U+279E3
+U+9157 U+2882F
+U+239D1 U+2AD42
+U+3573 U+2BA77
+U+6C79 U+2DC14
 
 # Group: 𠃊 (Outside) | 𠧪・𠧴
 U+209EA U+209F4
