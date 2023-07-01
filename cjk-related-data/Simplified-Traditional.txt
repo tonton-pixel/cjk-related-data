@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Version: 1.55
+# Version: 1.56
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -9684,5 +9684,41 @@ U+2667D U+26671
 
 # Group: 够・夠
 U+591F U+5920
+
+# Group: 圼・𬛸・𱼭
+U+573C U+2C6F8
+U+573C U+31F2D
+U+363F U+21364
+U+2424A U+3DD0
+U+27A1A U+46FC
+U+634F U+63D1
+U+6D85 U+6E7C
+U+9667 U+9689
+U+2348B U+23555
+U+266E0 U+26786
+U+26BD6 U+26D50
+
+# Group: 务・務
+U+52A1 U+52D9
+U+96FE U+9727
+U+31A49 U+2C26E
+U+316DA U+21EB1
+
+# Group: 表・錶
+U+8868 U+9336
+
+# Group: 须・鬚
+U+987B U+9B1A
+
+# Group: 脉・脈
+U+8109 U+8108
+U+9721 U+9722
+U+4CEE U+2A0FB
+
+# Group: 面・麵
+U+9762 U+9EB5
+
+# Group: 鼗・鞀
+U+9F17 U+9780
 
 # EOF

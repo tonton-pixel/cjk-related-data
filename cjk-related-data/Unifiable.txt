@@ -1,6 +1,6 @@
 
 # File: Unifiable.txt
-# Version: 1.55
+# Version: 1.56
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -274,6 +274,7 @@ U+27A1A U+46FC
 U+2348B U+23555
 U+266E0 U+26786
 U+573C U+2D950 U+31F2D U+2C6F8	*
+U+26BD6 U+26D50	*
 
 # Group: UCV-91 (角)
 U+27959 U+23040

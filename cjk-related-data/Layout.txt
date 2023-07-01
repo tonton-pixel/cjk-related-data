@@ -1,6 +1,6 @@
 
 # File: Layout.txt
-# Version: 1.55
+# Version: 1.56
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1208,6 +1208,7 @@ U+2808E U+290C8	≈
 U+8E27 U+2E6E3	≈
 U+47F7 U+8E05	≈
 U+7959 U+2E064	≈
+U+2613C U+26153	≈
 U+24BC4 U+24BC1
 U+86C0 U+27249
 U+86C0 U+27276
