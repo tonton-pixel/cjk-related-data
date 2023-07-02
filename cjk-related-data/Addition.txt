@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.58
+# Version: 1.59
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1984,6 +1984,28 @@ U+23CEB U+23D95
 # Group: 匚・匸 (Outside) | 淮・匯
 U+6DEE U+532F
 
+# Group: 匚・匸 (Outside) | 品・區
+U+54C1 U+5340
+U+5058 U+50B4
+U+21657 U+5969
+U+2BEA2 U+616A
+U+2AB90 U+6473
+U+6980 U+6A1E
+U+30717 U+6F1A
+U+7170 U+71B0
+U+44F5 U+84F2
+U+321B3 U+91A7
+U+28A57 U+93C2
+U+31775 U+22553
+U+24E14 U+24E6A
+U+2E02D U+25565
+U+25C14 U+25C78
+U+320F3 U+28105
+U+2DBDE U+2C1C5
+
+# Group: 匚・匸 (Outside) | 𡙗・匲
+U+21657 U+5332
+
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
 U+2B6B4 U+4187
@@ -2430,5 +2452,26 @@ U+301F6 U+30253
 
 # Group: 囗 (Outside) | 睪・圛
 U+776A U+571B
+
+# Group: 囗 (Outside) | 必・㘠
+U+5FC5 U+3620
+U+2E146 U+25BA6
+U+6CCC U+2AD91
+U+82FE U+2E3D7
+
+# Group: 囗 (Outside) | 力・㘞
+U+529B U+361E
+
+# Group: 囗 (Outside) | 廾・㘟
+U+5EFE U+361F
+
+# Group: 囗 (Outside) | 甲・㘡
+U+7532 U+3621
+
+# Group: 囗 (Outside) | 光・㘢
+U+5149 U+3622
+
+# Group: 囗 (Outside) | 肙・㘣
+U+8099 U+3623
 
 # EOF
