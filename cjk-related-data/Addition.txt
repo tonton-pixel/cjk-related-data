@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.57
+# Version: 1.58
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1075,6 +1075,12 @@ U+2DA77 U+688E
 # Group: ㇒ (Above) | 固・⿱㇒固
 U+797B U+256BD
 
+# Group: ㇒ (Above) | 罒・⿱㇒罒
+U+776A U+777E
+U+264A1 U+264A2
+U+91CB U+2891F
+U+26B5D U+26B7E
+
 # Group: ㇒ (Above) | 皿・血
 U+76BF U+8840
 U+2594A U+419D
@@ -1607,6 +1613,8 @@ U+2C6ED U+294D1
 U+2C6ED U+2950A
 U+22373 U+9868
 U+2DBAE U+2DBB7
+U+29823 U+2952F
+U+2982A U+2955D
 
 # Group: 冖 (Above) | 卜・㓀
 U+535C U+34C0
@@ -2404,5 +2412,23 @@ U+83AB U+21217
 
 # Group: 囗 (Outside) | 祘・𭍫
 U+7958 U+2D36B
+
+# Group: 囗 (Outside) | 氣・𡈏
+U+6C23 U+2120F
+U+993C U+297CD
+
+# Group: 囗 (Outside) | 㚔・𰉑
+U+3694 U+30251
+
+# Group: 囗 (Outside) | 幸・圉
+U+5E78 U+5709
+U+5016 U+3481
+U+2D5A9 U+21EE2
+
+# Group: 囗 (Outside) | 𰇶・𰉓
+U+301F6 U+30253
+
+# Group: 囗 (Outside) | 睪・圛
+U+776A U+571B
 
 # EOF
