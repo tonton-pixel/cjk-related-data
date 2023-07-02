@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.59
+# Version: 1.60
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -458,6 +458,10 @@ U+75DB U+308F3
 
 # Group: 一 (Below) | 淮・𰜚
 U+6DEE U+3071A
+
+# Group: 一 (Below) | 來・⿱來一
+U+20EEE U+20F82
+U+2378B U+237B1
 
 # Group: 一 (Inside) | 西・酉
 U+897F U+9149
@@ -2473,5 +2477,41 @@ U+5149 U+3622
 
 # Group: 囗 (Outside) | 肙・㘣
 U+8099 U+3623
+
+# Group: 囗 (Outside) | 厶・囜
+U+53B6 U+56DC
+
+# Group: 囗 (Outside) | 口・回
+U+53E3 U+56DE
+U+5360 U+353D
+U+27963 U+46DB
+U+91E6 U+4927
+U+3430 U+4F6A
+U+2C1D6 U+6D04
+U+2B0DC U+7D57
+U+26B05 U+8334
+U+28455 U+8FF4
+U+2BA51 U+9763	≈
+U+5405 U+20C9B
+U+2BB59 U+212D9
+U+225C0 U+2264D
+U+2AC73 U+23469
+U+2DB88 U+23A28
+U+24DAD U+24E44
+U+54EF U+27832
+U+27E9A U+27EE2
+U+20E8E U+298B1
+U+9CF4 U+2A01F
+U+6263 U+2B77B
+U+20D0A U+2BB50
+U+2C8DA U+2C8EC
+U+2EA04 U+2CC48
+U+20BEB U+2D361
+U+5484 U+2D368
+U+35AA U+2D36E
+U+221DE U+303F8	≈
+U+549E U+3040B
+U+54B4 U+307B0
+U+5447 U+3198B
 
 # EOF
