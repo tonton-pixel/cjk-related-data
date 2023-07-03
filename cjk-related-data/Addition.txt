@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.61
+# Version: 1.62
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -916,7 +916,7 @@ U+2B2A5 U+2C7F6
 
 # Group: 丶 (Inside) | 土・𡈽
 U+571F U+2123D
-U+2565E U+31D4D	≈
+U+2565E U+31D4D
 
 # Group: 丶 (Inside) | 王・玉
 U+738B U+7389
@@ -1304,7 +1304,7 @@ U+2DC71 U+2DC8C	≈
 U+2BB5B U+5781
 U+2C47E U+40A0
 U+2D448 U+30996
-U+31D4C U+2E07D	≈
+U+31D4C U+2E07D
 
 # Group: ㇒ (Left) | 夫・失
 U+592B U+5931
@@ -2013,6 +2013,10 @@ U+2DBDE U+2C1C5
 # Group: 匚・匸 (Outside) | 𡙗・匲
 U+21657 U+5332
 
+# Group: 匚・匸 (Outside) | 言・𠥇・𠥵
+U+8A00 U+20947
+U+8A00 U+20975
+
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
 U+2B6B4 U+4187
@@ -2570,5 +2574,57 @@ U+6C11 U+56FB
 
 # Group: 囗 (Outside) | 台・囼
 U+53F0 U+56FC
+
+# Group: 囗 (Outside) | 言・圁
+U+8A00 U+5701
+
+# Group: 囗 (Outside) | 豕・圂
+U+8C55 U+5702
+U+3B6C U+3BAF
+U+23D60 U+6EB7
+U+3BFB U+23814
+U+8C5A U+267A2
+U+28307 U+28372
+U+5544 U+30214
+
+# Group: 囗 (Outside) | 甫・圃
+U+752B U+5703
+U+8386 U+2C75F
+
+# Group: 囗 (Outside) | 吾・圄
+U+543E U+5704
+U+4FC9 U+202FC
+
+# Group: 囗 (Outside) | 卷・圈
+U+5377 U+5708
+U+83E4 U+8528
+U+68EC U+23662
+U+7B9E U+25C7D
+U+6DC3 U+2C228
+U+9308 U+321DE
+
+# Group: 囗 (Outside) | 或・國
+U+6216 U+570B
+U+35AA U+5613
+U+220CE U+5E57
+U+60D0 U+6156
+U+639D U+6451
+U+68EB U+69F6
+U+6DE2 U+6F0D
+U+4205 U+7C02
+U+2337B U+8195
+U+26C42 U+852E
+U+872E U+87C8
+U+60D1 U+2281D
+U+242A8 U+2438D
+U+251FF U+2529E
+U+40B8 U+2554F
+U+7DCE U+26130
+U+278FC U+2792F
+U+28A05 U+28AF5
+U+9998 U+29832
+U+57DF U+2A911
+U+7419 U+2AF13
+U+2A089 U+2B6D0
 
 # EOF

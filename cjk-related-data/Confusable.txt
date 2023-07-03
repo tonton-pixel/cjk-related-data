@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Version: 1.61
+# Version: 1.62
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2372,7 +2372,7 @@ U+20A37 U+200AE
 
 # Group: 𠂆・𠂋
 U+20086 U+2008B
-U+2E069 U+25650	≈
+U+2E069 U+25650
 U+6799 U+6800
 U+200AC U+5DF5
 U+36C2 U+2172E
