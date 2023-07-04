@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.63
+# Version: 1.64
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -452,6 +452,22 @@ U+58F5 U+302C9
 # Group: 一 (Below) | 非・韭
 U+975E U+97ED
 U+4A3F U+4A9E
+U+348E U+203B7
+U+35FA U+20FD3
+U+3A51 U+22D8D
+U+3AAA U+29405
+U+4663 U+27781
+U+21425 U+21481
+U+26EC5 U+26F29
+U+27F81 U+27F93
+U+83F2 U+97EE
+U+2E9C7 U+97EF
+U+9761 U+22301
+U+26EF0 U+85A4
+U+291FA U+29404
+U+29201 U+2940C
+U+291FE U+2940F
+U+68D1 U+2DABE
 
 # Group: 一 (Below) | 甬・⿱甬一
 U+75DB U+308F3
@@ -462,6 +478,9 @@ U+6DEE U+3071A
 # Group: 一 (Below) | 來・⿱來一
 U+20EEE U+20F82
 U+2378B U+237B1
+
+# Group: 一 (Below) | 巳・⿱巳一
+U+211B3 U+211C6
 
 # Group: 一 (Inside) | 西・酉
 U+897F U+9149
@@ -1231,6 +1250,10 @@ U+3177C U+2D70D
 U+2B7C9 U+30B73
 U+27225 U+30CAA
 
+# Group: ㇒ (Above) | 大・夭
+U+5927 U+592D
+U+21870 U+218AD
+
 # Group: ㇒ (Above) | 糸・系
 U+7CF8 U+7CFB
 U+27AAC U+431B
@@ -1436,6 +1459,13 @@ U+29088 U+32274
 
 # Group: ㇒ (Overlay) | 凬・𠙊
 U+51EC U+2064A
+
+# Group: 二 (Above) | 女・𡚬
+U+5973 U+216AC
+U+36A2 U+4F5E
+
+# Group: 二 (Above) | 心・忈
+U+5FC3 U+5FC8
 
 # Group: 𠆢 (Above) | 良・食
 U+826F U+98DF
@@ -2673,5 +2703,59 @@ U+5165 U+211A3
 
 # Group: 囗 (Outside) | 卜・𡆥
 U+535C U+211A5
+
+# Group: 囗 (Outside) | 八・𡆦
+U+516B U+211A6
+
+# Group: 囗 (Outside) | 𡭔・𡆧
+U+21B54 U+211A7
+
+# Group: 囗 (Outside) | 巾・𡆫
+U+5DFE U+211AB
+
+# Group: 囗 (Outside) | 工・𡆬
+U+5DE5 U+211AC
+
+# Group: 囗 (Outside) | 士・𡆮
+U+58EB U+211AE
+
+# Group: 囗 (Outside) | 山・𡆯
+U+5C71 U+211AF
+
+# Group: 囗 (Outside) | 彡・𡆱
+U+5F61 U+211B1
+
+# Group: 囗 (Outside) | 亡・𡆲
+U+4EA1 U+211B2
+
+# Group: 囗 (Outside) | 巳・𡆳
+U+5DF3 U+211B3
+
+# Group: 囗 (Outside) | 丐・𡆸
+U+4E10 U+211B8
+
+# Group: 囗 (Outside) | 升・𡆼
+U+5347 U+211BC
+
+# Group: 囗 (Outside) | 兮・𡆽
+U+516E U+211BD
+
+# Group: 囗 (Outside) | 公・𡆾
+U+516C U+211BE
+
+# Group: 囗 (Outside) | 氏・𡆿
+U+6C0F U+211BF
+
+# Group: 囗 (Outside) | 殳・𡇀
+U+6BB3 U+211C0
+
+# Group: 囗 (Outside) | 火・𡇂
+U+706B U+211C2
+U+707E U+2A9CF
+U+233F9 U+2AC97
+U+708F U+307A5
+
+# Group: 囗 (Outside) | 巴・𡇃
+U+5DF4 U+211C3
 
 # EOF
