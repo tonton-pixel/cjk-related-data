@@ -1,6 +1,6 @@
 
 # File: Series.txt
-# Version: 1.64
+# Version: 1.65
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -35,15 +35,18 @@ U+5C71 U+2D588
 
 # Group: 一…
 U+4E00 U+4E8C U+4E09 U+4E96
+U+5F0C U+5F0D U+5F0E
+U+8FB7 U+2CA1C U+2E781
+U+38A7 U+223A5
+U+2D69F U+5F10
+U+215D3 U+5933
+U+211B7 U+211C9
 
 # Group: 閂…
 U+9582 U+28CCE U+9586
 
 # Group: 丞…
 U+4E1E U+2012A
-
-# Group: 㢧…
-U+38A7 U+223A5
 
 # Group: 弱…
 U+5F31 U+22405
@@ -54,23 +57,14 @@ U+7FBD U+263F2
 # Group: 𠆱…
 U+201B1 U+2CF6B
 
-# Group: 𭚟…
-U+2D69F U+5F10
-
-# Group: 弌…
-U+5F0C U+5F0D U+5F0E
-
-# Group: 𡗓…
-U+215D3 U+5933
-
-# Group: 辷…
-U+8FB7 U+2CA1C U+2E781
-
 # Group: 𠄧…
 U+20127 U+20027
 
 # Group: 亝…
 U+4E9D U+20AF0
+
+# Group: 𰇇…
+U+301C7 U+2D1BB
 
 # Group: 厶…
 U+53B6 U+4E48 U+20093
