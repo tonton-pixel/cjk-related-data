@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Version: 1.65
+# Version: 1.66
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -250,21 +250,6 @@ U+4F53 U+9AD4
 
 # Group: 台・臺
 U+53F0 U+81FA
-U+548D U+3606	*
-U+4F41 U+5113	*
-U+59CB U+5B2F	*
-U+6021 U+61DB	*
-U+62AC U+64E1	*
-U+67B1 U+6AAF	*
-U+7B1E U+7C49	*
-U+82D4 U+85B9	*
-U+6CBB U+24045	*
-U+70B2 U+2443D	*
-U+3F82 U+24EE1	*
-U+80CE U+26880	*
-U+8A52 U+27B4F	*
-U+99D8 U+299BD	*
-U+2317F U+2DA09	*
 
 # Group: 𡱝・犀
 U+21C5D U+7280	*

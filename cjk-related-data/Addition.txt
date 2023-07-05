@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.65
+# Version: 1.66
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1812,6 +1812,10 @@ U+4E19 U+20687
 # Group: 凵 (Outside) | 𦣻・𠚑
 U+268FB U+20691
 
+# Group: 凵 (Outside) | 水・凼
+U+6C34 U+51FC
+U+2798B U+2C8A9
+
 # Group: 勹 (Outside) | 幺・𠣎
 U+5E7A U+208CE
 
@@ -2803,5 +2807,35 @@ U+6735 U+211D9
 
 # Group: 囗 (Outside) | 舌・𡇜
 U+820C U+211DC
+
+# Group: 囗 (Outside) | 𢆶・𡇟
+U+221B6 U+211DF
+
+# Group: 囗 (Outside) | 皀・𡇠
+U+7680 U+211E0
+
+# Group: 囗 (Outside) | 𥃦・𡇡
+U+250E6 U+211E1
+
+# Group: 囗 (Outside) | 豆・𡇧
+U+8C46 U+211E7
+
+# Group: 囗 (Outside) | 男・𡇨
+U+7537 U+211E8
+
+# Group: 囗 (Outside) | 告・𡇪
+U+544A U+211EA
+
+# Group: 囗 (Outside) | 束・𡇯
+U+675F U+211EF
+
+# Group: 囗 (Outside) | 兖・𡇰
+U+5156 U+211F0
+
+# Group: 囗 (Outside) | 乳・𡇲
+U+4E73 U+211F2
+
+# Group: 囗 (Outside) | 命・𡇳
+U+547D U+211F3
 
 # EOF
