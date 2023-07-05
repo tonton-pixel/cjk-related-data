@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.66
+# Version: 1.67
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2084,9 +2084,6 @@ U+697B U+2C111
 U+23956 U+2BB4B
 U+2DB74 U+2C190
 
-# Group: 囗 (Outside) | 細・⿴囗細
-U+26E40 U+27007
-
 # Group: 囗 (Outside) | 重・𡈈
 U+91CD U+21208
 
@@ -2384,9 +2381,6 @@ U+82AB U+31F6A
 # Group: 囗 (Outside) | 兵・𡇥
 U+5175 U+211E5
 
-# Group: 囗 (Outside) | 頁・⿴囗頁
-U+346F U+203A1
-
 # Group: 囗 (Outside) | 王・囯
 U+738B U+56EF
 U+43D5 U+266E2
@@ -2460,9 +2454,6 @@ U+2BD76 U+303A2
 
 # Group: 囗 (Outside) | 淮・𭍰
 U+6DEE U+2D370
-
-# Group: 囗 (Outside) | 隹・⿴囗隹
-U+8411 U+2E429
 
 # Group: 囗 (Outside) | 冬・图
 U+51AC U+56FE
@@ -2548,8 +2539,9 @@ U+3430 U+4F6A
 U+2C1D6 U+6D04
 U+2B0DC U+7D57
 U+26B05 U+8334
+U+2C52D U+2E14A
 U+28455 U+8FF4
-U+2BA51 U+9763	≈
+U+2BA51 U+9763
 U+5405 U+20C9B
 U+2BB59 U+212D9
 U+225C0 U+2264D
@@ -2837,5 +2829,264 @@ U+4E73 U+211F2
 
 # Group: 囗 (Outside) | 命・𡇳
 U+547D U+211F3
+
+# Group: 囗 (Outside) | 𣥏・𡇴
+U+2394F U+211F4
+
+# Group: 囗 (Outside) | 宕・𡇵
+U+5B95 U+211F5
+
+# Group: 囗 (Outside) | 乖・𡇸
+U+4E56 U+211F8
+
+# Group: 囗 (Outside) | 兔・𡇹
+U+5154 U+211F9
+
+# Group: 囗 (Outside) | 卒・𡇻
+U+5352 U+211FB
+
+# Group: 囗 (Outside) | 曷・𡇼
+U+66F7 U+211FC
+
+# Group: 囗 (Outside) | 垔・𡇽
+U+5794 U+211FD
+
+# Group: 囗 (Outside) | 剌・𡇿
+U+524C U+211FF
+
+# Group: 囗 (Outside) | 亞・𡈀
+U+4E9E U+21200
+
+# Group: 囗 (Outside) | 皇・𡈁
+U+7687 U+21201
+
+# Group: 囗 (Outside) | 馬・𡈊
+U+99AC U+2120A
+
+# Group: 囗 (Outside) | 荅・𡈐
+U+8345 U+21210
+
+# Group: 囗 (Outside) | 𦣣・𡈑
+U+268E3 U+21211
+
+# Group: 囗 (Outside) | 真・𡈓
+U+771F U+21213
+
+# Group: 囗 (Outside) | 眷・𡈕
+U+7737 U+21215
+
+# Group: 囗 (Outside) | 票・𡈜
+U+7968 U+2121C
+
+# Group: 囗 (Outside) | 眼・𡈟
+U+773C U+2121F
+
+# Group: 囗 (Outside) | 章・𡈠
+U+7AE0 U+21220
+
+# Group: 囗 (Outside) | 絭・𡈢
+U+7D6D U+21222
+
+# Group: 囗 (Outside) | 𡬳・𡈣
+U+21B33 U+21223
+
+# Group: 囗 (Outside) | 著・𡈥
+U+8457 U+21225
+
+# Group: 囗 (Outside) | 㗊・𡈨
+U+35CA U+21228
+
+# Group: 囗 (Outside) | 童・𡈩
+U+7AE5 U+21229
+
+# Group: 囗 (Outside) | 獄・𡈭
+U+7344 U+2122D
+
+# Group: 囗 (Outside) | 蓋・𡈮
+U+84CB U+2122E
+
+# Group: 囗 (Outside) | 語・𡈰
+U+8A9E U+21230
+
+# Group: 囗 (Outside) | 戀・𡈻
+U+6200 U+2123B
+
+# Group: 囗 (Outside) | 文・𪢨
+U+6587 U+2A8A8
+
+# Group: 囗 (Outside) | 丕・𪢩
+U+4E15 U+2A8A9
+
+# Group: 囗 (Outside) | 羊・𪢪
+U+7F8A U+2A8AA
+
+# Group: 囗 (Outside) | 車・𪢫
+U+8ECA U+2A8AB
+
+# Group: 囗 (Outside) | 昆・𪢬
+U+6606 U+2A8AC
+
+# Group: 囗 (Outside) | 並・𪢭
+U+4E26 U+2A8AD
+
+# Group: 囗 (Outside) | 栾・𪢮
+U+683E U+2A8AE
+
+# Group: 囗 (Outside) | 莧・𪢯
+U+83A7 U+2A8AF
+
+# Group: 囗 (Outside) | 十・𫭂
+U+5341 U+2BB42
+
+# Group: 囗 (Outside) | 冘・𫭃
+U+5198 U+2BB43
+
+# Group: 囗 (Outside) | 未・𫭆
+U+672A U+2BB46
+
+# Group: 囗 (Outside) | 存・𫭇
+U+5B58 U+2BB47
+
+# Group: 囗 (Outside) | 旬・𫭈
+U+65EC U+2BB48
+
+# Group: 囗 (Outside) | 含・𫭉
+U+542B U+2BB49
+
+# Group: 囗 (Outside) | 宏・𫭊
+U+5B8F U+2BB4A
+
+# Group: 囗 (Outside) | 臾・𫭌
+U+81FE U+2BB4C
+
+# Group: 囗 (Outside) | 昜・𫭍
+U+661C U+2BB4D
+
+# Group: 囗 (Outside) | 禹・𫭎
+U+79B9 U+2BB4E
+
+# Group: 囗 (Outside) | 音・𫭏
+U+97F3 U+2BB4F
+
+# Group: 囗 (Outside) | 麥・𫭑
+U+9EA5 U+2BB51
+
+# Group: 囗 (Outside) | 貈・𫭓
+U+8C88 U+2BB53
+
+# Group: 囗 (Outside) | 几・𭍚
+U+51E0 U+2D35A
+
+# Group: 囗 (Outside) | 仓・𭍜
+U+4ED3 U+2D35C
+
+# Group: 囗 (Outside) | 去・𭍝
+U+53BB U+2D35D
+
+# Group: 囗 (Outside) | 江・𭍟
+U+6C5F U+2D35F
+
+# Group: 囗 (Outside) | 芳・𭍦
+U+82B3 U+2D366
+
+# Group: 囗 (Outside) | 肯・𭍧
+U+80AF U+2D367
+
+# Group: 囗 (Outside) | 咸・𭍩
+U+54B8 U+2D369
+
+# Group: 囗 (Outside) | 咠・𭍪
+U+54A0 U+2D36A
+
+# Group: 囗 (Outside) | 魚・𭍯
+U+9B5A U+2D36F
+
+# Group: 囗 (Outside) | 曾・𭍳
+U+66FE U+2D373
+
+# Group: 囗 (Outside) | 僉・𭍴
+U+50C9 U+2D374
+
+# Group: 囗 (Outside) | 舊・𭍸
+U+820A U+2D378
+
+# Group: 囗 (Outside) | 今・𰉍
+U+4ECA U+3024D
+
+# Group: 囗 (Outside) | 爿・𰉎
+U+723F U+3024E
+
+# Group: 囗 (Outside) | 占・𰉏
+U+5360 U+3024F
+
+# Group: 囗 (Outside) | 項・𰉔
+U+9805 U+30254
+
+# Group: 囗 (Outside) | 包・𱕹
+U+5305 U+31579
+
+# Group: 囗 (Outside) | 虫・𱕺
+U+866B U+3157A
+
+# Group: 囗 (Outside) | 𠂭・𱕻
+U+200AD U+3157B
+
+# Group: 囗 (Outside) | 关・𱕼
+U+5173 U+3157C
+
+# Group: 囗 (Outside) | 谷・𱕿
+U+8C37 U+3157F
+
+# Group: 囗 (Outside) | 昏・𱖀
+U+660F U+31580
+
+# Group: 囗 (Outside) | 录・𱖂
+U+5F55 U+31582
+
+# Group: 囗 (Outside) | 巷・𱖃
+U+5DF7 U+31583
+
+# Group: 囗 (Outside) | 扁・𱖄
+U+6241 U+31584
+
+# Group: 囗 (Outside) | 頁・⿴囗頁
+U+346F U+203A1
+
+# Group: 囗 (Outside) | 隹・⿴囗隹
+U+8411 U+2E429
+
+# Group: 囗 (Outside) | 而・⿴囗而
+U+39EB U+22C0B
+
+# Group: 囗 (Outside) | 九・⿴囗九
+U+6C3F U+23CB6
+U+827D U+26B49
+
+# Group: 囗 (Outside) | 林・⿴囗林
+U+7B96 U+25CA2
+
+# Group: 囗 (Outside) | 兀・⿴囗兀
+U+25F95 U+26004
+
+# Group: 囗 (Outside) | 夫・⿴囗夫
+U+42BF U+26036
+
+# Group: 囗 (Outside) | 矢・⿴囗矢
+U+44A8 U+26C75
+
+# Group: 囗 (Outside) | 炎・⿴囗炎
+U+83FC U+26E20
+
+# Group: 囗 (Outside) | 細・⿴囗細
+U+26E40 U+27007
+
+# Group: 囗 (Outside) | 赤・⿴囗赤
+U+44C7 U+2B23D
+
+# Group: 囗 (Outside) | 主・⿴囗主
+U+9252 U+2E889
+
+# Group: 囗 (Outside) | 也・⿴囗也
+U+412C U+31D84
 
 # EOF
