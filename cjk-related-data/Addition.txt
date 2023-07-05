@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.67
+# Version: 1.68
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1475,6 +1475,77 @@ U+36A2 U+4F5E
 
 # Group: 二 (Above) | 心・忈
 U+5FC3 U+5FC8
+
+# Group: 二 (Above) | 水・⿱二水
+U+2AC79 U+67E1
+U+2B48E U+92A2
+U+7553 U+2DED1
+
+# Group: 二 (Below) | 山・亗
+U+5C71 U+4E97
+
+# Group: 二 (Below) | 此・些
+U+6B64 U+4E9B
+U+75B5 U+3F9A
+U+4F4C U+20243
+U+23411 U+23484
+U+5472 U+2D210
+U+39D7 U+304FF
+U+25B33 U+31E08
+
+# Group: 二 (Below) | 厽・亝
+U+53BD U+4E9D
+U+23CF5 U+3D09
+
+# Group: 二 (Below) | 大・夳
+U+5927 U+5933
+U+21251 U+2128C
+
+# Group: 二 (Below) | 屯・𠄤
+U+5C6F U+20124
+
+# Group: 二 (Below) | 氶・𠄪
+U+6C36 U+2012A
+
+# Group: 二 (Below) | 朿・𠄬
+U+673F U+2012C
+
+# Group: 二 (Below) | 入・𠓞
+U+5165 U+204DE
+
+# Group: 二 (Below) | 口・𠮡
+U+53E3 U+20BA1
+U+3430 U+201DD
+U+56DE U+211C9
+U+2AABA U+30413
+
+# Group: 二 (Below) | 从・⿱从二
+U+2299C U+229BA
+U+2AB62 U+22B15
+
+# Group: 二 (Below) | 臧・𢨑
+U+81E7 U+22A11
+
+# Group: 二 (Below) | 各・⿱各二
+U+49C4 U+28E7F
+
+# Group: 二 (Below) | 双・𫡱
+U+53CC U+2B871
+
+# Group: 二 (Below) | 文・𫿭
+U+6587 U+2BFED
+
+# Group: 二 (Below) | 羽・⿱羽二
+U+2C3EC U+2C3F5
+
+# Group: 二 (Below) | 七・𰁕
+U+4E03 U+30055
+
+# Group: 二 (Below) | 再・𱎒
+U+518D U+31392
+
+# Group: 二 (Below) | 而・𱻰
+U+800C U+31EF0
 
 # Group: 𠆢 (Above) | 良・食
 U+826F U+98DF
