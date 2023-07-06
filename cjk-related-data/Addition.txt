@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.68
+# Version: 1.69
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -338,6 +338,12 @@ U+53B6 U+20AD4
 U+3555 U+20ADB
 U+20AE1 U+233CF
 U+2DC08 U+23D11
+
+# Group: 一 (Above) | 吊・𰀌
+U+540A U+3000C
+
+# Group: 一 (Above) | 匝・⿱一匝
+U+7BD0 U+2C563
 
 # Group: 一 (Below) | 不・丕
 U+4E0D U+4E15
@@ -1179,6 +1185,7 @@ U+539A U+2B757
 U+21B6A U+3778
 U+65FB U+2C405
 U+65FC U+2AF7C
+U+6673 U+7699
 
 # Group: ㇒ (Above) | 目・自
 U+76EE U+81EA
@@ -1578,6 +1585,9 @@ U+4B1C U+310CE
 # Group: 𠆢 (Above) | 𣡗・𣡰
 U+23857 U+23870
 
+# Group: 𠆢 (Above) | 吊・𰁻
+U+540A U+3007B
+
 # Group: 丷 (Above) | 田・𬎿
 U+7530 U+2C3BF
 U+7570 U+517E
@@ -1824,6 +1834,9 @@ U+6C79 U+2DC14
 U+20ADD U+342C
 U+2DC08 U+6D41
 
+# Group: 亠 (Above) | 吊・𢂋
+U+540A U+2208B
+
 # Group: 𠃊 (Outside) | 𠧪・𠧴
 U+209EA U+209F4
 U+238E7 U+238F8
@@ -1892,6 +1905,10 @@ U+5E7A U+208CE
 
 # Group: 勹 (Outside) | 𢆰・⿹勹𢆰
 U+2635D U+2637F
+
+# Group: 匚・匸 (Outside) | 贵・匮
+U+8D35 U+532E
+U+6126 U+2BEB9
 
 # Group: 匚・匸 (Outside) | 貴・匱
 U+8CB4 U+5331
@@ -2137,6 +2154,247 @@ U+21657 U+5332
 # Group: 匚・匸 (Outside) | 言・𠥇・𠥵
 U+8A00 U+20947
 U+8A00 U+20975
+
+# Group: 匚・匸 (Outside) | 𫎬・𪟲
+U+2B3AC U+2A7F2
+
+# Group: 匚・匸 (Outside) | 贑・𫧝
+U+8D11 U+2B9DD
+
+# Group: 匚・匸 (Outside) | 赣・𱑉
+U+8D63 U+31449
+
+# Group: 匚・匸 (Outside) | 贛・㔶
+U+8D1B U+3536
+
+# Group: 匚・匸 (Outside) | 㕣・㔯
+U+3563 U+352F
+
+# Group: 匚・匸 (Outside) | 外・㔰
+U+5916 U+3530
+
+# Group: 匚・匸 (Outside) | 臾・㔱
+U+81FE U+3531
+
+# Group: 匚・匸 (Outside) | 巽・㔵
+U+5DFD U+3535
+
+# Group: 匚・匸 (Outside) | 丙・㔷
+U+4E19 U+3537
+U+9235 U+289C7
+U+9643 U+28E5F
+
+# Group: 匚・匸 (Outside) | 久・匛
+U+4E45 U+531B
+U+6766 U+67E9
+
+# Group: 匚・匸 (Outside) | 杦・𠥂
+U+6766 U+20942
+
+# Group: 匚・匸 (Outside) | 也・匜
+U+4E5F U+531C
+U+8A11 U+279A9
+
+# Group: 匚・匸 (Outside) | 巾・匝
+U+5DFE U+531D
+U+39C6 U+39DC
+U+2BA52 U+5482
+U+2E865 U+9254
+U+233D1 U+2341D
+U+8287 U+26B67
+U+461C U+2C84B
+U+2E6C6 U+320DA
+
+# Group: 匚・匸 (Outside) | 工・匞
+U+5DE5 U+531E
+
+# Group: 匚・匸 (Outside) | 亢・匟
+U+4EA2 U+531F
+
+# Group: 匚・匸 (Outside) | 斤・匠
+U+65A4 U+5320
+U+8D7E U+47AA
+U+25BA5 U+25C5D
+U+99B8 U+298D5
+U+3121E U+2A018
+U+4F12 U+30073
+
+# Group: 匚・匸 (Outside) | 甲・匣
+U+7532 U+5323
+U+67D9 U+3B71
+U+7B1A U+7B6A
+U+9240 U+289C4
+U+5477 U+2A844
+U+2D471 U+2D47B
+U+3CCC U+2DC19
+U+28E3A U+2E947
+U+62BC U+304EB
+
+# Group: 匚・匸 (Outside) | 玉・匤
+U+7389 U+5324
+U+2C535 U+7B7A
+
+# Group: 匚・匸 (Outside) | 弁・匥
+U+5F01 U+5325
+
+# Group: 匚・匸 (Outside) | 轨・匦
+U+8F68 U+5326
+
+# Group: 匚・匸 (Outside) | 軌・匭
+U+8ECC U+532D
+
+# Group: 匚・匸 (Outside) | 俞・兪・匬
+U+4FDE U+532C
+U+516A U+532C
+
+# Group: 匚・匸 (Outside) | 單・匰
+U+55AE U+5330
+
+# Group: 匚・匸 (Outside) | 僉・匳
+U+50C9 U+5333
+U+6AA2 U+23798
+U+9869 U+2957F
+
+# Group: 匚・匸 (Outside) | 瞿・匷
+U+77BF U+5337
+
+# Group: 匚・匸 (Outside) | 儿・匹
+U+513F U+5339
+U+4DB7 U+20BD4
+U+5144 U+20BD5
+U+31642 U+216D8
+
+# Group: 匚・匸 (Outside) | 㐅・区
+U+3405 U+533A
+U+29F98 U+9D0E
+U+5208 U+206C5
+
+# Group: 匚・匸 (Outside) | 合・匼
+U+5408 U+533C
+U+54C8 U+20D4F
+U+62FE U+2BF46
+
+# Group: 匚・匸 (Outside) | 扁・匾
+U+6241 U+533E
+U+63D9 U+22D02
+U+7DE8 U+26112
+U+6944 U+2C108
+
+# Group: 匚・匸 (Outside) | 口・叵
+U+53E3 U+53F5
+U+540B U+5C00
+U+2C52D U+7B38
+U+91E6 U+9255
+U+2CB2A U+94B7
+U+5405 U+20C10
+U+2C1D6 U+23CB3
+U+35BD U+2947C
+U+20E8E U+29898
+U+20E8C U+29CB0
+U+3430 U+2CF6F
+
+# Group: 匚・匸 (Outside) | 人・𠤭
+U+4EBA U+2092D
+
+# Group: 匚・匸 (Outside) | 今・𠤮
+U+4ECA U+2092E
+U+2945F U+294A5
+
+# Group: 匚・匸 (Outside) | 不・𠤯
+U+4E0D U+2092F
+
+# Group: 匚・匸 (Outside) | 公・𠤰
+U+516C U+20930
+
+# Group: 匚・匸 (Outside) | 夫・𠤱
+U+592B U+20931
+
+# Group: 匚・匸 (Outside) | 屯・𠤲
+U+5C6F U+20932
+
+# Group: 匚・匸 (Outside) | 古・𠤳
+U+53E4 U+20933
+
+# Group: 匚・匸 (Outside) | 只・𠤴
+U+53EA U+20934
+
+# Group: 匚・匸 (Outside) | 生・𠤵
+U+751F U+20935
+
+# Group: 匚・匸 (Outside) | 㐌・𠤷
+U+340C U+20937
+
+# Group: 匚・匸 (Outside) | 缶・𠤸
+U+7F36 U+20938
+
+# Group: 匚・匸 (Outside) | 全・𠤹
+U+5168 U+20939
+
+# Group: 匚・匸 (Outside) | 攸・𠤼
+U+6538 U+2093C
+
+# Group: 匚・匸 (Outside) | 吟・𠤾
+U+541F U+2093E
+
+# Group: 匚・匸 (Outside) | 含・𠤿
+U+542B U+2093F
+
+# Group: 匚・匸 (Outside) | 否・𠥀
+U+5426 U+20940
+
+# Group: 匚・匸 (Outside) | 㒵・𠥁
+U+34B5 U+20941
+
+# Group: 匚・匸 (Outside) | 𢁺・𠥃
+U+2207A U+20943
+
+# Group: 匚・匸 (Outside) | 坎・𠥈
+U+574E U+20948
+
+# Group: 匚・匸 (Outside) | 卑・𠥉
+U+5351 U+20949
+
+# Group: 匚・匸 (Outside) | 其・𠥊
+U+5176 U+2094A
+
+# Group: 匚・匸 (Outside) | 彼・𠥌
+U+5F7C U+2094C
+
+# Group: 匚・匸 (Outside) | 韋・𠥎
+U+97CB U+2094E
+
+# Group: 匚・匸 (Outside) | 畐・𠥏
+U+7550 U+2094F
+
+# Group: 匚・匸 (Outside) | 倉・𠥐
+U+5009 U+20950
+
+# Group: 匚・匸 (Outside) | 條・𠥑
+U+689D U+20951
+
+# Group: 匚・匸 (Outside) | 舀・𠥒
+U+8200 U+20952
+
+# Group: 匚・匸 (Outside) | 倠・𠥔
+U+5020 U+20954
+
+# Group: 匚・匸 (Outside) | 盍・𠥕
+U+76CD U+20955
+
+# Group: 匚・匸 (Outside) | 帶・𠥖
+U+5E36 U+20956
+
+# Group: 匚・匸 (Outside) | 飤・𠥗
+U+98E4 U+20957
+
+# Group: 匚・匸 (Outside) | 𧴵・𠥘
+U+27D35 U+20958
+
+# Group: 匚・匸 (Outside) | 歇・𠥜
+U+6B47 U+2095C
+
+# Group: 匚・匸 (Outside) | 載・𠥠
+U+8F09 U+20960
 
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
