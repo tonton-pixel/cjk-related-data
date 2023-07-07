@@ -1,6 +1,6 @@
 
 # File: Parts.txt
-# Version: 1.73
+# Version: 1.74
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -56,6 +56,9 @@ U+2948B U+2947F U+29495
 
 # Group: 𩑎・順
 U+2944E U+9806
+
+# Group: ⿱⺊目・𥃭
+U+209E1 U+76F4
 
 # Group: 𫡑・𠂹
 U+2B851 U+200B9
