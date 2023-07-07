@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Version: 1.74
+# Version: 1.75
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -9827,5 +9827,17 @@ U+27608 U+2775C
 U+29AF6 U+29BCA
 U+29D4C U+29EFB
 U+2D64F U+3174A
+
+# Group: 伞・傘
+U+4F1E U+5098
+
+# Group: 余・餘
+U+4F59 U+9918
+U+837C U+270CB
+U+6D82 U+2C263
+U+2B49F U+2E8E7
+
+# Group: 涂・塗
+U+6D82 U+5857
 
 # EOF
