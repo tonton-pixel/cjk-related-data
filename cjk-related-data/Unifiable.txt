@@ -1,6 +1,6 @@
 
 # File: Unifiable.txt
-# Version: 1.72
+# Version: 1.73
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2361,8 +2361,6 @@ U+2E5A5 U+8943
 U+7E6D U+27067
 
 # Group: IRGN-2604-UCV-468 (肉・𠕎・⿴囗仌)
-U+8089 U+2054E
-U+26686 U+30924
 U+2C0C4 U+2DAA2 U+3B9A
 U+2D476 U+21730
 U+2426F U+242F3
