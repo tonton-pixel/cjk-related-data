@@ -1,6 +1,6 @@
 
 # File: Confusable.txt
-# Version: 1.71
+# Version: 1.72
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 

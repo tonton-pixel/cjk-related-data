@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.71
+# Version: 1.72
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -30,10 +30,6 @@ U+26C5D U+26D1F
 U+2E36B U+2E36D
 U+2C100 U+2BBF9
 U+21585 U+2DB7D
-
-# Group: 一 (Above) | ⿱口𠕁・𠀷
-U+55E3 U+20EF8
-U+2D0EC U+2D0F4
 
 # Group: 一 (Above) | 乙・𠀂
 U+4E59 U+20002
@@ -113,11 +109,6 @@ U+570B U+30016
 # Group: 一 (Above) | 𧰨・豕
 U+27C28 U+8C55
 U+27C3D U+27C43
-
-# Group: 一 (Above) | 女・⿱一女
-U+216B4 U+599B
-U+211D4 U+211ED
-U+36A2 U+2A728
 
 # Group: 一 (Above) | 𡚴・𡛎
 U+216B4 U+216CE
@@ -206,57 +197,6 @@ U+82C2 U+30C2C
 U+2418E U+317ED
 U+2E989 U+32273
 
-# Group: 一 (Above) | 勿・⿱一勿
-U+2798D U+279AF
-U+29C90 U+29CAC
-U+6613 U+661C
-U+7757 U+4051
-U+3465 U+5052
-U+20D2D U+557A
-U+57F8 U+5834
-U+36EB U+5A78
-U+2BD81 U+5D35
-U+60D5 U+6113
-U+63A6 U+63DA
-U+2BFBB U+656D
-U+6679 U+6698
-U+23231 U+66A2
-U+234FE U+694A
-U+23C62 U+6C31
-U+712C U+716C
-U+3EDB U+7452
-U+75EC U+760D
-U+254D8 U+78AD
-U+2B012 U+7993
-U+2E31D U+8178
-U+8734 U+876A
-U+27A4E U+8AF9
-U+8E22 U+8E3C
-U+9037 U+903F
-U+932B U+935A
-U+2CBC6 U+967D
-U+295FA U+98BA
-U+296FF U+9933
-U+9BE3 U+9C11
-U+6561 U+22F99
-U+2C299 U+242C1
-U+2DF5B U+24F89
-U+257D8 U+2581C
-U+25BAC U+25BD5
-U+44EA U+26CDD
-U+8CDC U+27DBD
-U+47B6 U+27F2E
-U+292CC U+292EC
-U+9D8D U+2A0CC
-U+2A569 U+2A56B
-U+88FC U+2B305
-U+247CD U+2C33A
-U+2CA89 U+2CA8C
-U+5254 U+2D0F6
-U+220E1 U+2D629
-U+7DC6 U+2E22C
-U+2DDB1 U+31B40
-
 # Group: 一 (Above) | 幺・𢆰
 U+5E7A U+221B0
 U+5406 U+20BDD
@@ -267,18 +207,8 @@ U+26537 U+26547
 U+26637 U+26658
 U+22A7C U+304C0
 
-# Group: 一 (Above) | 由・⿱一由
-U+5B99 U+2BCC2
-
 # Group: 一 (Above) | 疋・𤴕
 U+758B U+24D15
-
-# Group: 一 (Above) | 進・⿱一進
-U+2D89C U+22D98
-
-# Group: 一 (Above) | 又・⿱一又
-U+53CD U+20B21
-U+8270 U+31F47
 
 # Group: 一 (Above) | 旦・亘
 U+65E6 U+4E98
@@ -330,10 +260,6 @@ U+206EF U+20714
 # Group: 一 (Above) | 冂・𰀃
 U+5182 U+30003
 
-# Group: 一 (Above) | 九・⿱一九
-U+808D U+26635
-U+8A05 U+2796D
-
 # Group: 一 (Above) | 厶・𠫔
 U+53B6 U+20AD4
 U+3555 U+20ADB
@@ -342,6 +268,80 @@ U+2DC08 U+23D11
 
 # Group: 一 (Above) | 吊・𰀌
 U+540A U+3000C
+
+# Group: 一 (Above) | ⿱口𠕁・𠀷
+U+55E3 U+20EF8
+U+2D0EC U+2D0F4
+
+# Group: 一 (Above) | 女・⿱一女
+U+216B4 U+599B
+U+211D4 U+211ED
+U+36A2 U+2A728
+
+# Group: 一 (Above) | 勿・⿱一勿
+U+2798D U+279AF
+U+29C90 U+29CAC
+U+6613 U+661C
+U+7757 U+4051
+U+3465 U+5052
+U+20D2D U+557A
+U+57F8 U+5834
+U+36EB U+5A78
+U+2BD81 U+5D35
+U+60D5 U+6113
+U+63A6 U+63DA
+U+2BFBB U+656D
+U+6679 U+6698
+U+23231 U+66A2
+U+234FE U+694A
+U+23C62 U+6C31
+U+712C U+716C
+U+3EDB U+7452
+U+75EC U+760D
+U+254D8 U+78AD
+U+2B012 U+7993
+U+2E31D U+8178
+U+8734 U+876A
+U+27A4E U+8AF9
+U+8E22 U+8E3C
+U+9037 U+903F
+U+932B U+935A
+U+2CBC6 U+967D
+U+295FA U+98BA
+U+296FF U+9933
+U+9BE3 U+9C11
+U+6561 U+22F99
+U+2C299 U+242C1
+U+2DF5B U+24F89
+U+257D8 U+2581C
+U+25BAC U+25BD5
+U+44EA U+26CDD
+U+8CDC U+27DBD
+U+47B6 U+27F2E
+U+292CC U+292EC
+U+9D8D U+2A0CC
+U+2A569 U+2A56B
+U+88FC U+2B305
+U+247CD U+2C33A
+U+2CA89 U+2CA8C
+U+5254 U+2D0F6
+U+220E1 U+2D629
+U+7DC6 U+2E22C
+U+2DDB1 U+31B40
+
+# Group: 一 (Above) | 由・⿱一由
+U+5B99 U+2BCC2
+
+# Group: 一 (Above) | 進・⿱一進
+U+2D89C U+22D98
+
+# Group: 一 (Above) | 又・⿱一又
+U+53CD U+20B21
+U+8270 U+31F47
+
+# Group: 一 (Above) | 九・⿱一九
+U+808D U+26635
+U+8A05 U+2796D
 
 # Group: 一 (Above) | 匝・⿱一匝
 U+7BD0 U+2C563
@@ -384,9 +384,6 @@ U+56E8 U+2A8A9
 U+30AFD U+2B11E
 U+949A U+30F67
 U+2B6DC U+31256
-
-# Group: 一 (Below) | 弜・⿱弜一
-U+20C73 U+20D00
 
 # Group: 一 (Below) | 力・𫦤
 U+529B U+2B9A4
@@ -438,12 +435,6 @@ U+200A4 U+2B828
 U+86D7 U+272F0
 U+27482 U+27499
 
-# Group: 一 (Below) | 勿・⿱勿一
-U+543B U+20C4E
-
-# Group: 一 (Below) | 匆・⿱匆一
-U+20C2F U+20C71
-
 # Group: 一 (Below) | 宙・𡧹
 U+5B99 U+219F9
 
@@ -454,10 +445,6 @@ U+2B829 U+2012E
 U+2313C U+4E98
 U+22606 U+6052
 U+309F3 U+2E06D
-
-# Group: 一 (Below) | 乍・⿱乍一
-U+4F5C U+20228
-U+538F U+20A4E
 
 # Group: 一 (Below) | 壵・𰋉
 U+58F5 U+302C9
@@ -482,11 +469,24 @@ U+29201 U+2940C
 U+291FE U+2940F
 U+68D1 U+2DABE
 
-# Group: 一 (Below) | 甬・⿱甬一
-U+75DB U+308F3
-
 # Group: 一 (Below) | 淮・𰜚
 U+6DEE U+3071A
+
+# Group: 一 (Below) | 弜・⿱弜一
+U+20C73 U+20D00
+
+# Group: 一 (Below) | 勿・⿱勿一
+U+543B U+20C4E
+
+# Group: 一 (Below) | 匆・⿱匆一
+U+20C2F U+20C71
+
+# Group: 一 (Below) | 乍・⿱乍一
+U+4F5C U+20228
+U+538F U+20A4E
+
+# Group: 一 (Below) | 甬・⿱甬一
+U+75DB U+308F3
 
 # Group: 一 (Below) | 來・⿱來一
 U+20EEE U+20F82
@@ -805,11 +805,11 @@ U+29139 U+2915C
 # Group: 丶・一 (Above) | 艮・良
 U+826E U+826F
 
-# Group: 丶・一 (Above) | 氶・⿱丶氶
-U+22AD2 U+22B20
-
 # Group: 丶・一 (Above) | 匨・𫧔
 U+5328 U+2B9D4
+
+# Group: 丶・一 (Above) | 氶・⿱丶氶
+U+22AD2 U+22B20
 
 # Group: 丶・一 (Below) | 氏・氐
 U+6C0F U+6C10
@@ -1017,12 +1017,6 @@ U+536E U+20A17
 U+77F3 U+4096
 U+25534 U+25559
 
-# Group: 丶 (Inside) | 支・⿺支丶
-U+4F0E U+201DE
-
-# Group: 丶 (Inside) | 九・⿺九丶
-U+5C3B U+2B772
-
 # Group: 丶 (Inside) | 民・𫞖
 U+6C11 U+2B796
 
@@ -1043,6 +1037,15 @@ U+27266 U+272A5
 U+4B85 U+298CA
 U+2E2A5 U+2C671
 U+2B078 U+2E147
+
+# Group: 丶 (Inside) | 支・⿺支丶
+U+4F0E U+201DE
+
+# Group: 丶 (Inside) | 九・⿺九丶
+U+5C3B U+2B772
+
+# Group: 丶 (Overlay) | 盁・𫞯
+U+76C1 U+2B7AF
 
 # Group: 丶 (Overlay) | 勿・匆
 U+52FF U+5306
@@ -1083,9 +1086,6 @@ U+2C09F U+233EF
 # Group: 丶 (Overlay) | 彖・⿻彖丶
 U+217C7 U+217FC
 U+6E6A U+23EB5
-
-# Group: 丶 (Overlay) | 盁・𫞯
-U+76C1 U+2B7AF
 
 # Group: ㇒ (Above) | 冋・向
 U+518B U+5411
@@ -1132,15 +1132,6 @@ U+24211 U+24225
 U+29681 U+2028A
 U+2DA77 U+688E
 
-# Group: ㇒ (Above) | 固・⿱㇒固
-U+797B U+256BD
-
-# Group: ㇒ (Above) | 罒・⿱㇒罒
-U+776A U+777E
-U+264A1 U+264A2
-U+91CB U+2891F
-U+26B5D U+26B7E
-
 # Group: ㇒ (Above) | 皿・血
 U+76BF U+8840
 U+2594A U+419D
@@ -1172,9 +1163,6 @@ U+2505F U+2C83C
 U+9FB1 U+56DF
 U+21357 U+5816
 U+2A985 U+36F4
-
-# Group: ㇒ (Above) | 呂・⿱㇒呂
-U+68A0 U+234E1
 
 # Group: ㇒ (Above) | 田・甶
 U+7530 U+7536
@@ -1258,9 +1246,6 @@ U+2E572 U+2E57C
 U+401F U+30BF5
 U+2849A U+32158
 
-# Group: ㇒ (Above) | ⿻口儿・⿱㇒⿻口儿・𫤘
-U+26C0B U+26CA9
-
 # Group: ㇒ (Above) | 木・禾
 U+6728 U+79BE
 U+229E3 U+229FA
@@ -1310,6 +1295,21 @@ U+92AF U+2B4A0
 U+2BA79 U+2BA88
 U+7D72 U+2E214
 U+2E684 U+2E687
+
+# Group: ㇒ (Above) | 固・⿱㇒固
+U+797B U+256BD
+
+# Group: ㇒ (Above) | 罒・⿱㇒罒
+U+776A U+777E
+U+264A1 U+264A2
+U+91CB U+2891F
+U+26B5D U+26B7E
+
+# Group: ㇒ (Above) | 呂・⿱㇒呂
+U+68A0 U+234E1
+
+# Group: ㇒ (Above) | ⿻口儿・⿱㇒⿻口儿・𫤘
+U+26C0B U+26CA9
 
 # Group: ㇒ (Left) | 土・𠂒
 U+571F U+20092
@@ -1545,24 +1545,14 @@ U+3430 U+201DD
 U+56DE U+211C9
 U+2AABA U+30413
 
-# Group: 二 (Below) | 从・⿱从二
-U+2299C U+229BA
-U+2AB62 U+22B15
-
 # Group: 二 (Below) | 臧・𢨑
 U+81E7 U+22A11
-
-# Group: 二 (Below) | 各・⿱各二
-U+49C4 U+28E7F
 
 # Group: 二 (Below) | 双・𫡱
 U+53CC U+2B871
 
 # Group: 二 (Below) | 文・𫿭
 U+6587 U+2BFED
-
-# Group: 二 (Below) | 羽・⿱羽二
-U+2C3EC U+2C3F5
 
 # Group: 二 (Below) | 七・𰁕
 U+4E03 U+30055
@@ -1572,6 +1562,16 @@ U+518D U+31392
 
 # Group: 二 (Below) | 而・𱻰
 U+800C U+31EF0
+
+# Group: 二 (Below) | 从・⿱从二
+U+2299C U+229BA
+U+2AB62 U+22B15
+
+# Group: 二 (Below) | 各・⿱各二
+U+49C4 U+28E7F
+
+# Group: 二 (Below) | 羽・⿱羽二
+U+2C3EC U+2C3F5
 
 # Group: 𠆢 (Above) | 良・食
 U+826F U+98DF
@@ -1696,10 +1696,6 @@ U+28307 U+28368
 U+7524 U+2C3BC
 U+8C5A U+2C6CA
 
-# Group: 丷 (Above) | 万・⿱丷万
-U+211AD U+211CF
-U+8FC8 U+2E78D
-
 # Group: 丷 (Above) | 固・𡇤
 U+56FA U+211E4
 
@@ -1721,6 +1717,10 @@ U+2C6ED U+2982C
 
 # Group: 丷 (Above) | 𠨬・𭅐
 U+20A2C U+2D150
+
+# Group: 丷 (Above) | 万・⿱丷万
+U+211AD U+211CF
+U+8FC8 U+2E78D
 
 # Group: 八 (Above) | 女・𭑨
 U+5973 U+2D468
@@ -1788,13 +1788,6 @@ U+5765 U+315B4
 # Group: 冖 (Above) | 顛・𠖩
 U+985B U+205A9
 
-# Group: 冖 (Above) | ⿱臼勿・⿳冖臼勿
-U+23E85 U+2DCA7
-
-# Group: 冖 (Above) | 舃・⿱冖舃
-U+2486F U+248A7
-U+7361 U+248A7
-
 # Group: 冖 (Above) | 与・写
 U+4E0E U+5199
 U+321EE U+497E
@@ -1805,6 +1798,13 @@ U+3647 U+585A
 U+5544 U+2D247
 U+7422 U+2DE63
 U+24968 U+2DE63
+
+# Group: 冖 (Above) | 舃・⿱冖舃
+U+2486F U+248A7
+U+7361 U+248A7
+
+# Group: 冖 (Above) | ⿱臼勿・⿳冖臼勿
+U+23E85 U+2DCA7
 
 # Group: 亠 (Above) | 𭏲・䙝
 U+2D3F2 U+465D
@@ -1863,11 +1863,14 @@ U+540A U+2208B
 U+209EA U+209F4
 U+238E7 U+238F8
 
-# Group: 𠃊 (Outside) | 舟・⿺𠃊舟
-U+26A24 U+26A3A
-
 # Group: 𠃊 (Outside) | 𢆶・𢆸
 U+221B6 U+221B8
+
+# Group: 𠃊 (Outside) | 𦣻・𦣽
+U+268FB U+268FD
+
+# Group: 𠃊 (Outside) | 舟・⿺𠃊舟
+U+26A24 U+26A3A
 
 # Group: 𠃊 (Outside) | 米・⿺𠃊米
 U+8A78 U+46E7
@@ -1880,9 +1883,6 @@ U+2E829 U+28845
 U+2DA7D U+2AC9B
 U+6D23 U+2AD88
 U+25E55 U+2C59C
-
-# Group: 𠃊 (Outside) | 𦣻・𦣽
-U+268FB U+268FD
 
 # Group: 𠃍 (Outside) | 手・𫼓
 U+624B U+2BF13
@@ -1989,12 +1989,6 @@ U+220BF U+220EB
 U+3F9C U+24DFE
 U+57C9 U+2D3BB
 
-# Group: 匚・匸 (Outside) | 夹・⿷匚夹
-U+2BE82 U+60EC
-U+41F2 U+7BA7
-U+9655 U+2CBC5
-U+2BE81 U+3179D
-
 # Group: 匚・匸 (Outside) | 妟・匽
 U+599F U+533D
 U+4CDB U+9DA0
@@ -2006,12 +2000,6 @@ U+2A73F U+5043
 U+2A8DA U+5830
 U+2CA80 U+90FE
 U+30964 U+25214
-
-# Group: 匚・匸 (Outside) | ⿱日𭑨・⿷匸⿱日𭑨
-U+31024 U+3225E
-
-# Group: 匚・匸 (Outside) | 晏・⿷匸晏
-U+235E4 U+236BC
 
 # Group: 匚・匸 (Outside) | 隹・龨
 U+96B9 U+9FA8
@@ -2449,15 +2437,9 @@ U+5149 U+20973
 # Group: 匚・匸 (Outside) | 汵・𠥴
 U+6C75 U+20974
 
-# Group: 匚・匸 (Outside) | 女・⿷匚女
-U+6C5D U+23CD0
-
 # Group: 匚・匸 (Outside) | 虫・𧈟
 U+866B U+2721F
 U+87F2 U+274E8
-
-# Group: 匚・匸 (Outside) | 名・⿷匚名
-U+2CC43 U+294F4
 
 # Group: 匚・匸 (Outside) | 里・𪟯
 U+91CC U+2A7EF
@@ -2493,11 +2475,6 @@ U+9EC4 U+2B9D6
 # Group: 匚・匸 (Outside) | 𫯺・𫧛
 U+2BBFA U+2B9DB
 
-# Group: 匚・匸 (Outside) | 羊・⿷匚羊
-U+5F89 U+2BE56
-U+7242 U+2C304
-U+284AB U+2CA2D
-
 # Group: 匚・匸 (Outside) | 匕・𭅔
 U+5315 U+2D154
 
@@ -2526,9 +2503,6 @@ U+2389F U+2D15C
 U+6562 U+2D15E
 U+6A44 U+2377D
 
-# Group: 匚・匸 (Outside) | 兆・⿷匚兆
-U+6843 U+2DA9C
-
 # Group: 匚・匸 (Outside) | 禾・𰅤
 U+79BE U+30164
 
@@ -2555,6 +2529,32 @@ U+51B7 U+3144A
 
 # Group: 匚・匸 (Outside) | 浛・𱑋
 U+6D5B U+3144B
+
+# Group: 匚・匸 (Outside) | 夹・⿷匚夹
+U+2BE82 U+60EC
+U+41F2 U+7BA7
+U+9655 U+2CBC5
+U+2BE81 U+3179D
+
+# Group: 匚・匸 (Outside) | 名・⿷匚名
+U+2CC43 U+294F4
+
+# Group: 匚・匸 (Outside) | 羊・⿷匚羊
+U+5F89 U+2BE56
+U+7242 U+2C304
+U+284AB U+2CA2D
+
+# Group: 匚・匸 (Outside) | 兆・⿷匚兆
+U+6843 U+2DA9C
+
+# Group: 匚・匸 (Outside) | 女・⿷匚女
+U+6C5D U+23CD0
+
+# Group: 匚・匸 (Outside) | 晏・⿷匸晏
+U+235E4 U+236BC
+
+# Group: 匚・匸 (Outside) | ⿱日𭑨・⿷匸⿱日𭑨
+U+31024 U+3225E
 
 # Group: 𠘨 (Outside) | 鳥・鳯
 U+9CE5 U+9CEF
