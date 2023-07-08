@@ -1,6 +1,6 @@
 
 # File: Duplicate.txt
-# Version: 1.77
+# Version: 1.78
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 

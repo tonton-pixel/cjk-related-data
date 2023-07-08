@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Version: 1.77
+# Version: 1.78
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1678,6 +1678,9 @@ U+30960 U+77D5
 U+3144E U+535B
 U+314A2 U+3618
 
+# Group: 𫶄・𫶦
+U+2BD84 U+2BDA6
+
 # Group: 隶・隸
 U+96B6 U+96B8
 U+25BA4 U+25DD7
@@ -1911,6 +1914,7 @@ U+2CBA5 U+95A6
 U+2CBA6 U+95A2
 U+2CBA7 U+28D24
 U+2CBA8 U+499D
+U+2CBA9 U+28D7A
 U+2CBA9 U+28D46
 U+2CBAA U+95AF
 U+2CBAC U+2E912
@@ -9578,6 +9582,7 @@ U+30B0E U+7E2A
 U+31074 U+97B8
 U+311AC U+29EB7
 U+32374 U+9DDD
+U+7B5A U+7BF3
 
 # Group: 华・華
 U+534E U+83EF
@@ -9839,5 +9844,40 @@ U+2B49F U+2E8E7
 
 # Group: 涂・塗
 U+6D82 U+5857
+
+# Group: 获・穫
+U+83B7 U+7A6B
+
+# Group: 竞・競
+U+7ADE U+7AF6
+
+# Group: 筑・築
+U+7B51 U+7BC9
+U+30527 U+2D8CA
+
+# Group: 虽・雖
+U+867D U+96D6
+U+20DE3 U+2112A
+
+# Group: 誊・謄
+U+8A8A U+8B04
+
+# Group: 胡・衚
+U+80E1 U+885A
+
+# Group: 胡・鬍
+U+80E1 U+9B0D
+
+# Group: 致・緻
+U+81F4 U+7DFB
+
+# Group: 系・係
+U+7CFB U+4FC2
+U+2BA88 U+55BA
+U+2CBA9 U+28D7A
+U+28D46 U+28D7A
+
+# Group: 系・繫
+U+7CFB U+7E6B
 
 # EOF
