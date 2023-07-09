@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.79
+# Version: 1.80
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1387,6 +1387,9 @@ U+5DFE U+5E01
 U+5E03 U+2205B
 U+5E11 U+220AC
 
+# Group: ㇒ (Above) | 𥃭・𭾜
+U+250ED U+2DF9C
+
 # Group: ㇒ (Above) | 固・⿱㇒固
 U+797B U+256BD
 
@@ -1849,6 +1852,9 @@ U+20A2C U+2D150
 # Group: 丷 (Above) | 帀・𱜢
 U+5E00 U+31722
 
+# Group: 丷 (Above) | 天・关
+U+5929 U+5173
+
 # Group: 丷 (Above) | 万・⿱丷万
 U+211AD U+211CF
 U+8FC8 U+2E78D
@@ -1894,13 +1900,13 @@ U+2031B U+203A1
 U+226A7 U+2274A
 U+23D28 U+6E4F
 U+294D1 U+2950A
-U+29B48 U+4C05
 U+2C6ED U+294D1
 U+2C6ED U+2950A
 U+22373 U+9868
-U+2DBAE U+2DBB7
 U+29823 U+2952F
 U+2982A U+2955D
+U+29B48 U+4C05
+U+2DBAE U+2DBB7
 
 # Group: 八 (Overlay) | 𱜢・𱜣
 U+31722 U+31723
@@ -2040,6 +2046,9 @@ U+27F00 U+30DFA
 
 # Group: 十 (Above) | 目・𥃭
 U+76EE U+250ED
+U+5177 U+771F
+U+2A72E U+2024A
+U+21A48 U+21A7C
 
 # Group: 𠃊 (Outside) | 𠧪・𠧴
 U+209EA U+209F4
@@ -2074,6 +2083,9 @@ U+76F8 U+53A2
 
 # Group: ⺄ (Outside) | 相・𱎈
 U+76F8 U+31388
+
+# Group: ⺄ (Outside) | 辯・𨐾
+U+8FAF U+2843E
 
 # Group: ⺄ (Outside) | 木・⿹⺄木
 U+262A7 U+262BB
@@ -2110,8 +2122,25 @@ U+2798B U+2C8A9
 # Group: 勹 (Outside) | 幺・𠣎
 U+5E7A U+208CE
 
+# Group: 勹 (Outside) | 言・訇
+U+8A00 U+8A07
+U+23D67 U+6E39
+U+289BC U+9367
+U+4A67 U+97AB
+U+22698 U+22741
+U+3069D U+23BB4
+U+72FA U+247FC
+U+40B4 U+25500
+U+5501 U+2A861
+U+44C2 U+2E3F9
+U+8AA9 U+30D40
+
 # Group: 勹 (Outside) | 𢆰・⿹勹𢆰
 U+2635D U+2637F
+
+# Group: 勹 (Outside) | 幸・⿹勹幸
+U+259AD U+259D7
+U+2B210 U+26D73
 
 # Group: 匚・匸 (Outside) | 贵・匮
 U+8D35 U+532E
