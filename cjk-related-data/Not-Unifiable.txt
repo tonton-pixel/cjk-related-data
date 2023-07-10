@@ -1,6 +1,6 @@
 
 # File: Not-Unifiable.txt
-# Version: 1.81
+# Version: 1.82
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
