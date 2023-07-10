@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Version: 1.82
+# Version: 1.83
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -821,6 +821,7 @@ U+7169 U+2AE7A
 U+233F9 U+68EA U+31919
 U+233E6 U+234F3 U+71CA
 U+242FC U+2441E
+U+24338 U+27123
 
 # Group: 贝
 U+8D1D U+320BB U+8D51
