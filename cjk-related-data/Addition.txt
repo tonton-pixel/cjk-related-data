@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.83
+# Version: 1.84
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1923,6 +1923,9 @@ U+5973 U+2D468
 U+29DD1 U+311B6
 U+9681 U+3225E
 
+# Group: 八 (Above) | 畨・𠔪
+U+7568 U+2052A
+
 # Group: 八 (Above) | 𣶒・⿱八𣶒
 U+26A93 U+26AB2
 
@@ -2149,8 +2152,8 @@ U+221B6 U+221B8
 # Group: 𠃊 (Outside) | 𦣻・𦣽
 U+268FB U+268FD
 
-# Group: 𠃊 (Outside) | 舟・⿺𠃊舟
-U+26A24 U+26A3A
+# Group: 𠃊 (Outside) | 匊・𰪨
+U+530A U+30AA8
 
 # Group: 𠃊 (Outside) | 米・⿺𠃊米
 U+8A78 U+46E7
@@ -2163,6 +2166,9 @@ U+2E829 U+28845
 U+2DA7D U+2AC9B
 U+6D23 U+2AD88
 U+25E55 U+2C59C
+
+# Group: 𠃊 (Outside) | 舟・⿺𠃊舟
+U+26A24 U+26A3A
 
 # Group: 𠃍 (Outside) | 手・𫼓
 U+624B U+2BF13
@@ -2229,6 +2235,33 @@ U+40B4 U+25500
 U+5501 U+2A861
 U+44C2 U+2E3F9
 U+8AA9 U+30D40
+
+# Group: 勹 (Outside) | 米・匊
+U+7C73 U+530A
+U+2263A U+394C
+U+24778 U+3E7C
+U+4C4A U+4C61
+U+32350 U+311FD
+U+2BC24 U+5A45
+U+22B0A U+63AC
+U+2DA7D U+6908
+U+6BE9 U+6BF1
+U+6D23 U+6DD7
+U+25E6B U+7CB7
+U+31F65 U+83CA
+U+8A78 U+8ACA
+U+28037 U+8E18
+U+2A03F U+9D74
+U+2A32C U+9EB4
+U+312D5 U+9EB9
+U+30926 U+9FBE
+U+7C8D U+23B95
+U+25B41 U+25B97
+U+92A4 U+28A20
+U+4292 U+28FE5
+U+257AA U+2E0CC
+U+42DB U+2E21C
+U+27D75 U+30DC8
 
 # Group: 勹 (Outside) | 𢆰・⿹勹𢆰
 U+2635D U+2637F
