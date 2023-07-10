@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.84
+# Version: 1.85
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -210,6 +210,9 @@ U+22A7C U+304C0
 # Group: 一 (Above) | 疋・𤴕
 U+758B U+24D15
 
+# Group: 一 (Above) | 日・𣄼
+U+65E5 U+2313C
+
 # Group: 一 (Above) | 旦・亘
 U+65E6 U+4E98
 U+89DB U+4699
@@ -288,6 +291,68 @@ U+53B6 U+20AD4
 U+3555 U+20ADB
 U+20AE1 U+233CF
 U+2DC08 U+23D11
+
+# Group: 一 (Above) | 丅・𬼽
+U+4E05 U+2CF3D
+
+# Group: 一 (Above) | 丁・亍
+U+4E01 U+4E8D
+
+# Group: 一 (Above) | 个・𫠡
+U+4E2A U+2B821
+
+# Group: 一 (Above) | 弋・𢍼
+U+5F0B U+2237C
+
+# Group: 一 (Above) | 戈・𢦌
+U+6208 U+2298C
+
+# Group: 一 (Above) | 𰆊・𪜁
+U+3018A U+2A701
+
+# Group: 一 (Above) | 刀・𬺳
+U+5200 U+2CEB3
+
+# Group: 一 (Above) | 尸・戸
+U+5C38 U+6238
+U+5C5D U+6249
+U+31971 U+6CAA
+U+2BD54 U+80A9
+U+28F88 U+96C7
+U+3567 U+20BD6
+U+6F0F U+23FA1
+U+28AD2 U+2E8C0
+U+9CF2 U+29FC7	≈
+U+4CA9 U+9CF8	≈
+
+# Group: 一 (Above) | 户・戶・𢨥
+U+6237 U+22A25
+U+6236 U+22A25
+
+# Group: 一 (Above) | 田・𰢴
+U+7530 U+308B4
+
+# Group: 一 (Above) | 牛・𤘔
+U+725B U+24614
+U+23AAC U+246B2
+
+# Group: 一 (Above) | 丸・𪜂
+U+4E38 U+2A702
+
+# Group: 一 (Above) | 君・𠰶
+U+541B U+20C36
+
+# Group: 一 (Above) | 䏌・𣍡
+U+43CC U+23361
+
+# Group: 一 (Above) | 足・𧾸
+U+8DB3 U+27FB8
+
+# Group: 一 (Above) | 州・𠀦
+U+5DDE U+20026
+
+# Group: 一 (Above) | 血・𮕜
+U+8840 U+2E55C
 
 # Group: 一 (Above) | 吊・𰀌
 U+540A U+3000C
@@ -501,6 +566,9 @@ U+6DEE U+3071A
 
 # Group: 一 (Below) | 𥃭・𥄂
 U+250ED U+25102
+
+# Group: 一 (Below) | 𰢴・𱰥
+U+308B4 U+31C25
 
 # Group: 一 (Below) | 弜・⿱弜一
 U+20C73 U+20D00
@@ -1680,10 +1748,68 @@ U+36A2 U+4F5E
 # Group: 二 (Above) | 心・忈
 U+5FC3 U+5FC8
 
+# Group: 二 (Above) | 及・𠄦
+U+53CA U+20126
+
+# Group: 二 (Above) | 𡇂・𠄰
+U+211C2 U+20130
+
+# Group: 二 (Above) | 劫・𠄳
+U+52AB U+20133
+
+# Group: 二 (Above) | 排・𠄽
+U+6392 U+2013D
+
+# Group: 二 (Above) | 區・𠄾
+U+5340 U+2013E
+
+# Group: 二 (Above) | 圍・𠄿
+U+570D U+2013F
+
+# Group: 二 (Above) | 門・𨳏
+U+9580 U+28CCF
+U+711B U+28D19
+U+95B5 U+28D84
+
+# Group: 二 (Above) | 輕・𫡸
+U+8F15 U+2B878
+
+# Group: 二 (Above) | 尺・𰁗
+U+5C3A U+30057
+
+# Group: 二 (Above) | 𢼂・𱎓
+U+22F02 U+31393
+
+# Group: 二 (Above) | 堆・𱎕
+U+5806 U+31395
+
 # Group: 二 (Above) | 水・⿱二水
 U+2AC79 U+67E1
 U+2B48E U+92A2
 U+7553 U+2DED1
+
+# Group: 二 (Above) | 口・⿱二口
+U+3430 U+201D9
+
+# Group: 二 (Above) | 日・⿱二日
+U+2054C U+20559
+U+65EC U+208DA
+U+21C36 U+21C54
+
+# Group: 二 (Above) | 且・⿱二且
+U+924F U+2CAD6
+
+# Group: 二 (Above) | 貝・⿱二貝
+U+27D2E U+8CB3
+U+20317 U+3483
+U+235BF U+6A32
+U+30DB7 U+238EC
+
+# Group: 二 (Above) | 用・⿱二用
+U+23CD4 U+23D4B
+
+# Group: 二 (Above) | 言・⿱二言
+U+8A07 U+2797B
 
 # Group: 二 (Below) | 山・亗
 U+5C71 U+4E97
@@ -1926,6 +2052,9 @@ U+9681 U+3225E
 # Group: 八 (Above) | 畨・𠔪
 U+7568 U+2052A
 
+# Group: 八 (Above) | 及・𠬬
+U+53CA U+20B2C
+
 # Group: 八 (Above) | 𣶒・⿱八𣶒
 U+26A93 U+26AB2
 
@@ -2012,6 +2141,9 @@ U+5929 U+20579
 
 # Group: 冖 (Above) | 关・𡗺
 U+5173 U+215FA
+
+# Group: 冖 (Above) | 及・⿱冖及
+U+6C72 U+23D04
 
 # Group: 冖 (Above) | 舃・⿱冖舃
 U+2486F U+248A7
