@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.85
+# Version: 1.86
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -437,6 +437,9 @@ U+7BD0 U+2C563
 # Group: 一 (Above) | 𣶒・⿱一𣶒
 U+87F0 U+2745B
 U+26AB2 U+26ABA
+
+# Group: 一 (Above) | 卯・⿱一卯
+U+212A7 U+212EB
 
 # Group: 一 (Below) | 不・丕
 U+4E0D U+4E15
@@ -2142,6 +2145,9 @@ U+5929 U+20579
 # Group: 冖 (Above) | 关・𡗺
 U+5173 U+215FA
 
+# Group: 冖 (Above) | 辰・𫤹
+U+8FB0 U+2B939
+
 # Group: 冖 (Above) | 及・⿱冖及
 U+6C72 U+23D04
 
@@ -2247,7 +2253,7 @@ U+279FE U+2C8B5
 U+47FA U+2E6F6
 U+27F00 U+30DFA
 
-# Group: ⺊ (Above) | 早・卓
+# Group: ⺊ (Above) | 日・⿱⺊日
 U+65E9 U+5353
 U+8349 U+44EC
 U+2C2B3 U+3DF9
@@ -2267,12 +2273,33 @@ U+2E872 U+92FD
 U+30079 U+502C
 U+309B8 U+40BD
 U+31AC1 U+712F
+U+3AD7 U+21963
 
 # Group: 十 (Above) | 目・𥃭
 U+76EE U+250ED
 U+5177 U+771F
 U+2A72E U+2024A
 U+21A48 U+21A7C
+
+# Group: 龴 (Above) | 丑・⿱龴丑
+U+43D4 U+266B2
+U+626D U+22B1F
+
+# Group: 龴 (Above) | 田・⿱龴田
+U+7551 U+2DD36
+
+# Group: 厶 (Above) | 丑・⿱厶丑
+U+28CDE U+28D18
+
+# Group:  (Above) | 丑・⿱丑
+U+7084 U+24213
+U+7D10 U+25FF2
+U+43D4 U+266D1
+U+30C2A U+26B8A
+U+2867A U+286C4
+
+# Group: ⺈ (Above) | 丑・⿱⺈丑
+U+626D U+22B06
 
 # Group: 𠃊 (Outside) | 𠧪・𠧴
 U+209EA U+209F4
@@ -2328,6 +2355,9 @@ U+7C73 U+2D068
 U+25B41 U+25BAB
 U+24944 U+30882
 U+28037 U+30E17
+
+# Group: 冂 (Outside) | 壬・𰃧
+U+58EC U+300E7
 
 # Group: 冂 (Outside) | 并・⿵冂并
 U+6D34 U+2DC32
