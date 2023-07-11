@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.86
+# Version: 1.87
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -2291,6 +2291,27 @@ U+7551 U+2DD36
 # Group: 厶 (Above) | 丑・⿱厶丑
 U+28CDE U+28D18
 
+# Group: 厶 (Above) | 牛・牟
+U+725B U+725F
+U+2BC14 U+36CC
+U+30B8A U+43EC
+U+4EF6 U+4F94
+U+543D U+54DE
+U+3B4C U+6859
+U+23B33 U+6BEA
+U+6C7C U+6D20
+U+27256 U+86D1
+U+921D U+927E
+U+7262 U+219F7
+U+726A U+24685
+U+31DF4 U+25B4F
+U+42C5 U+25FF5
+U+449C U+26B77
+U+2B4BB U+28B28
+U+28CEF U+28D0D
+U+29D60 U+29DA2
+U+22AA7 U+317F5
+
 # Group:  (Above) | 丑・⿱丑
 U+7084 U+24213
 U+7D10 U+25FF2
@@ -2358,6 +2379,12 @@ U+28037 U+30E17
 
 # Group: 冂 (Outside) | 壬・𰃧
 U+58EC U+300E7
+
+# Group: 冂 (Outside) | 巳・囘
+U+5DF3 U+56D8
+U+29D57 U+29DA0
+U+6C5C U+2DC01
+U+28456 U+2E789
 
 # Group: 冂 (Outside) | 并・⿵冂并
 U+6D34 U+2DC32
