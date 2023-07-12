@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.90
+# Version: 1.91
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1925,6 +1925,9 @@ U+540A U+3007B
 # Group: 𠆢 (Above) | 𰀄・仺
 U+30004 U+4EFA
 
+# Group: 𠆢 (Above) | 市・𠇰
+U+5E02 U+201F0
+
 # Group: 丷 (Above) | 开・并
 U+5F00 U+5E76
 U+248FF U+3EC2
@@ -2092,6 +2095,46 @@ U+29B53 U+29B88
 U+5512 U+2A867
 U+918E U+2E842
 
+# Group: 丷・八 (Above) | 兄・兑・兌
+U+5144 U+5151
+U+5144 U+514C
+U+5CB2 U+37CB
+U+29487 U+4AC4
+U+296B6 U+4B3D
+U+3446 U+4FBB
+U+2047D U+5157
+U+26BC7 U+8412
+U+26BC7 U+26CC6
+U+546A U+54FE
+U+36BE U+5A27
+U+6033 U+60A6
+U+6033 U+6085
+U+62C0 U+635D
+U+62C0 U+6329
+U+22F19 U+655A	≈
+U+22F19 U+6553	≈
+U+67F7 U+68C1
+U+67F7 U+68B2
+U+6CC1 U+6D9A
+U+6CC1 U+6D97
+U+31C4E U+75E5
+U+795D U+7971
+U+2578F U+7A0E
+U+2578F U+7A05
+U+23366 U+8131
+U+2667F U+8131
+U+23366 U+812B
+U+2667F U+812B
+U+26B3A U+838C
+U+8A4B U+8AAC
+U+8A4B U+8AAA
+U+3ADB U+231CB
+U+7716 U+2519F
+U+8EE6 U+28314
+U+2E788 U+284DA
+U+8CBA U+2B399
+U+21DA2 U+316EF
+
 # Group: 八 (Above) | 女・𭑨
 U+5973 U+2D468
 U+29DD1 U+311B6
@@ -2146,6 +2189,10 @@ U+29823 U+2952F
 U+2982A U+2955D
 U+29B48 U+4C05
 U+2DBAE U+2DBB7
+
+# Group: 八 (Below) | 𥃭・𰶱
+U+250ED U+30DB1
+U+76FE U+8CAD
 
 # Group: 八 (Overlay) | 𱜢・𱜣
 U+31722 U+31723
@@ -2323,6 +2370,9 @@ U+309B8 U+40BD
 U+31AC1 U+712F
 U+3AD7 U+21963
 
+# Group: ⺊ (Above) | 厈・𢆌
+U+5388 U+2218C
+
 # Group: 十 (Above) | 目・𥃭
 U+76EE U+250ED
 U+5177 U+771F
@@ -2369,6 +2419,9 @@ U+5185 U+20AE3
 
 # Group: 厶 (Above) | 丙・𠫧
 U+4E19 U+20AE7
+
+# Group: 厶 (Inside) | 鋭・𫒵
+U+92ED U+2B4B5
 
 # Group:  (Above) | 丑・⿱丑
 U+7084 U+24213

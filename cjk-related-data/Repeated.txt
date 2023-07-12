@@ -1,6 +1,6 @@
 
 # File: Repeated.txt
-# Version: 1.90
+# Version: 1.91
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1571,8 +1571,9 @@ U+2A38C U+312ED
 U+8ECA U+485B U+8F5F U+283FF
 U+8F1A U+283D6
 
-# Group: 兑
+# Group: 兑・兌
 U+5151
+U+514C
 U+7D90 U+261B3
 U+4FBB U+300BC	≈
 
@@ -1909,6 +1910,10 @@ U+25ACB
 
 # Group: ⿱生立
 U+2414F
+
+# Group: 𰲚
+U+30C9A
+U+28F6F
 
 # Group: 豈
 U+8C48
