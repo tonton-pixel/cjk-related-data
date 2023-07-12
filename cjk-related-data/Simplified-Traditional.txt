@@ -1,6 +1,6 @@
 
 # File: Simplified-Traditional.txt
-# Version: 1.88
+# Version: 1.89
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -7927,6 +7927,12 @@ U+4E86 U+77AD
 
 # Group: 习・習
 U+4E60 U+7FD2
+U+2E866 U+28AE7
+U+317EC U+647A
+
+# Group: 斤・習
+U+65A4 U+7FD2
+U+6298 U+647A
 
 # Group: 怱・悤
 U+6031 U+60A4

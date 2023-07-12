@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Version: 1.88
+# Version: 1.89
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
