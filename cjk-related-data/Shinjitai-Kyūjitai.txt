@@ -1,6 +1,6 @@
 
 # File: Shinjitai-Kyūjitai.txt
-# Version: 1.89
+# Version: 1.90
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1049,9 +1049,6 @@ U+72ED U+72F9
 
 # Group: 来・來
 U+6765 U+4F86
-
-# Group: 畳・疊
-U+7573 U+758A
 
 # Group: ⿱爫夫・奚
 U+6E13 U+6EAA
