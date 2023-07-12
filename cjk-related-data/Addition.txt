@@ -1,6 +1,6 @@
 
 # File: Addition.txt
-# Version: 1.91
+# Version: 1.92
 # License: MIT
 # Copyright: (c) 2023 Michel Mariani
 
@@ -1187,6 +1187,34 @@ U+27266 U+272A5
 U+4B85 U+298CA
 U+2E2A5 U+2C671
 U+2B078 U+2E147
+
+# Group: 丶 (Inside) | 𭀠・𭀣
+U+2D020 U+2D023
+
+# Group: 丶 (Inside) | 免・兔
+U+514D U+5154
+U+5195 U+20564
+U+51C2 U+205DF
+U+5A29 U+5A4F
+U+21A1A U+5BC3
+U+633D U+22BC2
+U+689A U+3B78
+U+83AC U+83DF
+U+9BB8 U+29E03
+U+20B0D U+3559
+U+2190E U+3736
+U+20824 U+20825
+U+25999 U+259B1
+U+25C43 U+25CFF
+U+298E6 U+298EE
+U+29F83 U+29F85
+U+5B0E U+5B14
+U+284DC U+9038
+U+30272 U+580D
+U+20CB6 U+301F3
+U+2E514 U+2E51B
+U+2918A U+4A32
+U+21933 U+2193A
 
 # Group: 丶 (Inside) | 申・⿸申丶
 U+2DB87 U+23A03
@@ -2419,6 +2447,25 @@ U+5185 U+20AE3
 
 # Group: 厶 (Above) | 丙・𠫧
 U+4E19 U+20AE7
+
+# Group: 厶 (Inside) | ⿱甶儿・鬼
+U+2307D U+9B41
+U+26F04 U+2C7B4
+U+2885B U+29CDC
+U+29C86 U+9B3D
+U+29D2B U+2B64E
+U+2CD40 U+29CDB
+U+2EADC U+29C93
+
+# Group: 厶 (Inside) | 𥞷・𥠎
+U+257B7 U+2580E
+
+# Group: 厶 (Inside) | 免・𪞁
+U+514D U+2A781
+U+284DC U+2B436
+
+# Group: 厶 (Inside) | 𭀠・𭀥
+U+2D020 U+2D025
 
 # Group: 厶 (Inside) | 鋭・𫒵
 U+92ED U+2B4B5
